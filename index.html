@@ -15,7 +15,9 @@
       <span id="count"></span>
       <button id="add-btn" onclick="togglePickMode()">📍 Xəritədən seç</button>
       <button id="add-btn" style="background:#378ADD;" onclick="openPanel(null)">+ Əl ilə əlavə et</button>
+      <button id="add-btn" style="background:#5e35b1;" onclick="reloadData()">🔄 Yenidən yüklə</button>
       <button id="add-btn" style="background:#b71c1c;" onclick="resetData()">↺ Sıfırla</button>
+      <button id="save-btn" onclick="saveChanges()">💾 Dəyişiklikləri yadda saxla</button>
     </div>
   </header>
 
@@ -36,42 +38,14 @@
     </h2>
 
     <div class="form-group">
-      <label>Obyekt adı *</label>
-      <input type="text" id="f-name" placeholder="məs. Mərdəkan yaşayış binası №5"/>
-    </div>
-
-    <div class="form-group">
       <label>Ünvan *</label>
       <input type="text" id="f-address" placeholder="məs. Xəzər r., Mərdəkan, Küç. 10"/>
     </div>
 
-    <div class="form-group">
-      <label>Bina növü *</label>
-      <select id="f-type">
-        <option value="yasayis">Yaşayış</option>
-        <option value="kommersiya">Kommersiya</option>
-        <option value="istirahət">İstirahət</option>
-        <option value="dini">Dini</option>
-        <option value="ictimai">İctimai</option>
-        <option value="dövlət">Dövlət əhəmiyyətli</option>
-      </select>
+    <div id="registrations-container">
+      <!-- Rows will be added here -->
     </div>
-
-    <div class="form-row">
-      <div class="form-group">
-        <label>Mərtəbə sayı *</label>
-        <input type="number" id="f-floors" min="1" max="100" placeholder="məs. 5"/>
-      </div>
-      <div class="form-group">
-        <label>Tikilmə ili *</label>
-        <input type="number" id="f-year" min="1000" max="2100" placeholder="məs. 2005"/>
-      </div>
-    </div>
-
-    <div class="form-group">
-      <label>Sakin sayı (yaşayış üçün)</label>
-      <input type="number" id="f-residents" min="0" placeholder="məs. 120"/>
-    </div>
+    <button type="button" id="add-registration-btn" onclick="addRegistration()" style="background:#378ADD; color:#fff; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; margin-bottom:10px;">+ Yeni qeydiyyat əlavə et</button>
 
     <div class="form-row">
       <div class="form-group">
@@ -96,33 +70,6 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script>
-    const colorMap = {
-      yasayis:    '#1D9E75',
-      kommersiya: '#378ADD',
-      'istirahət':'#EF9F27',
-      dini:       '#D4537E',
-      ictimai:    '#7F77DD',
-      'dövlət':   '#e53935'
-    };
-
-    const labelMap = {
-      yasayis:    'Yaşayış',
-      kommersiya: 'Kommersiya',
-      'istirahət':'İstirahət',
-      dini:       'Dini',
-      ictimai:    'İctimai',
-      'dövlət':   'Dövlət əhəmiyyətli'
-    };
-
-    const badgeClass = {
-      yasayis:    'b-yasayis',
-      kommersiya: 'b-kommersiya',
-      'istirahət':'b-istirahət',
-      dini:       'b-dini',
-      ictimai:    'b-ictimai',
-      'dövlət':   'b-dövlət'
-    };
-
     const map = L.map('map').setView([40.5160, 50.1670], 15);
 
     L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
@@ -135,51 +82,35 @@
     let nextId = 100;
     let pickMode = false;
 
-    function makeIcon(type) {
-      const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="28" height="36" viewBox="0 0 28 36">
-        <path d="M14 0C6.27 0 0 6.27 0 14c0 9.5 14 22 14 22S28 23.5 28 14C28 6.27 21.73 0 14 0z"
-          fill="${colorMap[type] || '#888'}" stroke="white" stroke-width="2"/>
-        <circle cx="14" cy="14" r="6" fill="white" opacity="0.9"/>
+    function makeIcon(label = '') {
+      const text = label ? label.split(' ')[0].substring(0, 2).toUpperCase() : 'KÜ';
+      const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="34" height="42" viewBox="0 0 34 42">
+        <path d="M17 0C7.63 0 0 7.63 0 17c0 11.55 17 26.5 17 26.5S34 28.55 34 17C34 7.63 26.37 0 17 0z"
+          fill="#378ADD" stroke="white" stroke-width="2"/>
+        <text x="17" y="24" text-anchor="middle" font-size="12" font-family="Arial, sans-serif" fill="#fff" font-weight="700">${text}</text>
       </svg>`;
       return L.divIcon({
         html: svg,
         className: '',
-        iconSize: [28, 36],
-        iconAnchor: [14, 36],
-        popupAnchor: [0, -38]
+        iconSize: [34, 42],
+        iconAnchor: [17, 42],
+        popupAnchor: [0, -42]
       });
     }
 
     function makePopup(b) {
-      const resRow = b.residents > 0
-        ? `<div class="popup-row">
-            <span class="popup-lbl">Sakin sayı</span>
-            <span class="popup-val">${b.residents} nəfər</span>
-           </div>` : '';
-
       return `
         <div class="popup-inner">
-          <div class="popup-header">${b.name}</div>
-          <div class="popup-row">
-            <span class="popup-lbl">Ünvan</span>
-            <span class="popup-val">${b.address}</span>
-          </div>
-          <div class="popup-row">
-            <span class="popup-lbl">Növ</span>
-            <span class="popup-val">
-              <span class="badge ${badgeClass[b.type] || ''}">${labelMap[b.type] || b.type}</span>
-            </span>
-          </div>
-          <div class="popup-row">
-            <span class="popup-lbl">Mərtəbə</span>
-            <span class="popup-val">${b.floors} mərtəbə</span>
-          </div>
-          ${resRow}
-          <div class="popup-row">
-            <span class="popup-lbl">Tikilmə ili</span>
-            <span class="popup-val">${b.year}</span>
+          <div class="popup-header">${b.address}</div>
+          <div style="margin-top:10px; padding:8px; background:#1a3a52; border-radius:6px; border-left:3px solid #378ADD; margin-bottom:10px; font-size:11px; color:#90caf9;">
+            <strong>Seçilən ünvan:</strong><br/>${b.address}
           </div>
           <div style="margin-top:10px;">
+            <button onclick="copyBuildingToForm(${b.id})" style="
+              width:100%; padding:7px; background:#378ADD; color:#fff;
+              border:none; border-radius:6px; font-size:12px; cursor:pointer; margin-bottom:8px;">
+              Formaya köçür
+            </button>
             <button onclick="deleteBuilding(${b.id})" style="
               width:100%; padding:7px; background:#b71c1c; color:#fff;
               border:none; border-radius:6px; font-size:12px; cursor:pointer;">
@@ -190,10 +121,49 @@
     }
 
     function addMarker(b) {
-      const marker = L.marker([b.lat, b.lng], { icon: makeIcon(b.type) })
+      const marker = L.marker([b.lat, b.lng], { icon: makeIcon(b.address) })
         .addTo(map)
-        .bindPopup(makePopup(b), { maxWidth: 280 });
+        .bindPopup(makePopup(b), { 
+          maxWidth: 320,
+          offset: L.point(0, -40),
+          autoPan: true,
+          keepInView: true
+        });
       markers[b.id] = marker;
+    }
+
+    function copyBuildingToForm(id) {
+      const building = allBuildings.find(b => b.id === id);
+      if (!building) return;
+
+      document.getElementById('f-address').value = building.address || '';
+      document.getElementById('f-lat').value = building.lat ?? '';
+      document.getElementById('f-lng').value = building.lng ?? '';
+
+      openPanel(null, false);
+      const container = document.getElementById('registrations-container');
+      container.innerHTML = '';
+      const lines = building.registered.split('\n').map(line => line.trim()).filter(line => line);
+      const registrations = lines.map(line => {
+        const parts = line.split(/\s+ev\s+№/i);
+        const name = (parts[0] || '').trim();
+        const house = (parts[1] || '').trim();
+        return { name, house, raw: line };
+      });
+
+      registrations.sort((a, b) => {
+        const aNum = parseFloat(a.house);
+        const bNum = parseFloat(b.house);
+        const aNumValid = !isNaN(aNum);
+        const bNumValid = !isNaN(bNum);
+        if (aNumValid && bNumValid && aNum !== bNum) return aNum - bNum;
+        if (a.house && b.house && a.house !== b.house) return a.house.localeCompare(b.house, 'az', { numeric: true, sensitivity: 'base' });
+        return a.name.localeCompare(b.name, 'az', { sensitivity: 'base' });
+      });
+
+      registrations.forEach(reg => addRegistration(reg.name, reg.house));
+
+      if (markers[id]) markers[id].closePopup();
     }
 
     function deleteBuilding(id) {
@@ -211,9 +181,14 @@
       document.getElementById('count').textContent = allBuildings.length + ' obyekt';
     }
 
+    const DATA_FILE = 'data/voters.json';
+    const STORAGE_KEY = 'all_buildings';
+    const STORAGE_SOURCE = 'all_buildings_source';
+
     function loadBuildings() {
-      const stored = localStorage.getItem('all_buildings');
-      if (stored) {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      const source = localStorage.getItem(STORAGE_SOURCE);
+      if (stored && source === 'voters') {
         allBuildings = JSON.parse(stored);
         allBuildings.forEach(b => addMarker(b));
         updateCount();
@@ -221,40 +196,114 @@
           ? Math.max(...allBuildings.map(b => b.id)) + 1
           : 100;
       } else {
-        fetch('data/buildings.json')
-          .then(res => res.json())
-          .then(buildings => {
-            allBuildings = buildings;
-            localStorage.setItem('all_buildings', JSON.stringify(allBuildings));
-            allBuildings.forEach(b => addMarker(b));
-            updateCount();
-            nextId = Math.max(...allBuildings.map(b => b.id)) + 1;
-          });
+        loadFromSource();
       }
     }
 
+    function loadFromSource() {
+      fetch(DATA_FILE)
+        .then(res => res.json())
+        .then(buildings => {
+            const addressGroups = buildings.reduce((groups, b) => {
+              const fullAddress = (b.address || '').trim() || 'Naməlum';
+              if (!groups[fullAddress]) {
+                groups[fullAddress] = { address: fullAddress, registered: [], latSum: 0, lngSum: 0, count: 0 };
+              }
+              const registeredLine = b.registered || `${b.name || ''}${(b.address && b.address.match(/ev\s*[\d\/\w]+/i)) ? ' ' + b.address.match(/ev\s*[\d\/\w]+/i)[0] : ''}`.trim();
+              if (registeredLine) {
+                groups[fullAddress].registered.push(registeredLine);
+              }
+              groups[fullAddress].latSum += parseFloat(b.lat) || 0;
+              groups[fullAddress].lngSum += parseFloat(b.lng) || 0;
+              groups[fullAddress].count += 1;
+              return groups;
+            }, {});
+
+            allBuildings = Object.values(addressGroups).map((group, index) => ({
+              id: 100 + index,
+              address: group.address,
+              registered: group.registered.join('\n'),
+              lat: group.count ? group.latSum / group.count : 40.5160,
+              lng: group.count ? group.lngSum / group.count : 50.1670
+            }));
+
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(allBuildings));
+            localStorage.setItem(STORAGE_SOURCE, 'voters');
+            allBuildings.forEach(b => addMarker(b));
+            updateCount();
+            nextId = allBuildings.length > 0 ? Math.max(...allBuildings.map(b => b.id)) + 1 : 100;
+          });
+    }
+
     function resetData() {
-      if (!confirm('Bütün dəyişikliklər silinəcək, buildings.json-a qayıdacaq. Davam edilsin?')) return;
-      localStorage.removeItem('all_buildings');
+      if (!confirm('Bütün dəyişikliklər silinəcək, seçici məlumatlarına qayıdacaq. Davam edilsin?')) return;
+      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(STORAGE_SOURCE);
       Object.values(markers).forEach(m => map.removeLayer(m));
       markers = {};
       allBuildings = [];
       loadBuildings();
     }
 
+    function reloadData() {
+      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(STORAGE_SOURCE);
+      Object.values(markers).forEach(m => map.removeLayer(m));
+      markers = {};
+      allBuildings = [];
+      loadFromSource();
+    }
+
+    function saveChanges() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(allBuildings));
+      localStorage.setItem(STORAGE_SOURCE, 'voters');
+      alert('Dəyişikliklər yadda saxlanıldı. Saytı bağlasanız belə məlumatlar qalacaq.');
+    }
+
     loadBuildings();
 
-    function openPanel(coords) {
-      if (coords) {
-        document.getElementById('f-lat').value = coords.lat.toFixed(6);
-        document.getElementById('f-lng').value = coords.lng.toFixed(6);
+    function addRegistration(name = '', house = '') {
+      const container = document.getElementById('registrations-container');
+      const row = document.createElement('div');
+      row.className = 'registration-row';
+      row.innerHTML = `
+        <div class="form-group">
+          <label>Ad Soyad *</label>
+          <input type="text" class="f-name" placeholder="məs. Pünhan Babazadə" value="${name}"/>
+        </div>
+        <div class="form-group">
+          <label>Ev nömrəsi *</label>
+          <input type="text" class="f-house-number" placeholder="məs. 1501" value="${house}"/>
+        </div>
+        <button type="button" onclick="removeRegistration(this)" style="margin-top:20px; background:#b71c1c; color:#fff; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">-</button>
+      `;
+      container.appendChild(row);
+    }
+
+    function removeRegistration(btn) {
+      const container = document.getElementById('registrations-container');
+      if (container.children.length > 1) {
+        btn.parentElement.remove();
+      } else {
+        alert('Ən azı bir qeydiyyat olmalıdır.');
       }
-      document.getElementById('side-panel').classList.add('open');
     }
 
     function closePanel() {
       document.getElementById('side-panel').classList.remove('open');
       document.getElementById('success-msg').style.display = 'none';
+    }
+
+    function openPanel(coords, resetRegistrations = true) {
+      if (coords) {
+        document.getElementById('f-lat').value = coords.lat.toFixed(6);
+        document.getElementById('f-lng').value = coords.lng.toFixed(6);
+      }
+      if (resetRegistrations) {
+        document.getElementById('registrations-container').innerHTML = '';
+        addRegistration();
+      }
+      document.getElementById('side-panel').classList.add('open');
     }
 
     function togglePickMode() {
@@ -280,21 +329,28 @@
     });
 
     function addBuilding() {
-      const name      = document.getElementById('f-name').value.trim();
-      const address   = document.getElementById('f-address').value.trim();
-      const type      = document.getElementById('f-type').value;
-      const floors    = parseInt(document.getElementById('f-floors').value);
-      const year      = parseInt(document.getElementById('f-year').value);
-      const residents = parseInt(document.getElementById('f-residents').value) || 0;
-      const lat       = parseFloat(document.getElementById('f-lat').value);
-      const lng       = parseFloat(document.getElementById('f-lng').value);
+      const address = document.getElementById('f-address').value.trim();
+      const lat     = parseFloat(document.getElementById('f-lat').value);
+      const lng     = parseFloat(document.getElementById('f-lng').value);
 
-      if (!name || !address || !floors || !year || isNaN(lat) || isNaN(lng)) {
+      let registered = '';
+      const names = document.querySelectorAll('.f-name');
+      const houses = document.querySelectorAll('.f-house-number');
+      for (let i = 0; i < names.length; i++) {
+        const name = names[i].value.trim();
+        const house = houses[i].value.trim();
+        if (name && house) {
+          registered += `${name} ev №${house}\n`;
+        }
+      }
+      registered = registered.trim();
+
+      if (!address || !registered || isNaN(lat) || isNaN(lng)) {
         alert('Zəhmət olmasa bütün məcburi xanaları doldurun (*)');
         return;
       }
 
-      const newBuilding = { id: nextId++, name, address, type, floors, residents, year, lat, lng };
+      const newBuilding = { id: nextId++, address, registered, lat, lng };
 
       addMarker(newBuilding);
       allBuildings.push(newBuilding);
@@ -303,8 +359,10 @@
 
       map.flyTo([lat, lng], 17);
 
-      ['f-name','f-address','f-floors','f-year','f-residents','f-lat','f-lng']
-        .forEach(id => document.getElementById(id).value = '');
+      document.getElementById('f-address').value = '';
+      document.querySelectorAll('.f-name, .f-house-number, #f-lat, #f-lng').forEach(el => el.value = '');
+      document.getElementById('registrations-container').innerHTML = '';
+      addRegistration();
 
       document.getElementById('success-msg').style.display = 'block';
       setTimeout(() => document.getElementById('success-msg').style.display = 'none', 3000);

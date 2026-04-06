@@ -57,6 +57,21 @@ header span {
   background: #17836a;
 }
 
+#save-btn {
+  background: #ffb300;
+  color: #1a1a2e;
+  border: none;
+  padding: 7px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+#save-btn:hover {
+  background: #ffa000;
+}
+
 #map {
   flex: 1;
   width: 100%;
