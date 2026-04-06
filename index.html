@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mərdəkan Bina Xəritəsi</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+</head>
+<body>
+
+  <header>
+    <h1>Mərdəkan — Bina Məlumat Xəritəsi</h1>
+    <div class="header-right">
+      <span id="count"></span>
+      <button id="add-btn" onclick="togglePickMode()">📍 Xəritədən seç</button>
+      <button id="add-btn" style="background:#378ADD;" onclick="openPanel(null)">+ Əl ilə əlavə et</button>
+      <button id="add-btn" style="background:#b71c1c;" onclick="resetData()">↺ Sıfırla</button>
+    </div>
+  </header>
+
+  <div id="map"></div>
+
+  <div id="pick-banner" style="
+    display:none; position:fixed; top:52px; left:50%; transform:translateX(-50%);
+    background:#EF9F27; color:#1a1a2e; padding:10px 20px; border-radius:8px;
+    font-size:13px; font-weight:500; z-index:999; box-shadow:0 2px 10px rgba(0,0,0,0.3);">
+    Xəritədə istədiyiniz yerə klikləyin — koordinat avtomatik doldurulacaq
+    <button onclick="cancelPickMode()" style="margin-left:12px; background:#1a1a2e; color:#fff; border:none; padding:3px 10px; border-radius:6px; cursor:pointer;">Ləğv et</button>
+  </div>
+
+  <div id="side-panel">
+    <h2>
+      Yeni obyekt əlavə et
+      <button id="panel-close" onclick="closePanel()">×</button>
+    </h2>
+
+    <div class="form-group">
+      <label>Obyekt adı *</label>
+      <input type="text" id="f-name" placeholder="məs. Mərdəkan yaşayış binası №5"/>
+    </div>
+
+    <div class="form-group">
+      <label>Ünvan *</label>
+      <input type="text" id="f-address" placeholder="məs. Xəzər r., Mərdəkan, Küç. 10"/>
+    </div>
+
+    <div class="form-group">
+      <label>Bina növü *</label>
+      <select id="f-type">
+        <option value="yasayis">Yaşayış</option>
+        <option value="kommersiya">Kommersiya</option>
+        <option value="istirahət">İstirahət</option>
+        <option value="dini">Dini</option>
+        <option value="ictimai">İctimai</option>
+        <option value="dövlət">Dövlət əhəmiyyətli</option>
+      </select>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label>Mərtəbə sayı *</label>
+        <input type="number" id="f-floors" min="1" max="100" placeholder="məs. 5"/>
+      </div>
+      <div class="form-group">
+        <label>Tikilmə ili *</label>
+        <input type="number" id="f-year" min="1000" max="2100" placeholder="məs. 2005"/>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label>Sakin sayı (yaşayış üçün)</label>
+      <input type="number" id="f-residents" min="0" placeholder="məs. 120"/>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label>Enlik (lat) *</label>
+        <input type="text" id="f-lat" placeholder="məs. 40.5150"/>
+      </div>
+      <div class="form-group">
+        <label>Uzunluq (lng) *</label>
+        <input type="text" id="f-lng" placeholder="məs. 50.1620"/>
+      </div>
+    </div>
+    <div class="coord-hint">
+      Koordinat bilmirsinizsə:
+      <a onclick="startPickMode()">Xəritədən seçin</a>
+      və ya
+      <a onclick="openGoogleMaps()">Google Maps</a>
+    </div>
+
+    <button id="submit-btn" onclick="addBuilding()">Xəritəyə əlavə et</button>
+    <div class="success-msg" id="success-msg">Obyekt uğurla əlavə edildi!</div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script>
+    const colorMap = {
+      yasayis:    '#1D9E75',
+      kommersiya: '#378ADD',
+      'istirahət':'#EF9F27',
+      dini:       '#D4537E',
+      ictimai:    '#7F77DD',
+      'dövlət':   '#e53935'
+    };
+
+    const labelMap = {
+      yasayis:    'Yaşayış',
+      kommersiya: 'Kommersiya',
+      'istirahət':'İstirahət',
+      dini:       'Dini',
+      ictimai:    'İctimai',
+      'dövlət':   'Dövlət əhəmiyyətli'
+    };
+
+    const badgeClass = {
+      yasayis:    'b-yasayis',
+      kommersiya: 'b-kommersiya',
+      'istirahət':'b-istirahət',
+      dini:       'b-dini',
+      ictimai:    'b-ictimai',
+      'dövlət':   'b-dövlət'
+    };
+
+    const map = L.map('map').setView([40.5160, 50.1670], 15);
+
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+      attribution: 'Tiles © Esri',
+      maxZoom: 19
+    }).addTo(map);
+
+    let allBuildings = [];
+    let markers = {};
+    let nextId = 100;
+    let pickMode = false;
+
+    function makeIcon(type) {
+      const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="28" height="36" viewBox="0 0 28 36">
+        <path d="M14 0C6.27 0 0 6.27 0 14c0 9.5 14 22 14 22S28 23.5 28 14C28 6.27 21.73 0 14 0z"
+          fill="${colorMap[type] || '#888'}" stroke="white" stroke-width="2"/>
+        <circle cx="14" cy="14" r="6" fill="white" opacity="0.9"/>
+      </svg>`;
+      return L.divIcon({
+        html: svg,
+        className: '',
+        iconSize: [28, 36],
+        iconAnchor: [14, 36],
+        popupAnchor: [0, -38]
+      });
+    }
+
+    function makePopup(b) {
+      const resRow = b.residents > 0
+        ? `<div class="popup-row">
+            <span class="popup-lbl">Sakin sayı</span>
+            <span class="popup-val">${b.residents} nəfər</span>
+           </div>` : '';
+
+      return `
+        <div class="popup-inner">
+          <div class="popup-header">${b.name}</div>
+          <div class="popup-row">
+            <span class="popup-lbl">Ünvan</span>
+            <span class="popup-val">${b.address}</span>
+          </div>
+          <div class="popup-row">
+            <span class="popup-lbl">Növ</span>
+            <span class="popup-val">
+              <span class="badge ${badgeClass[b.type] || ''}">${labelMap[b.type] || b.type}</span>
+            </span>
+          </div>
+          <div class="popup-row">
+            <span class="popup-lbl">Mərtəbə</span>
+            <span class="popup-val">${b.floors} mərtəbə</span>
+          </div>
+          ${resRow}
+          <div class="popup-row">
+            <span class="popup-lbl">Tikilmə ili</span>
+            <span class="popup-val">${b.year}</span>
+          </div>
+          <div style="margin-top:10px;">
+            <button onclick="deleteBuilding(${b.id})" style="
+              width:100%; padding:7px; background:#b71c1c; color:#fff;
+              border:none; border-radius:6px; font-size:12px; cursor:pointer;">
+              Sil
+            </button>
+          </div>
+        </div>`;
+    }
+
+    function addMarker(b) {
+      const marker = L.marker([b.lat, b.lng], { icon: makeIcon(b.type) })
+        .addTo(map)
+        .bindPopup(makePopup(b), { maxWidth: 280 });
+      markers[b.id] = marker;
+    }
+
+    function deleteBuilding(id) {
+      if (!confirm('Bu obyekti silmək istədiyinizə əminsiniz?')) return;
+      if (markers[id]) {
+        map.removeLayer(markers[id]);
+        delete markers[id];
+      }
+      allBuildings = allBuildings.filter(b => b.id !== id);
+      localStorage.setItem('all_buildings', JSON.stringify(allBuildings));
+      updateCount();
+    }
+
+    function updateCount() {
+      document.getElementById('count').textContent = allBuildings.length + ' obyekt';
+    }
+
+    function loadBuildings() {
+      const stored = localStorage.getItem('all_buildings');
+      if (stored) {
+        allBuildings = JSON.parse(stored);
+        allBuildings.forEach(b => addMarker(b));
+        updateCount();
+        nextId = allBuildings.length > 0
+          ? Math.max(...allBuildings.map(b => b.id)) + 1
+          : 100;
+      } else {
+        fetch('data/buildings.json')
+          .then(res => res.json())
+          .then(buildings => {
+            allBuildings = buildings;
+            localStorage.setItem('all_buildings', JSON.stringify(allBuildings));
+            allBuildings.forEach(b => addMarker(b));
+            updateCount();
+            nextId = Math.max(...allBuildings.map(b => b.id)) + 1;
+          });
+      }
+    }
+
+    function resetData() {
+      if (!confirm('Bütün dəyişikliklər silinəcək, buildings.json-a qayıdacaq. Davam edilsin?')) return;
+      localStorage.removeItem('all_buildings');
+      Object.values(markers).forEach(m => map.removeLayer(m));
+      markers = {};
+      allBuildings = [];
+      loadBuildings();
+    }
+
+    loadBuildings();
+
+    function openPanel(coords) {
+      if (coords) {
+        document.getElementById('f-lat').value = coords.lat.toFixed(6);
+        document.getElementById('f-lng').value = coords.lng.toFixed(6);
+      }
+      document.getElementById('side-panel').classList.add('open');
+    }
+
+    function closePanel() {
+      document.getElementById('side-panel').classList.remove('open');
+      document.getElementById('success-msg').style.display = 'none';
+    }
+
+    function togglePickMode() {
+      pickMode ? cancelPickMode() : startPickMode();
+    }
+
+    function startPickMode() {
+      pickMode = true;
+      document.getElementById('pick-banner').style.display = 'block';
+      map.getContainer().style.cursor = 'crosshair';
+    }
+
+    function cancelPickMode() {
+      pickMode = false;
+      document.getElementById('pick-banner').style.display = 'none';
+      map.getContainer().style.cursor = '';
+    }
+
+    map.on('click', function(e) {
+      if (!pickMode) return;
+      cancelPickMode();
+      openPanel(e.latlng);
+    });
+
+    function addBuilding() {
+      const name      = document.getElementById('f-name').value.trim();
+      const address   = document.getElementById('f-address').value.trim();
+      const type      = document.getElementById('f-type').value;
+      const floors    = parseInt(document.getElementById('f-floors').value);
+      const year      = parseInt(document.getElementById('f-year').value);
+      const residents = parseInt(document.getElementById('f-residents').value) || 0;
+      const lat       = parseFloat(document.getElementById('f-lat').value);
+      const lng       = parseFloat(document.getElementById('f-lng').value);
+
+      if (!name || !address || !floors || !year || isNaN(lat) || isNaN(lng)) {
+        alert('Zəhmət olmasa bütün məcburi xanaları doldurun (*)');
+        return;
+      }
+
+      const newBuilding = { id: nextId++, name, address, type, floors, residents, year, lat, lng };
+
+      addMarker(newBuilding);
+      allBuildings.push(newBuilding);
+      localStorage.setItem('all_buildings', JSON.stringify(allBuildings));
+      updateCount();
+
+      map.flyTo([lat, lng], 17);
+
+      ['f-name','f-address','f-floors','f-year','f-residents','f-lat','f-lng']
+        .forEach(id => document.getElementById(id).value = '');
+
+      document.getElementById('success-msg').style.display = 'block';
+      setTimeout(() => document.getElementById('success-msg').style.display = 'none', 3000);
+    }
+
+    function openGoogleMaps() {
+      window.open('https://maps.google.com/?q=40.5160,50.1670', '_blank');
+    }
+  </script>
+
+</body>
+</html>
