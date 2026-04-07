@@ -1,0 +1,2688 @@
+<tr>
+			<th scope="col">Dairənin kodu</th><th scope="col">Məntəqənin kodu</th><th scope="col">Seçicinin soyadı, adı, atasının adı</th><th scope="col">Daimi yaşayış yerinin ünvanı <br>(küçə, evin nömrəsi)</th><th scope="col">Təvəllüd</th>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABABSQULİYEV BALOĞLAN ƏZİZ</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABASOV HEYDƏR AĞAXAN</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABASOV HİKMƏT ABBAS</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABASOV HÜSEYN YALÇIN</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABASOV MÜBARIZ XANBALA</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABASOV NƏCƏFƏLİ NAĞI</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABASOVA SEVINC HEYDƏR</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABBASOVA NATİQƏ FƏRRUX</td><td>V.MİRZƏYEV KÜÇ., ev 19</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULKƏRİMOV ƏLİSƏFA MƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULKƏRIMOVA RAMILƏ BƏRXUDAR</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV ABDULLA İLHAM</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV AĞATAĞI RƏHİM</td><td>N.ABBASOV KÜÇ., ev 30</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV AĞATAĞI SAHİB</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1948</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV AKİF SAHİB</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV ARİF SAHİB</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV ASİF SAİB</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV ASLAN ASİF</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV CAVANŞİR SƏDULLA</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV ƏBƏLFƏZ ZAHİD</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV ELMAN AKİF</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV HÜSEYN CAVANŞİR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV HÜSEYNƏLİ SƏDULLA</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV İBRAHİM SALEH</td><td>N.ABBASOV KÜÇ., ev 59</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV İLHAM MƏHƏRRƏM</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV LƏTİF YAQUB</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV MANAF AĞAXAN</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV MÜBARIZ MOLLA</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV OKTAY DAYANDUR</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV PƏRVIZ FAYAZ</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV RƏHİM AĞATAĞI</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV RÖVŞƏN ZAKİR</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV RZA HÜSEYNƏLİ</td><td>N.ABBASOV KÜÇ., ev 59</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV SALEH SƏDULLA</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV SƏDULLA ZAHİD</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV ÜZEYİR ZAKİR</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEV ZAHİD SƏDULLA</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA AYGÜN ŞAKİR</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA AYNURƏ İMAMNƏZƏR</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA ELMİRA HÜSEYN</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA FATİMƏ ƏDALƏT</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA FATİMƏ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA KÖNÜL ASİF</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA KÜRSÜMXANIM AĞABABA</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA QƏMƏRXANIM CAVANŞİR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA SƏDAQƏT ƏLİƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA ŞƏRQİYƏ BALASADIX</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA SÜSƏN ASİF</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA TƏXMİRƏ XANMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA TÜNZALƏ AKİF</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA ZƏHRA CAVANŞİR</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ABDULLAYEVA ZEYNƏBXANIM CAVANŞİR</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAKİŞİYEVA MƏRCAN FƏRHAD</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV AĞANƏZƏR ŞİRMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV AZƏR ŞİRMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV ƏFQAN AZƏR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV EHTİBAR AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV ƏLƏKBƏR AZƏR</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV ƏLİƏSGƏR ƏVƏZƏLİ</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV ELNUR ELDAR</td><td>V.MİRZƏYEV KÜÇ., ev 8</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV ƏZİZ İBADULLA</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV FIRDOVSI SƏYAD</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV HİCRAN ŞİRMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV HİDAYƏT AĞABALA</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1951</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV İNTİQAM ƏVƏZƏLİ</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV İSMAYIL AĞADAYI</td><td>N.ABBASOV KÜÇ., ev 22</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV İSMAYIL AZƏR</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV KAMAL AĞABALA</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV MAARİF NAİB</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV MAQSUD ƏLIMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV MƏHƏMMƏD ƏLİƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 9</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV MUSA FİRUDİN</td><td>V.MİRZƏYEV KÜÇ., ev 8</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV NAMİQ GÜLAĞA</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV NOVRUZ BALAMIRZƏ</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV SAHİL AZƏR</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEV SEYMUR AĞANƏZƏR</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA ARİFƏ AYDIN</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA BÜRHANƏ SƏFƏR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1951</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA CAHAN AĞA</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA ELMİRA MƏMMƏDAĞA</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA ELNARA KƏLPƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA FƏRİDƏ ƏLİ BABA</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA GÜLNAR ZÜLFİ</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA KÖNÜL AĞANƏZƏR</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA MƏDİNƏ SƏDULLA</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA NATAVAN GÜLAĞA</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA NAZƏNİN AĞASƏLİM</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA NƏRGİZ RAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA NİGAR AĞANƏZƏR</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA RƏHİMƏ DƏYANƏT</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA RƏHİMƏ ƏLİƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA RƏNA HƏSƏN</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1937</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA SAHİLƏ HÜSEYNBABA</td><td>V.MİRZƏYEV KÜÇ., ev 27</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA SƏBİNƏ HİCRAN</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA SEVDA GƏNCİ</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA VALİDƏ DADAŞ</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA VƏFA İLHAM</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA XANIM BAYRAMƏLİ</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1947</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA XANIM BAYRAMƏLİ</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1953</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA XƏDİCƏ AĞAYAR</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA YUSRA ƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA ZƏHRA FEYRUZ</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAYEVA ZENFİRƏ ATAKİŞİ</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞA-ZADƏ FATİMƏ CEYHUN</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAZADƏ FƏRHAD CEYHUN</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAZADƏ FƏRİD CEYHUN</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>AĞAZADƏ ŞİRMƏMMƏD HİCRAN</td><td>N.ABBASOV KÜÇ., ev 61</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALAHVERDİYEVA NAZPƏRİ AĞALAR</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALIŞOVA FƏRIDƏ BƏYLƏR</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALMASOVA MAHİRƏ ƏHMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 31</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALMASOVA MƏHBUBƏ BƏHRUZ</td><td>N.ABBASOV KÜÇ., ev 43</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALMASOVA SƏKİNƏ BƏHRUZ</td><td>N.ABBASOV KÜÇ., ev 43</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALMASOVA SEVİNC ŞÜKÜR</td><td>N.ABBASOV KÜÇ., ev 43</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALMASOVA VÜSALƏ ŞÜKÜR</td><td>N.ABBASOV KÜÇ., ev 43</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALPAŞAYEV AFƏR HACƏLİ</td><td>N.ABBASOV KÜÇ., ev 29</td><td>1954</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALPAŞAYEVA VƏFA AFƏR</td><td>N.ABBASOV KÜÇ., ev 29</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALQULİYEV İLQAR RAFAEL</td><td>V.MİRZƏYEV KÜÇ., ev 24</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ALQULİYEV RAFAEL İSRAFİL</td><td>V.MİRZƏYEV KÜÇ., ev 24</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOV HƏBİB ZAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 38</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOV RƏHİM AKİF</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOV ŞAKİR ƏHMƏDAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 38</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOV SOLTANƏLİ ƏHMƏDAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 38</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOV XANƏLİ HÜSEYN</td><td>V.MİRZƏYEV KÜÇ., ev 36</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOVA AYNURA AKİF</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOVA HƏLİLƏ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOVA LEYLA RAHİL</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOVA RƏFİQƏ MUSTAFA</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOVA SEVDA NURULLA</td><td>V.MİRZƏYEV KÜÇ., ev 38</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ASLANOVA TUBUXANIM ZAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 38</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV AĞAMİRZƏ AĞANAĞI</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV ELÇİN ZAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 6</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV ƏLİ AĞANAĞI</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV ELMAN QULU</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV FAİQ ZAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 6</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV FUAD ZAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 6</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV MAHİR ƏLİXAN</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV ŞƏRİF AĞAMİRZƏ</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEV ZEYNAL ADƏM</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA GÜLXANIM ANNAĞI</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA GÜLYANAQ NƏSRULLA</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA GÜNEL ADƏM</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA HƏMİDƏ BALAKİŞİ</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA LALƏ ƏLİXAN</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA MƏNSURƏ NOVRUZAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA SEVDA QULU</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA SEVİL İMRAN</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAKİŞİYEVA ZİBA RAMİZ</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ATAZADƏ ESMİRA FARİZ</td><td>N.ABBASOV KÜÇ., ev 30</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV ADƏM BƏŞİR</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV ARİF BƏŞİR</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV CƏBRAYIL XALİD</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV CƏFƏR TALIB</td><td>N.ABBASOV KÜÇ., ev 22</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV ƏLÖVSƏT AĞABALA</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV ELŞƏN ƏLİSA</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV HƏTƏM BƏŞİR</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV HÜMMƏTƏLİ ABDULƏLİ</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV İBRAHİM ZAHİD</td><td>N.ABBASOV KÜÇ., ev 22</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV MAIS HACAĞA</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV MƏHƏMMƏD HAFİS</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV QƏMBƏRƏLİ TALIB</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV RAMİN ARİF</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV RÖVŞƏN ƏLIHEYDƏR</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV SAHİB ÜMÜDƏLİ</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV XALİD HÜMMƏT</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV ZAHİD QƏMBƏRƏLİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEV ZAKİR QƏMBƏRƏLİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA AYTƏN MİRRƏQİB</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA HEYRAN NƏSRULLA</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA KÖNÜL ORUCƏLİ</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA MAHİRƏ BƏŞİR</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA QƏNİRƏ SƏDAQƏT</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA SƏBİNƏ ELŞƏN</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA TANZİLƏ SOLTANƏZİZ</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA TƏRANƏ QƏHRƏMAN</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA ÜLVİYYƏ MİRRƏQİB</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA XATİRƏ BƏHRUZ</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAYEVA ZAKİRƏ VAQİF</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAZADƏ AYNUR QƏNBƏR</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAZADƏ ELGÜN ŞAHLAR</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAZADƏ EMİN ŞAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAZADƏ FƏRQANƏ VƏLIŞ</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAZADƏ GÖVHƏR ELMAN</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BABAZADƏ MƏHBUBƏ ELMAN</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAĞIROVA NAZİLƏ MUXTAR</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAĞIŞOV KAMAL XANLAR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BALAKİŞİYEVA MƏLAHƏT ŞAKİR</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAMOVA CƏMALƏ NƏSRULLA</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAMOVA GÜLNAZ FAİQ</td><td>N.ABBASOV KÜÇ., ev 44D. 1</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAMOVA RƏHİMƏ BƏŞARƏT</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAMOVA ZÜLFİYYƏ NİFTULLA</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAQDAR NURTAC RAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAQDAROV RAMİZ SUFİ</td><td>V.MİRZƏYEV KÜÇ., ev 62</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAQDAROV YUSİF SUFİ</td><td>V.MİRZƏYEV KÜÇ., ev 62</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAQDAROVA AYGÜN KAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 62</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAQDAROVA SƏRİYYƏ RAMİZ</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAQDAROVA VƏFA AYDIN</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BAYRAQDAROVA ZÜMRÜD ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 62</td><td>1950</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BƏDƏLOVA BAHAR RƏSUL</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BÜNYATOV FEYRUZ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BÜNYATOV FİRUDİN ƏLİ</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BUNYATOVA KİFAYƏT ƏLİ</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BÜNYATOVA NİGAR BALAHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>BÜNYATOVA ZƏHRA FEYRUZ</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABAROV EHTİRAM MƏMMƏDAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 26</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABAROV NAMİQ MƏMMƏDAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 26</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABAROV SEYRAN SAMİR</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABAROVA SƏMAYƏ ƏBDÜLAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 26</td><td>1946</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBARLI ARAZBƏY VAQİF</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBARLI AZADBƏY VAQİF</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBARLI CAVADBƏY VAQİF</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBARLI MÜTƏLLİM AKİF</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBARLI SƏDAQƏT MAHMUD</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBARLI VAQİF BƏHLUL</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROV ELÇIN XƏLIL</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROV MƏMMƏDAĞA SAMİR</td><td>V.MİRZƏYEV KÜÇ., ev 26</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROV RAFİQ BƏHLUL</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROV XƏYAL FIRUDDIN</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROVA HƏCƏR CƏLAL</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROVA NİSƏXANIM MALİK</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROVA RƏHİMƏXANIM XAQANİ</td><td>N.ABBASOV KÜÇ., ev 14</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROVA RƏHİMƏXANIM XƏQANİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CABBAROVA XATİRƏ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAHANGİRLİ ÜLKƏR BALAMİRZƏ</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOV ABİD VAHİD</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOV ARİF VAHİD</td><td>N.ABBASOV KÜÇ., ev 20</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOV CAVİD VAHİD</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOV NURMƏMMƏD TOFİQ</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOV RASİM NEYMƏTULLA</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOV VAHİD NEYMƏTULLA</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOVA FATİMƏ TOFİQ</td><td>N.ABBASOV KÜÇ., ev 4</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOVA GÜLARƏ KAMİL</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOVA SEVİNC DADAŞ</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CAVADOVA SOLMAZ NEYMƏTULLA</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBİYEV BİLAL NAMİQ</td><td>N.ABBASOV KÜÇ., ev 35</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBİYEV CƏFƏR İLHAM</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBİYEV ELÇİN MAŞALLA</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBİYEV MAŞALLA XANAĞA</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1948</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBİYEVA ƏFSANƏ NAMİQ</td><td>N.ABBASOV KÜÇ., ev 31</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBİYEVA FƏQANƏ AĞASƏLİM</td><td>V.MİRZƏYEV KÜÇ., ev 15</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBİYEVA ZEYNƏB ƏLİ</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOV BƏXTİYAR QAMƏD</td><td>N.ABBASOV KÜÇ., ev 31A</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOV CEYHUN ƏLİƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOV HÜSEYN AFƏT</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOV MİLXAL NADİR</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOV NAİB ƏJDƏR</td><td>N.ABBASOV KÜÇ., ev 34</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOV RASİM ELDAR</td><td>N.ABBASOV KÜÇ., ev 42</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOV TƏRLAN ƏLİƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOV ZÖHRAB ELDAR</td><td>N.ABBASOV KÜÇ., ev 42</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOVA GÜLÇÖHRƏ AFƏT</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOVA GÜLXANIM MÜSLÜM</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1949</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOVA MEHRİBAN ƏLİBƏNDƏ</td><td>N.ABBASOV KÜÇ., ev 31A</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOVA NƏRGİZXANIM AĞANƏZƏR</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOVA UMSƏLMƏ FİRUZ</td><td>N.ABBASOV KÜÇ., ev 42</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏBRAYILOVA ZÖHRƏ BƏŞARƏT</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROV BÖYÜKAĞA QARA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1950</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROV ƏLİ CƏFƏR</td><td>N.ABBASOV KÜÇ., ev 5</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROV HƏSƏNAĞA QARA</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROV HÜSEYNAĞA QARA</td><td>V.MİRZƏYEV KÜÇ., ev 7</td><td>1941</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROV MAHİR HÜSEYNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 7</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROV MƏSUM ƏHMƏDAĞA</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROV QARA BÖYÜKAĞA</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROV ZAHİD HƏSƏNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROVA ELMİRA QURBANƏLİ</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROVA GÜLNAZ MƏCİD</td><td>N.ABBASOV KÜÇ., ev 52</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROVA LALƏ NASİR</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROVA MEHPARƏ HƏSƏN</td><td>N.ABBASOV KÜÇ., ev 38</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROVA PİKƏ BÖYÜKAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROVA SƏBİNƏ SƏXAVƏT</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROVA XALİDƏ SƏDULLA</td><td>N.ABBASOV KÜÇ., ev 59</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏFƏROVA ZƏHRA ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 7</td><td>1953</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏLALOVA RÜHƏNGİZ ELDAR</td><td>N.ABBASOV KÜÇ., ev 42</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏLİLOV İBRAHİM VAQİF</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏLİLOV İMRAN VAQİF</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>CƏLİLOV NURLAN VAQİF</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DADAŞOVA LEYLA HEYDƏR</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DADAŞOVA RƏVANƏ ƏLƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DADAŞOVA SƏADƏT BALABƏY</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DADAŞOVA SEVİNC İLDIRIM</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DADAŞOVA XƏDİCƏ SƏRDAR</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DADAŞOVA ZƏHRA İBRAHİM</td><td>N.ABBASOV KÜÇ., ev 14</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DAŞDƏMİROV BEYTULLA BEKTƏMİR</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DAŞDƏMİROV ELMİR ANNAĞI</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DAŞDƏMİROVA REYHANXANIM QAFAR</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DƏDƏCANOV FARIZ İMRAN</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DƏDƏCANOV İMRAN MAHMUD</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DƏRGAHZADƏ ABİD ƏLİNİYAZ</td><td>N.ABBASOV KÜÇ., ev 53</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DƏRGAH-ZADƏ AKİF ƏLİNİYAZ</td><td>N.ABBASOV KÜÇ., ev 53</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DƏRGAH-ZADƏ FƏTƏLİ ƏLİNYAZ</td><td>N.ABBASOV KÜÇ., ev 53</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DƏRGAHZADƏ HƏSƏN AKİF</td><td>N.ABBASOV KÜÇ., ev 53</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>DƏRGAHZADƏ QIZXANIM MÜSLÜM</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1944</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏBİLOV VASİF TELMAN</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏBİLOVA TÜNZALƏ ƏLƏKBƏR</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EFENDİYEVA LYUDMİLA SAZONOVNA</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1943</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏFIZANOV SALEH ASLAN</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHƏDLİ NƏZRİN ASİF</td><td>N.ABBASOV KÜÇ., ev 15</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHƏDOV KAMRAN MÜSEYİB</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHƏDOV NƏSİMİ MÜSEYİB</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHƏDOV RAMİZ NÜFTULLA</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHƏDOV SƏLİM MÜSEYİB</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHƏDOVA SƏDAQƏT NƏSİMİ</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHƏDOVA SƏDAQƏT QAÇAY</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOV ADİL ƏLİXAN</td><td>V.MİRZƏYEV KÜÇ., ev 19</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOV ƏLİ MAHİR</td><td>N.ABBASOV KÜÇ., ev 15</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOV ELVIN MEHMAN</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA BÖYÜKXANIM AKİF</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA ELNARƏ RAFAEL</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA ƏSMAYƏ RAFAYIL</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA GÜLBƏNİZ QƏDİR</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA HƏCƏR ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 19</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA MƏRYAM MİRZƏBABA</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA ŞƏHLA NİZAMİ</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA SÜSƏN ASİF</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏHMƏDOVA YEGANƏ MƏSTAN</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏKBƏROV ELNUR NATİQ</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏKBƏROVA AYNUR NATİQ</td><td>N.ABBASOV KÜÇ., ev 3</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏKBƏROVA MƏLEYKƏ BÖYÜK</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏKBƏROVA RÜBABƏ ƏZİZ</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1929</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏKBƏRZADƏ GÜLAYƏ ŞAHLAR</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏKBƏRZADƏ SƏBINƏ ŞAHLAR</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EKEN İKRAM SALIM</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EKEN RAMIYYƏ ƏDALƏT</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏKPƏROVA ARZU GÜLHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏKPƏROVA GÜLBƏNİZ MAYİS</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏKBƏROV ƏDALƏT ƏHMƏD</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏKBƏROV ƏZİZ ƏLİƏSKƏR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏKBƏROVA AĞABACI ƏDALƏT</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏKBƏROVA ANARA ƏLİƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏKBƏROVA KAMALƏ HÜSEYNAĞA</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏKBƏROVA NAZLIXANIM SULTAN</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏKPƏROVA ALİYƏ ƏLƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏKPƏROVA BAHAR MALİK</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏSKƏROV ƏLƏSKƏR VAQİF</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLƏSKƏROVA SƏBİRƏ HACIAĞA</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİAĞAYEV ƏLİDAR XXX</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1936</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİPAŞAYEV RÜFƏT AFƏR</td><td>N.ABBASOV KÜÇ., ev 29</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİPAŞAYEVA MİRNİSƏ TAHİR</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİSULTANOV BƏDİRXAN RƏHİMXAN</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİSULTANOVA SÜDABƏ SUNKULU</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV AĞALƏTİF AĞA</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV AĞAMEHDİ AĞALƏTİF</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV AĞAMOĞLAN ABDULLA</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV AKİF YAHYA</td><td>V.MİRZƏYEV KÜÇ., ev 22</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ANAR AĞAMOĞLAN</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV AQŞİN AZƏR</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ASİF BALAXAN</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ASİF YƏHYA</td><td>V.MİRZƏYEV KÜÇ., ev 22</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV AYDIN OQTAY</td><td>N.ABBASOV KÜÇ., ev 56</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV AZƏR MƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV BABA ƏLİ</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV BALA AĞA</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ƏBDÜLƏLİ ŞIXƏLİ</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ƏBÜLFƏT İSGƏNDƏR</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ƏLƏSKƏR ƏLİƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 29</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ƏLİ RAUF</td><td>N.ABBASOV KÜÇ., ev 9</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ƏLİBALA FİRUDİN</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ELNUR ƏMİRULLA</td><td>N.ABBASOV KÜÇ., ev 36</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ELXAN GÜLAĞA</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ELXAN NƏSRULLA</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV EYNULLA YƏHYA</td><td>V.MİRZƏYEV KÜÇ., ev 22</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ƏZİZAĞA GƏNCƏLİ</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV FAMİL NADİR</td><td>V.MİRZƏYEV KÜÇ., ev 27</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV FƏRRUX AĞAƏLİ</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV FEYZULLA EYNULLA</td><td>V.MİRZƏYEV KÜÇ., ev 22</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV FUAD HEYDƏR</td><td>N.ABBASOV KÜÇ., ev 52</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV HƏMİD GÜLAĞA</td><td>N.ABBASOV KÜÇ., ev 6A D. 3</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV HÜSEYN ƏLİƏSGƏR</td><td>V.MİRZƏYEV KÜÇ., ev 56</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV HÜSEYN İSKƏNDƏR</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV HÜSEYNBALA RƏHMAN</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV HÜSEYNƏLİ ORUCƏLİ</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV İMAMƏLİ OQTAY</td><td>N.ABBASOV KÜÇ., ev 56</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV İSA HÜSEYNBABA</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV İSKƏNDƏR QASIM</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV KƏLBƏLİ İSKƏNDƏR</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1953</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV KƏRİM SALEH</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MAHİR TAHİR</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MAİL NAİB</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MƏHƏMMƏD GƏNCİ</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MƏHƏMMƏD MEHMAN</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MEHMAN AĞA</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MEHRAC AĞA</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MEHRAC AĞAƏLİ</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MƏMMƏD ŞIXƏLİ</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MƏMMƏDƏLİ KƏLBƏLİ</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MƏMMƏDHÜSEYN YAXŞIBƏY</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MƏMMƏDSƏLİM SALMAN</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MƏZAHİR ƏLİHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 57</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV MİRCAVAD RÖVŞƏN</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV NAİB YAXŞIBƏY</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV NASİR AĞA</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV OQTAY İMAMƏLİ</td><td>N.ABBASOV KÜÇ., ev 56</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV QULAM HƏMİDULLA</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV RAHİB NADİR</td><td>V.MİRZƏYEV KÜÇ., ev 27</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV RAKİM NADİR</td><td>V.MİRZƏYEV KÜÇ., ev 27</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV RAMİL AFƏR</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV RAUF VƏLİ</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV RÜFƏT RAUF</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV RÜFƏT XANOĞLAN</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV SADİQ MƏZAHİR</td><td>N.ABBASOV KÜÇ., ev 57</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV SAHİB ƏLİ</td><td>N.ABBASOV KÜÇ., ev 52</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ŞAHİN NƏSRULLA</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV SAMİR AZƏR</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ŞƏFAƏT ƏMİRULLA</td><td>N.ABBASOV KÜÇ., ev 36</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV SEYMUR ƏLİ</td><td>N.ABBASOV KÜÇ., ev 8A</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ŞÜCAƏT ƏMİRULLA</td><td>N.ABBASOV KÜÇ., ev 36</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV TAHİR ƏLİBALA</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV TAHİR SƏDAY</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV TALEH ŞAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 48</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV YAHŞİBƏY AĞAMEHDİ</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLIYEV YASIN ABBAS</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ZAKİR QASIM</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLIYEV ZAMIQ AĞADDIN</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ZİYAFƏT ƏMİRULLA</td><td>N.ABBASOV KÜÇ., ev 36</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ZÜLFƏLİ ƏZİZAĞA</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEV ZÜLFÜQAR BALA</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA AYDAN TALEH</td><td>V.MİRZƏYEV KÜÇ., ev 48</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA AYGÜN OKTAY</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA AYNURƏ CƏBRAYIL</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA AYTAC ƏBDÜLƏLİ</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA AYTƏN ƏBDÜLƏLİ</td><td>N.ABBASOV KÜÇ., ev 18</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA DİLARƏ ŞİRBALA</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA DÜRDANƏ GƏNCƏLİ</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA FATİMƏ ƏLİƏSKƏR</td><td>V.MİRZƏYEV KÜÇ., ev 56</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA FATİMƏ MUXTAR</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA GÜLCAHAN KƏRƏMƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 48</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA GÜLMİRA HÜSEYN</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA GÜLNAR CEYHUN</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA GÜLNARƏ ƏHMƏDAĞA</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA GÜLNAZ HÜSEYNƏLİ</td><td>N.ABBASOV KÜÇ., ev 8</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA GÜLYANAQ NƏSRULLA</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA GÜNEL TALEH</td><td>V.MİRZƏYEV KÜÇ., ev 48</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA İLAHƏ İBRAHİM</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA İRADƏ ƏLİDADAŞ</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA KİFAYƏT MEYDAN</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA KÖNÜL BALAHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA LEYLA SEYFULLA</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA MAHİRƏ ƏMRULLA</td><td>N.ABBASOV KÜÇ., ev 36</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA MAHİRƏ RZAQULU</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA MƏDİNƏXANIM GÜLHÜSEYN</td><td>V.MİRZƏYEV KÜÇ., ev 54</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA MEHPARA ŞİRƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA MEHRİBAN KƏBƏTULLA</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA MƏRYƏM AĞAMƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 12</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA MƏSUMƏ ƏZİZAĞA</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA MƏTANƏT İBRAHİM</td><td>N.ABBASOV KÜÇ., ev 8A</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA NATƏVAN ƏNNAĞI</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA NAZƏNİ BƏYBALA</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA NƏZİFƏ ABBAS</td><td>N.ABBASOV KÜÇ., ev 6</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA NURANƏ AZAD</td><td>V.MİRZƏYEV KÜÇ., ev 27</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA NURİYYƏ HACIHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA NURLANƏ TALEH</td><td>V.MİRZƏYEV KÜÇ., ev 48</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA RAFİZƏ RAFAİL</td><td>N.ABBASOV KÜÇ., ev 57</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA RƏFİQƏ ƏBDÜLƏLİ</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA RƏHİMƏ ƏHMƏDAĞA</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA RƏHİMƏ ƏLƏKBƏR</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA RƏHİMƏXANIM ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA RƏNA HÖCCƏT</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA REYHAN AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLIYEVA SABIRƏ BƏŞIR</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA SƏDAQƏT GƏNCƏLİ</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ŞƏHALƏ EYNULLA</td><td>V.MİRZƏYEV KÜÇ., ev 22</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ŞƏHANƏ ŞAHİN</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA SEVDA FƏTULLA</td><td>N.ABBASOV KÜÇ., ev 6A D. 3</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA SEVDA RAFİQ</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA SƏXAVƏT İSLAM</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLIYEVA SOLMAZ SARXAN</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA SÜDABƏ HƏBİB</td><td>N.ABBASOV KÜÇ., ev 57</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA SÜDABƏ SƏDAYİ</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA SÜRƏYYA ŞƏRİF</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLIYEVA SÜSƏN MIRZƏBALA</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA TALİYYƏ HÜSEYNƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 22</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA TÜKƏZBAN SƏFƏR</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ÜLKƏR MİRAĞA</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLIYEVA ÜLKƏR VAQIF</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ÜLVİYYƏ NAMİK</td><td>V.MİRZƏYEV KÜÇ., ev 31</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA UMNİSƏ XALFƏLİ</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLIYEVA XANIM BƏHRAM</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA XANIMANA ƏLİVƏFA</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA XATİRƏ ABAS</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA XƏDİCƏ ƏLİMİRZƏ</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA XƏDİCƏ QƏMBƏRƏLİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA XƏDİCƏXANIM ƏLİCƏFƏR</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA XUMARƏ BALƏHMƏD</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZƏHRA ƏMİRULLAX</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1930</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZENFİRA ƏLİCƏFƏR</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1946</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZEYNƏB BƏXTİYAR</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZİBAXANIM ƏJDƏR</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1954</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZÜMRÜD AĞAƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZÜMRÜD ƏLİ</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZÜMRÜD ƏLİAĞA</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZÜMRÜD ELXAN</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİYEVA ZÜMRÜT İSMAYIL</td><td>V.MİRZƏYEV KÜÇ., ev 37</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİZADƏ ƏLİ AĞAMİ</td><td>N.ABBASOV KÜÇ., ev 57</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİZADƏ ƏLİ FAYİQ</td><td>N.ABBASOV KÜÇ., ev 44D. 1</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİZADƏ ƏLİƏKBƏR AĞAMİ</td><td>N.ABBASOV KÜÇ., ev 57</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİZADƏ PƏRİCİHAN CƏLAL</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİZADƏ RƏFİQƏ AĞAMİ</td><td>N.ABBASOV KÜÇ., ev 57</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLİZADƏ SEVİNC ƏLİHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 57</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏLPAŞAYEV RAUF AFƏR</td><td>N.ABBASOV KÜÇ., ev 29</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏMİRXANOVA ZƏNURƏ MİRZƏBABA</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDLİ ƏLİBƏNDƏ FƏXRƏDDİN</td><td>N.ABBASOV KÜÇ., ev 31A</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDLİ İSLAMƏLİ ZAKİR</td><td>N.ABBASOV KÜÇ., ev 31</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDLİ RƏHİLƏ ZAKİR</td><td>N.ABBASOV KÜÇ., ev 31</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV ELDAR MİRZƏ</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV ƏLİBƏNDƏ MİRZƏQULU</td><td>N.ABBASOV KÜÇ., ev 31A</td><td>1942</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV FƏXRƏDDİN ƏLİBƏNDƏ</td><td>N.ABBASOV KÜÇ., ev 31A</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV FİRUDDİN ƏLİBƏNDƏ</td><td>N.ABBASOV KÜÇ., ev 31A</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV İLQAR MİRZƏBABA</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV MALİK MİRZƏ</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV MEHDİ MİRZƏBABA</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV SƏRDAR MİRZƏBABA</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOV ZAKİR MİRZƏBABA</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOVA RUHƏNGİZ BƏXTİYAR</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOVA VƏFALƏ BALAKƏRİM</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDOVA XƏDİCƏ MİRZƏBABA</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEV ƏBÜLFƏZ MAHİR</td><td>N.ABBASOV KÜÇ., ev 19</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEV ƏLİ SƏRDAR</td><td>N.ABBASOV KÜÇ., ev 32</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEV ELŞƏN MÜRVƏT</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEV LAİQ HƏMZƏ</td><td>N.ABBASOV KÜÇ., ev 34</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEV QALİB MURVƏT</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEV QƏRİB SƏRDAR</td><td>N.ABBASOV KÜÇ., ev 32</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEV SƏRDAR HƏMZƏ</td><td>N.ABBASOV KÜÇ., ev 32</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEV TƏRLAN HƏMZƏ</td><td>N.ABBASOV KÜÇ., ev 32</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA AYBƏNİZ ELŞƏN</td><td>N.ABBASOV KÜÇ., ev 7</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA HÖKÜMƏ ƏLİYUSİF</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA KAMALƏ NƏSRULLA</td><td>N.ABBASOV KÜÇ., ev 44</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA LƏTİFƏ ƏMİRMİRZƏ</td><td>N.ABBASOV KÜÇ., ev 16</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA MƏRYƏM ELŞAD</td><td>N.ABBASOV KÜÇ., ev 3</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA NƏRGİZ QƏNFƏ</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA SEVDA MÜRVƏT</td><td>N.ABBASOV KÜÇ., ev 32</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA XƏDİCƏ TƏRLAN</td><td>N.ABBASOV KÜÇ., ev 19</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA ZƏHRA QALİB</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDULLAYEVA ZEYNƏB VAQİF</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDZADƏ HIMALAY ŞƏBNƏM</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSƏDZADƏ MƏHƏMMƏDƏLİ ELDAR</td><td>N.ABBASOV KÜÇ., ev 31</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSGƏRLİ ZƏHRA KAMRAN</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSGƏROV RAHİL BAYRİŞ</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSGƏROVA GÜLŞƏN RAMİZ</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSKƏROV AYDIN MƏHƏRRƏM</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏSKƏROV MƏHƏRRƏM AYDIN</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏŞRƏFOV HÜSEYN ZEYNAL</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏŞRƏFOVA YEGANƏ VAQİF</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EYNULLAYEV HÜSEYN ƏMİN</td><td>N.ABBASOV KÜÇ., ev 46</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EYNULLAYEVA CAVAHİR KƏRİM</td><td>N.ABBASOV KÜÇ., ev 46</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EYVAZOV NADİR ƏLİ</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1951</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EYVAZOV ŞABAN ƏLİ</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EYVAZOVA FATMA ŞABAN</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EYVAZOVA LEYLA ƏLİ</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EYVAZOVA SONA ZAKİR</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>EYVAZOVA TEYRAN ŞABAN</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV ASİM HACI</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV FAİQ HACI</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV FƏRİD FAİQ</td><td>N.ABBASOV KÜÇ., ev 54</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV MAHMUD FƏRHAD</td><td>N.ABBASOV KÜÇ., ev 56</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV ORXAN FƏRHAD</td><td>N.ABBASOV KÜÇ., ev 56</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV RASİM HACI</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV RƏHİM FAİQ</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV SAMİR OKTAY</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOV VƏLƏD HACI</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOVA CƏMİLƏ ASİF</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOVA ELFİRA NAZİR</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOVA GÜLNARƏ XƏLFƏLİ</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOVA PİKƏ MƏLİKHEYDƏR</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOVA PİKƏ RƏCƏBƏLİ</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1936</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOVA RƏHİMƏ FƏTULLA</td><td>N.ABBASOV KÜÇ., ev 56</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOVA YEGANƏ İMAMYAR</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİMOVA ZİBEYDƏ FAİQ</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ƏZİZOVA GÜNAY RÜSTƏM</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FASAQATİ MƏTANƏT CƏBRAYİL</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FASAQATİ MÜBARİZ CƏBRAYIL</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏRƏCOVA BAHAR HÜSEYNƏLİ</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏRƏCOVA DILŞAD SIYOFƏR</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏRƏCOVA DİLŞAD SİYUFƏR</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏRƏCOVA FATIMƏ CƏLAL</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏRƏCOVA İRADƏ QABIL</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏRƏCOVA KAMİLƏ MİRSƏFİ</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏRƏCOVA SƏMA MƏMİ</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏSAQƏTİ CƏBRAYIL DADAŞ</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1931</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏTTAHOVA SƏKİNƏ BALATAĞI</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FƏTTAHOVA ZÜMRÜD ŞAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FEYZULLAYEV ABUZƏR HAŞIM</td><td>V.MİRZƏYEV KÜÇ., ev 20</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FEYZULLAYEVA GÜLƏNDAN AĞASI</td><td>N.ABBASOV KÜÇ., ev 51</td><td>1936</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FEYZULLAYEVA NAİLƏ HƏŞUM</td><td>V.MİRZƏYEV KÜÇ., ev 20</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>FİLİPPOVA BAHAR NƏSİR</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIƏLİYEV ELÇİN ELMAN</td><td>N.ABBASOV KÜÇ., ev 6A D. 3</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIƏLİYEV ELMAN HACIAĞA</td><td>N.ABBASOV KÜÇ., ev 6A D. 3</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACİƏLİYEV ELXAN ELMAN</td><td>N.ABBASOV KÜÇ., ev 6A</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIƏLİYEVA DÜRDANƏ ELMAN</td><td>N.ABBASOV KÜÇ., ev 6A D. 3</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIƏLİYEVA GÜLDANƏ ELMAN</td><td>N.ABBASOV KÜÇ., ev 6A</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIƏLİYEVA RÜXSARƏ DÖVLƏT</td><td>N.ABBASOV KÜÇ., ev 6A D. 3</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIYEV MƏMMƏD SALEH</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1953</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIYEVA BAHAR MƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIYEVA XANIM NASİR</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HACIZADƏ ELŞƏN ABBAS</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOV ELÇİN SAHİB</td><td>V.MİRZƏYEV KÜÇ., ev 25</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞİMOV İLKİN MUSA</td><td>V.MİRZƏYEV KÜÇ., ev 25</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOV KAZIM SAHİB</td><td>V.MİRZƏYEV KÜÇ., ev 25</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOV MUSA SAHİB</td><td>V.MİRZƏYEV KÜÇ., ev 25</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOV QASIM RAHİB</td><td>V.MİRZƏYEV KÜÇ., ev 25</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOV RAHİB SAHİB</td><td>V.MİRZƏYEV KÜÇ., ev 25</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞİMOVA FƏRQANƏ MUSA</td><td>V.MİRZƏYEV KÜÇ., ev 25</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOVA HƏMİDƏ ƏLİBALA</td><td>N.ABBASOV KÜÇ., ev 48</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞİMOVA MƏTANƏT FERUZ</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOVA NAZİKƏ DƏYANDUR</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOVA RÖYA ZAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HAŞIMOVA TÜNZALƏ HÜSEYNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 25</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏBİBULLAYEVA NƏZAKƏT ABDULLA</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏBULAYEVA AYTAC ASİF</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOV BƏHRAM RƏSUL</td><td>V.MİRZƏYEV KÜÇ., ev 55</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOV BƏXTİYAR RƏSUL</td><td>V.MİRZƏYEV KÜÇ., ev 55</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMIDOV ELÇIN İLTIMAT</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOV ƏLÖVSƏT AKİF</td><td>V.MİRZƏYEV KÜÇ., ev 53</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOV MƏHƏMMƏD AKİF</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOV ŞƏRİF BƏHRAM</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOV TALEH AKİF</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOVA CƏMALƏ ƏLƏKBƏR</td><td>V.MİRZƏYEV KÜÇ., ev 53</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOVA ELMİRA MƏMMƏDQULU</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1954</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOVA ELNURƏ ŞƏRİF</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏMİDOVA SEVDA HEYDƏR</td><td>V.MİRZƏYEV KÜÇ., ev 55</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV CƏSUR GÜLMƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV ELMAN İBRAHİM</td><td>N.ABBASOV KÜÇ., ev 38</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV ELXAN RAHİB</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV İBRAHİM HƏSƏN</td><td>N.ABBASOV KÜÇ., ev 38</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV MEHDİ MÜZƏFFƏR</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV MEHMAN ƏMİRŞAH</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV TELMAN İBRAHİM</td><td>N.ABBASOV KÜÇ., ev 38</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV YUSİF ƏMİRŞAH</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOV ZAMİQ İMRAN</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOVA AYNURƏ RAKİF</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOVA ÇİMNAZ ƏLİMEHRAB</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1950</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOVA MEHMANƏ ƏMİRŞAH</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOVA SƏDAQƏT ŞƏMSƏDDİN</td><td>N.ABBASOV KÜÇ., ev 38</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOVA TƏHMİNƏ KƏLPƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNOVA XATİRƏ ƏMİRŞAH</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNZADƏ AYXAN COŞQUN</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏSƏNZADƏ XƏYALƏ ŞƏRİF</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HƏTƏMOVA GÜNEL ELŞAD</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV AĞALİ TƏLƏT</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV CAVAD EHTİBAR</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV HACIHÜSEYN ABDUL</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV HƏNİFƏ MUSA</td><td>N.ABBASOV KÜÇ., ev 36</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV KAMRAN BƏYDƏMİR</td><td>N.ABBASOV KÜÇ., ev 41</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV MİRZƏ-HÜSEYN ƏBDÜL-QASIM</td><td>N.ABBASOV KÜÇ., ev 24D. 1</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV RİZVAN BƏYDƏMİR</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV ŞAHİN MİRZƏ</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV ŞƏHRİYAR MİRZƏHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 24D. 1</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOV TƏLƏT AĞAƏLİ</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA BİKƏXANIM CƏLAL</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA FATİMƏ YUSİF</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA LƏTİFƏ ƏZİZAĞA</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA MEHRİBAN MİKAYIL</td><td>N.ABBASOV KÜÇ., ev 15</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA RAZİYƏXANIM MƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA RƏHİMƏXANIM SƏFƏR</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA RƏNA ŞİRMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA REYHAN TEYMUR</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA SƏKİNƏ AĞALİ</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA SƏRİYYƏ NADİR</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA ŞÜKUFƏ GƏNCİ</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA XEYRANSA AĞALİ</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNOVA ZƏKİYƏ YAQUB</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYN-ZADƏ HÜSEYN RƏHİM</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>HÜSEYNZADƏ MUXTAR RƏHİM</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV BƏŞARƏT AĞAYAR</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1946</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV ƏLİ OQTAY</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV HEYDƏR OKTAY</td><td>V.MİRZƏYEV KÜÇ., ev 50A</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV HÜSEYN AZƏR</td><td>N.ABBASOV KÜÇ., ev 17</td><td>2007</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV HÜSEYN NAZİM</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV NAZİM ƏLİ</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV NƏSİR FİRUZ</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV OQTAY ƏLİ</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1951</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV OQTAY HEYDƏR</td><td>V.MİRZƏYEV KÜÇ., ev 50A</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV QARDAŞXAN RAHİL</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV RÜSTƏM ƏLİ</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1950</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV RZA BƏŞARƏT</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOV XALİD QARDAŞXAN</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA ARZU HACI</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA AYGÜN HEYDƏR</td><td>V.MİRZƏYEV KÜÇ., ev 50A</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA FƏRİDƏ DADAŞ</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA HƏMŞƏ İSRAFİL</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA İRADƏ AĞAVERDİ</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA KÖNÜL ƏNNAĞI</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA QƏTİBƏ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA SEVİNC RASİF</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA SONA HEYDƏR</td><td>V.MİRZƏYEV KÜÇ., ev 50A</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İBRAHİMOVA TAMİLA NAZİM</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İMAMCANOVA ZEYBƏ GÜLMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSALI AYGÜN MİRXAN</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSALI ŞƏLALƏ MİRXAN</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAYEV ƏLİƏKBƏR ƏLİHEYDƏR</td><td>N.ABBASOV KÜÇ., ev 40</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAYEV HİKMƏT ƏLİƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 40</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAYEV NATİQ ƏLİƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAYEVA AYBƏNİZ VAQİF</td><td>N.ABBASOV KÜÇ., ev 56</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAYEVA HÖKUMƏ HƏSƏN</td><td>N.ABBASOV KÜÇ., ev 40</td><td>1934</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAYEVA NAZƏNİ FƏTULLA</td><td>N.ABBASOV KÜÇ., ev 56</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAYEVA SEVDA MƏMMƏDHƏSƏN</td><td>N.ABBASOV KÜÇ., ev 40</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAZADƏ SƏLMƏXANIM AĞAKƏRİM</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSAZADƏ ZƏHRA MİRXAN</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSBATOV ÇİNGİZ FƏRMAN</td><td>V.MİRZƏYEV KÜÇ., ev 33V</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSBATOV FƏRMAN ÇİNGİZ</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSBATOV RASİM FƏRMAN</td><td>V.MİRZƏYEV KÜÇ., ev 33V</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSBATOVA GÜLGƏZ FƏRHAD</td><td>V.MİRZƏYEV KÜÇ., ev 33V</td><td>1945</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSGƏNDƏROV ELŞAD AĞAKİŞİ</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOV AĞARƏHİM ELDAR</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOV ƏLƏKBƏR RAFİQ</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOV ELŞƏN RAFİQ</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOV MAHİR YAŞAR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOV RAFİQ ƏLƏKBƏR</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOV RİZVAN ƏLƏKBƏR</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOV TAHİR YAŞAR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOV YAŞAR MAHAL</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOVA AİDA ƏLİABBAS</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1951</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOVA AYSUN RAFİQ</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOVA FATMA FİRUDİN</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOVA SƏBİNƏ YAŞAR</td><td>N.ABBASOV KÜÇ., ev 66</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILOVA ŞƏLALƏ AĞANAĞI</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>İSMAYILZADƏ MƏDİNƏ RİZVAN</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KAZIMOV HÜSEYN ZAHİD</td><td>N.ABBASOV KÜÇ., ev 27</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KAZIMOVA KAMALƏ ƏDALƏT</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KAZIMOVA VƏSİLƏ ƏMİN</td><td>N.ABBASOV KÜÇ., ev 46</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMLİ BƏYLƏR SARVAN</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOV ALİM GÜLHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOV ƏLİHÜSEYN GÜLHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOV ETİBAR RAMİZ</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOV GÜLHÜSEYN ƏLİHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOV GÜLHÜSEYN ƏMİR</td><td>V.MİRZƏYEV KÜÇ., ev 54</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOVA FATMAXANIM MƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 54</td><td>1932</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOVA İLHAMƏ MƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOVA NƏZAKƏT BƏHRAM</td><td>V.MİRZƏYEV KÜÇ., ev 54</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOVA SƏXAVƏT ŞİRİN</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMOVA VÜSALƏ MƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>KƏRİMZADƏ NƏZİRƏ MƏLİKAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 41</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MANSUROVA ZƏRANƏ CAHANGİR</td><td>V.MİRZƏYEV KÜÇ., ev 31A</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV AĞABABA ƏLİ</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV CEYHUN MƏSTAN</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV ELMAR ƏFQAN</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV FAİL VAQİF</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV HƏZRƏT CEYHUN</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV HÜSEYN ƏLİSƏFƏR</td><td>N.ABBASOV KÜÇ., ev 55</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV İLQAR MƏCİD</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV İSMƏT QƏRİB</td><td>N.ABBASOV KÜÇ., ev 35</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV MAHİR ƏLİVƏFA</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV MANAF MƏCİD</td><td>N.ABBASOV KÜÇ., ev 18</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV MEHMAN MƏSTAN</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV MƏLİKHEYDƏR ZÜLFÜQAR</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV MİRZƏ MƏCİD</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV NƏCƏF RAMİZ</td><td>V.MİRZƏYEV KÜÇ., ev 16</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV QƏRİB FİRUZ</td><td>N.ABBASOV KÜÇ., ev 35</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV RAMİN ZABİT</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV RÖVŞƏN MƏCNUN</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV SALEH ƏLİ-VƏFA</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV SƏTTAR DADAŞ</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV TAHİR MƏCİD</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV ZABİT MƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV ZAHİD VAQİF</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV ZAKİR MƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOV ZÜLFÜQAR VAQİF</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA FİRƏNGİZ AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>1949</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA FİRƏNGİZ MEHMAN</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA GÜLÜŞ ƏLİKRAM</td><td>N.ABBASOV KÜÇ., ev 67</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA HUMAY ZAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA İRADƏ MƏCİD</td><td>N.ABBASOV KÜÇ., ev 19</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA MƏLAHƏT BİBİQULU</td><td>N.ABBASOV KÜÇ., ev 55</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA MƏTANƏT BALAKƏRİM</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA RAMİLƏ SAHİB</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA RƏNA İLDAR</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA RUQİYYƏ MƏCİD</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA SƏİDƏ AĞABALA</td><td>N.ABBASOV KÜÇ., ev 35</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA SƏNUBƏR QASIM</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA SEVDA PƏNAH</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA SEVİNC RAMİZ</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA TƏRANƏ ZABİT</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDOVA XANIMBACI MƏHƏRRƏM</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDZADƏ MƏLAHƏT HÜSEYN</td><td>N.ABBASOV KÜÇ., ev 55</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDZADƏ QADİR HÜSEYN</td><td>N.ABBASOV KÜÇ., ev 55</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİD-ZADƏ RÖYA ZAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 18</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDZADƏ SADIQ SALEH</td><td>N.ABBASOV KÜÇ., ev 9</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏCİDZADƏ ZEYNAL VALEH</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏDƏTOV KƏNAN ELŞAD</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MEHDİYEV AĞAMUSA RÜFƏT</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MEHDİYEV RÜFƏT AĞAMUSA</td><td>V.MİRZƏYEV KÜÇ., ev 13A</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MEHDİYEVA LALƏ ÜZEYİR</td><td>V.MİRZƏYEV KÜÇ., ev 13A</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MEHTİYEV AĞAMUSA MİRİŞ</td><td>V.MİRZƏYEV KÜÇ., ev 13A</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MEHTİYEVA RƏFİQƏ SƏTULLA</td><td>V.MİRZƏYEV KÜÇ., ev 13A</td><td>1950</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏLİKƏLİYEV ABBAS ƏLİBABA</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏLİKƏLİYEV NƏCƏF ƏLİBABA</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏLİKƏLİYEV XALİQ ABAS</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏLİKƏLİYEVA SEYİDNİSƏ NƏCƏF</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏLİKƏLİYEVA VALİDƏ ALLAHVERDİ</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏLİKƏLİYEVA VALİDƏ XALIQ</td><td>N.ABBASOV KÜÇ., ev 14</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏLİKOVA XOŞQƏDƏM ƏLİYUSİF</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMƏDOV QALİB BALAHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMİŞOVA YASƏMƏN TAPDIQ</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ABUTALIB SƏFTƏR</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV AĞAHÜSEYN İMRAN</td><td>V.MİRZƏYEV KÜÇ., ev 40</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV AĞASƏİD AĞA</td><td>V.MİRZƏYEV KÜÇ., ev 42</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV BALAHÜSEYN MİRZƏ</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1946</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV CAVİD ƏBÜLFƏZ</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏBÜLFƏZ AĞATALIB</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏHMƏD QÜRBƏT</td><td>N.ABBASOV KÜÇ., ev 12</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏLİ AĞAHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1948</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏLİ BALARZA</td><td>N.ABBASOV KÜÇ., ev 1</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏLİ HEYDƏR</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏLİMƏMMƏD ƏLİAĞA</td><td>N.ABBASOV KÜÇ., ev 42</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏLİQİSMƏT MİRƏHMƏD</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏLİŞ QƏYYUM</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ƏMRAX ŞAMİL</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV HƏMİDAĞA MƏZAHİR</td><td>N.ABBASOV KÜÇ., ev 5</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV İBRAHİM NURUŞ</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV İLHAM QƏYYUM</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV İMRAN AĞAHÜSEYN</td><td>V.MİRZƏYEV KÜÇ., ev 40</td><td>1953</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV KAMAL SƏFTƏR</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV MEHDİ CAMAL</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV MƏHƏMMƏD VAHİD</td><td>N.ABBASOV KÜÇ., ev 52</td><td>2007</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV MƏMMƏD MİRZA</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1954</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV MİRƏHMƏD MİRZƏ</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV MÖMİN SƏFƏR</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV NƏSRULLA ŞİRZAD</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV NİZAMİ AĞATALIB</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV RAMİL YAŞAR</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV RƏSUL NİZAMİ</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV SAMİR MƏMMƏDƏMİN</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV SƏFTƏR CAMAL</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ŞƏHRİYAR ƏLİAĞA</td><td>N.ABBASOV KÜÇ., ev 42</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV SEYMUR NİZAMİ</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ŞİRZAD NƏSRULLA</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ŞÜKÜR ŞİRİNBALA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV TAHİR TEYMUR</td><td>V.MİRZƏYEV KÜÇ., ev 58</td><td>1951</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV TALEH TOFİQ</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV TAMERLAN BALAHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV TEYMUR TAHİR</td><td>V.MİRZƏYEV KÜÇ., ev 58</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV VAHİD İSLAM</td><td>N.ABBASOV KÜÇ., ev 52</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV VÜSAL ŞAMİL</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV XALİD ƏBÜLFƏZ</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV XEYRULLA ƏLİ</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV YAŞAR ŞİRİN</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOV ZAHİR TAHİR</td><td>V.MİRZƏYEV KÜÇ., ev 58</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA AYNURƏ ŞAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA BAHAR ŞAHGÜL</td><td>N.ABBASOV KÜÇ., ev 38</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA BƏTURƏ MİRZƏ</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ÇİMNAZXANIM KƏLPƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ELMİRA ƏLİ</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1953</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA FƏRİDƏ ƏLİBABA</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA GÜNEL ƏLİ</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA HƏMİDƏ FƏXRƏDDİN</td><td>N.ABBASOV KÜÇ., ev 55</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA İDAMƏ EYNƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 58</td><td>1950</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA İLHAMƏ VAQİF</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA KƏMALƏ SEYİDHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA LALƏ ŞİRMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA MAİLƏ ŞİRZAD</td><td>N.ABBASOV KÜÇ., ev 61</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA MEHRİBAN ƏLƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA MƏLAHƏT RASİM</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA MİRVARİ TƏYYAR</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA MİRXANIM AĞASEİD</td><td>V.MİRZƏYEV KÜÇ., ev 40</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA NURANƏ SEYLAN</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA PƏRVANƏ NURUŞ</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA QƏTİBƏ XUBƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA RƏHİLƏ DADAŞ</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA SƏBİNƏ AĞAYAR</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ŞƏFA İLHAM</td><td>N.ABBASOV KÜÇ., ev 25</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ŞƏHLA NİZAMİ</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ŞƏLALƏ ƏLİSƏFƏR</td><td>N.ABBASOV KÜÇ., ev 55</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA SƏNUBƏR HEYDƏR</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA SİMA ƏFQAN</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA SİMA ƏLİAĞA</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1954</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA VÜSALƏ AKİF</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA VÜSALƏ TELMAN</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA XANIM İMRAN</td><td>V.MİRZƏYEV KÜÇ., ev 40</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA YAQUT AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ZƏRNİŞAN SABİR</td><td>N.ABBASOV KÜÇ., ev 30</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ZEYNƏBXANIM LƏTİF</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ZÜLFİYYƏ ƏLƏSGƏR</td><td>V.MİRZƏYEV KÜÇ., ev 56</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDOVA ZÜMRÜD QÜRBƏT</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDZADƏ ƏBÜLFƏZ MƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 6</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDZADƏ KÖVSƏRXANIM MƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDZADƏ RƏCƏBƏLİ TƏYYAR</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏMMƏDZADƏ ZÜMRÜD MƏMMƏDƏLİ</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1949</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏNSİMOV ETİBAR MİRƏLƏM</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏNSİMOVA AYGÜL MİRƏLƏM</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MERENKOV İQOR ANATOLYEVİÇ</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MERENKOV VYAÇESLAV ANATOLYEVİÇ</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MERENKOVA SƏMAYA CARULLA</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏSİMOVA SƏKİNƏ YAHŞİBƏY</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MƏSİYEVA ULDUZ ZAKİR</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MEXTİYEV ABDUJALİL MƏLİKAXMƏDOVİÇ</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MEXTİYEVA AYŞAT MİRZƏBALAYEVNA</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MEXTİYEVA ELVİNA ƏBDÜLCƏLİL</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAİLOV TALE MUXTAR</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOV BƏXTİYAR YUSUF</td><td>V.MİRZƏYEV KÜÇ., ev 30</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOV EHTİBAR BÖYÜKAĞA</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOV İBRAHİM BÖYÜKAĞA</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOV MƏHƏRRƏM İSRAFİL</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOV ŞAHİN İBRAHİM</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOV XANLAR İSRAFİL</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOV ZÜLCƏLAL ZÜLFÜQAR</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOV ZÜLFÜQAR BÖYÜK</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOVA MEHRİBAN ƏLİŞİRİN</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİKAYILOVA ÜLVİYYƏ ZÜLFÜQAR</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRƏLƏMOVA VÜSALƏ MİRXAN</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRSEİBOVA FATMA TAĞI</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV BABA ƏLİYUSİF</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV BAHADUR SABİR</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV ƏBÜLFƏZ SABİR</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV ƏLİ ƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV ƏLİRZA AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV ƏLİYUSİF ƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1949</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV ƏSGƏR ƏLİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV GÜLBALA ƏLİYUSİF</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV HƏMİD SABİR</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV HÜSEYNAĞA AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV İSMAYIL ƏLİYUSİF</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV QÜDRƏTƏLİ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV SABİR ƏBÜLFƏZ</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV SÜLEYMAN ƏLİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV VAQİF ƏLİYUSİF</td><td>N.ABBASOV KÜÇ., ev 13A</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEV XOŞBƏXT İSMAYIL</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEVA ESMİRA ƏLİHEYDƏR</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEVA FATİMƏ QÜDRƏTƏLİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEVA LEYLA ƏBÜLFƏZ</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEVA RUHİYƏ RAMİZ</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEVA SƏKİNƏ MALİK</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZƏYEVA XALİDƏ MALİK</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MİRZOYEV İLHAM MİRƏLƏM</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOV ALEKSEY BÖYÜKAĞA</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOV BƏXTİYAR NURİYEVİÇ</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOV BÖYÜKAĞA ƏBDÜL</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOV HƏSƏN NURƏDDİN</td><td>N.ABBASOV KÜÇ., ev 26</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOV İBRAHİM ABDUL</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOV MƏMMƏDƏLİ BÖYÜKAĞA</td><td>N.ABBASOV KÜÇ., ev 26</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOV TƏRLAN TARVERDİ</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOVA GÜNEL VAHİB</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOVA KİFAYƏT ƏBDÜLHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOVA SİMUZƏR NURƏDDİN</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MURADOVA ZÖHRƏ XANLAR</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSAYİBOV MİKAYIL RƏFAYIL</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MÜSEYİBOV KAMRAN RƏFAİL</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSEYİBOVA SÜDABƏ MİKAYIL</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1953</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MÜSLÜMOV ZAKİR SABİR</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEV MAHİR MİRZƏBABA</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEV MALİK MİRZƏBABA</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA AYNUR İRZALİ</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA DÜRDANƏ MİRZƏBABA</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA GÜLXAR MALİK</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA HÖKÜMƏ HƏSƏNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA MƏHBUBƏ KƏLPİHÜSEYN</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA MƏNSURƏ SƏFƏR</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA NƏRGİZ MAİL</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA RƏHİMƏ MAİL</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA RUQİYYƏXANIM MALİK</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA SAMİRƏ ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA VÜSALƏ MALİK</td><td>V.MİRZƏYEV KÜÇ., ev 42A</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFAYEVA ZƏHRA ƏDALƏT</td><td>V.MİRZƏYEV KÜÇ., ev 32</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUSTAFA-ZADƏ YAQUB CAMAL</td><td>N.ABBASOV KÜÇ., ev 27</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>MUXTAROVA DİLARƏ CAHANGİR</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV ADİL İMAMƏLİ</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV BALATAĞI MÜSLÜM</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1947</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV ƏLƏKBƏR SƏRDAR</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV HACIBABA ELDAR</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV İMAMƏLİ MÜSLÜM</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV İNTİQAM ƏLİSLAM</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV MÜSLÜM BALATAĞI</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV NASİR ƏNNAĞI</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV NATİQ ƏNNAĞI</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV NƏZİRHÜSEYN ƏNNAĞI</td><td>N.ABBASOV KÜÇ., ev 28</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEV SƏRDAR MÜSLÜM</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEVA DİLŞAD ƏLİ</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEVA İRADƏ ƏLİAĞA</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEVA LEYLA ƏLİ</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1948</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIYEVA NATİQƏ NADİR</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIZADƏ HEYDƏR RAHİL</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NAĞIZADƏ İNCİNAZ KAMAL</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV BƏXTİYAR AĞAMƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 12</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV ELŞƏN ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV FAİQ AĞAMƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 12</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV FAİQ FAİQ</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV İBRAHİM MİRZAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV İLTİFAT AĞAMƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 12</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV MEHMAN AĞAMƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV MUSA AĞAMƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV SƏDİ ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEV VÜQAR ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEVA AHİLƏ ŞAKİR</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEVA ELNARƏ İLTİFAT</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEVA FATMA ƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEVA GÜLNARƏ İLTİFAT</td><td>V.MİRZƏYEV KÜÇ., ev 12</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEVA LALƏ ƏHMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEVA NƏSİBƏ ASAF</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEVA SƏADƏT FİKRƏT</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏBİYEVA ÜLFƏT MAHMUD</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏCƏFOVA SEVİL ƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİBOV FƏRİD OQTAY</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİBOV NAZİM ƏLƏKBƏR</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİBOV OQTAY ƏLƏKBƏR</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİBOV ORXAN OQTAY</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİBOV RUSLAN ƏLƏKPƏR</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİBOV ZAHİD ƏLƏKBƏR</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİBOVA TAMİLLA EDUARD</td><td>V.MİRZƏYEV KÜÇ., ev 4</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİBZADƏ NURAY ZAHİD</td><td>N.ABBASOV KÜÇ., ev 4</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİRZADƏ MEHDİ TELMAN</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİR-ZADƏ MƏLAHƏT AYDIN</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1973</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİR-ZADƏ MİKAYIL TELMAN</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏSİRZADƏ TALEH TELMAN</td><td>V.MİRZƏYEV KÜÇ., ev 23</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏZƏROVA ARZU OQTAY</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NƏZƏROVA ZEMFİRA RAFAYIL</td><td>V.MİRZƏYEV KÜÇ., ev 50A</td><td>2000</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NOVRUZOV ARİF ƏLİBABA</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NOVRUZOV ƏLİBABA ADƏM</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NOVRUZOV FUAD ARİF</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NOVRUZOV SƏBUHİ FUAD</td><td>N.ABBASOV KÜÇ., ev 10</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NOVRUZOVA SƏDAQƏT ƏLİ</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NURİYEVA NİYƏTXANIM ƏLİHEYDƏR</td><td>V.MİRZƏYEV KÜÇ., ev 16</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NUSALOV RÖVŞƏN TEYMUR</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NUSALOV TEYMUR QAFUR</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1949</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NUSALOVA AYSEL TEYMUR</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NUSALOVA KƏMALƏ ŞAMİL</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>NUSALOVA SEVİNC TEYMUR</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ORUCOV ƏLİ İLQAR</td><td>V.MİRZƏYEV KÜÇ., ev 48</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ORUCOV MALİK CABİR</td><td>N.ABBASOV KÜÇ., ev 46</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ORUCOV NAİB MALİK</td><td>N.ABBASOV KÜÇ., ev 46</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ORUCOVA FATMA MALİK</td><td>N.ABBASOV KÜÇ., ev 46A</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ORUCOVA HƏMİDƏ MALİK</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ORUCOVA MƏDİNƏ ƏDALƏT</td><td>N.ABBASOV KÜÇ., ev 46A</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ORUCOVA TƏRANƏ ŞAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 48</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>PAŞAYEVA GÜLÇÖHRƏ BƏYLƏR</td><td>V.MİRZƏYEV KÜÇ., ev 17</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QAFAROV MİRCALAL KAMAL</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEV EYVAZ ƏLİBALA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEV HƏSƏNAĞA ƏLİBALA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEV RÜSTƏM XOŞBƏXT</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEV SƏYAVUŞ ƏLİBALA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEV SÜBHAN ƏLİBALA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEV XOŞBƏXT ƏLİBALA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEVA AZADƏ ALİM</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEVA ELMİRA HÜMBƏTƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEVA FƏRİDƏ SƏXAVƏT</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEVA NÜŞABƏ SƏYAVUŞ</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEVA SƏKİNƏ HƏSƏNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QARAYEVA XƏYALƏ SÜBHAN</td><td>V.MİRZƏYEV KÜÇ., ev 11</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOV AĞASƏLİM GÜLAĞA</td><td>N.ABBASOV KÜÇ., ev 3</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOV ƏZİM VİDADİ</td><td>V.MİRZƏYEV KÜÇ., ev 28</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOV MAYİL VİDADİ</td><td>V.MİRZƏYEV KÜÇ., ev 28</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOV MEHDİ VİDADİ</td><td>V.MİRZƏYEV KÜÇ., ev 28</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA AYNURƏ GÜLAĞA</td><td>N.ABBASOV KÜÇ., ev 3</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA BƏDİRNİSƏ RAKİF</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA CƏMİLƏ YAXŞIBEY</td><td>V.MİRZƏYEV KÜÇ., ev 50</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA ESMİRA MƏMMƏDAĞA</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA GÜLXARA ZÜLFİ</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA NAZLI RÜSTƏM</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA TAMİLƏ ƏLİMƏMMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 28</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA XATİRƏ ÇİNGİZ</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA XURAMAN ƏLƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 26</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QASIMOVA ZEYNƏB ƏLİ</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QƏDİROV ADİL AĞAMUSA</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QƏDİROV HÜSEYN GÜLBALA</td><td>N.ABBASOV KÜÇ., ev 2</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QƏDİROV İSMAYIL AĞAMUSA</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QƏDİROVA FATMA VAQİF</td><td>N.ABBASOV KÜÇ., ev 37</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QƏDİROVA GÜLNARA ƏLİ</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QƏDİROVA ZEYNƏB NASİR</td><td>V.MİRZƏYEV KÜÇ., ev 9</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QƏMBƏROVA SƏKİNƏ YAŞAR</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QƏNBƏRLİ ŞAHİN RÖVŞƏN</td><td>N.ABBASOV KÜÇ., ev 6</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QİYASOVA RƏQSANƏ RUSLAN</td><td>N.ABBASOV KÜÇ., ev 53</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULAMOVA LEYLA SƏTTAR</td><td>N.ABBASOV KÜÇ., ev 17</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULAMOVA SƏBİNƏ SƏTTAR</td><td>N.ABBASOV KÜÇ., ev 20</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ADİL BÖYÜKAĞA</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV AĞAMƏMMƏD ƏLİBALA</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV BİBİQULU VİDADİ</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV DİLAVƏR CANGİR</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ƏLƏKBƏR ƏLİCƏFƏR</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ƏLİ ƏLİCƏFƏR</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ƏLİBALA HEYBAT</td><td>N.ABBASOV KÜÇ., ev 47</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ƏLİCƏFƏR AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1954</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ƏLİHEYDƏR İMANVERDİ</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ƏLİKRAM ƏLİCƏFƏR</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ƏLİMƏMƏD OQTAY</td><td>V.MİRZƏYEV KÜÇ., ev 2</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ƏLİSƏTTAR İMANVERDİ</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ELMAN VİDADİ</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV GÜLMƏMMƏD ŞAKİR</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV HƏSƏN PAŞA</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV HÜSEYN YAŞAR</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV MƏHƏRRƏM İBRAHİM</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV NAHİD RZA</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV NAMİK AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV NASİR RZA</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV NATİQ RZA</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV SAHİB ZAKİR</td><td>N.ABBASOV KÜÇ., ev 29</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ŞAKİR GÜLMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV SƏNAN SƏRVƏR</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV TACƏDDİN ƏLİBALA</td><td>N.ABBASOV KÜÇ., ev 48</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV YAŞAR MƏŞƏDİ</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ZAKİR GÜLMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEV ZÜLFİ MƏŞƏDİ</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA ƏMİNƏ QƏRİB</td><td>N.ABBASOV KÜÇ., ev 35</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA FATMA ƏVƏZƏLİ</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA GÜLARA İNŞALLA</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA HÜRZAD HACIBALA</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA KÜBRA ADİL</td><td>V.MİRZƏYEV KÜÇ., ev 16</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA LEYLA İSRAFİL</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1940</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA MƏTANƏT BƏHRAM</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA NATƏVAN AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA NATİQƏ RAHİB</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA NƏRMİN İMAMVERDİ</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA QƏRİFƏ BƏYDƏMİR</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1947</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA SƏBİNƏ ŞƏRİF</td><td>V.MİRZƏYEV KÜÇ., ev 3</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA SEYZADƏ ƏHMƏD</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA SOLMAZ MİKAYIL</td><td>N.ABBASOV KÜÇ., ev 6</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA ŞÖVKƏT İSMİXAN</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA SUNARƏ İNŞALLA</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA TƏHMİNƏ ƏLİBALA</td><td>N.ABBASOV KÜÇ., ev 48</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA TÜNZALƏ NADİR</td><td>V.MİRZƏYEV KÜÇ., ev 27</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULİYEVA ZÜMRÜD FİRUZ</td><td>N.ABBASOV KÜÇ., ev 47</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULUZADƏ ALLAHVERDİ ƏLİSƏTTAR</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULUZADƏ ƏLİ NATİQ</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>2006</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QULUZADƏ RUHİYYƏ HACIHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOV CAHANGİR ZAMİN</td><td>V.MİRZƏYEV KÜÇ., ev 31A</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOV ƏLİ SƏRTİB</td><td>N.ABBASOV KÜÇ., ev 23</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOV RƏVAN ÇİNGİZ</td><td>N.ABBASOV KÜÇ., ev 50</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOV SƏRTİB ƏLİ</td><td>N.ABBASOV KÜÇ., ev 23A</td><td>1940</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOV ZAMİN CAHANGİR</td><td>V.MİRZƏYEV KÜÇ., ev 31A</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOV ZEYNAL RAMİZ</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOVA AZADƏ SƏİD</td><td>N.ABBASOV KÜÇ., ev 23B</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOVA LEYLA ZAMİN</td><td>V.MİRZƏYEV KÜÇ., ev 31A</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOVA MARİYA ZAMİN</td><td>V.MİRZƏYEV KÜÇ., ev 31A</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOVA RƏSMİYYƏ HƏSƏNAĞA</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOVA SƏMAYƏ SƏRTİB</td><td>N.ABBASOV KÜÇ., ev 23A</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOVA SEVİL SƏRTİB</td><td>N.ABBASOV KÜÇ., ev 23A</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOVA TAHİRƏ PAŞA</td><td>V.MİRZƏYEV KÜÇ., ev 31A</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>QURBANOVA TAMİLLA TEYMUR</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RAMAZANOVA GÜLNARƏ HACIBALA</td><td>V.MİRZƏYEV KÜÇ., ev 20</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHİMLİ ELGÜN ELDƏNİZ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHİMOV ADİL MƏZAHİR</td><td>V.MİRZƏYEV KÜÇ., ev 60</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHİMOV HÜSEYN VÜQAR</td><td>N.ABBASOV KÜÇ., ev 9</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHİMOV MƏZAHİR VƏLİ</td><td>V.MİRZƏYEV KÜÇ., ev 60</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHİMOVA ELNARƏ İLTİFAT</td><td>V.MİRZƏYEV KÜÇ., ev 10</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHİMOVA FİRƏNGİZ HÜSEYN</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1954</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHİMOVA FİZZƏ ZÜLFİ</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHİMOVA SONAXANIM HƏMİDULLA</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHMANOVA ƏZİZƏ ƏLƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏHMANOVA FƏRİDƏXANIM ƏHMƏDAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 38</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏSULOV BALAHÜSEYN RƏSUL</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏSULOVA FİRUZƏ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 11</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏSULOVA GÜNAY SƏRDAR</td><td>N.ABBASOV KÜÇ., ev 32</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RƏSULOVA HƏMİDƏ HƏSƏNBALA</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMLİ HÜSEYN RÜSTƏM</td><td>N.ABBASOV KÜÇ., ev 8</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV BƏŞİR FAMİL</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV CAMAL MUSTAFA</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV CƏLAL MUSTAFA</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV ƏBDÜLAĞA ƏLİABAS</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV FAMİL MUSTAFA</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV İMRAN AĞAŞƏRİF</td><td>N.ABBASOV KÜÇ., ev 24</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV MUSTAFA CƏLAL</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV RZA FAMİL</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOV SƏBUHİ ÇİNGİZ</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA İLHAMƏ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA İLHAMƏ ƏLİƏSKƏR</td><td>N.ABBASOV KÜÇ., ev 4</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA QƏMƏR ELMAN</td><td>N.ABBASOV KÜÇ., ev 70</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA QIZBALA İSRAFİL</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA QIZTAMAM ƏLİABAS</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA RUHƏNGİZ ÇİNGİZ</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA SƏADƏT ÇİNGİZ</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA SƏXAVƏT FAZİL</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA YAQUT CAMAL</td><td>N.ABBASOV KÜÇ., ev 21</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA ZƏHRA GÜLMƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RÜSTƏMOVA ZEYNƏB MƏMMƏDAĞA</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEV FİZULİ BÖYÜKAĞA</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEV İBRAHİM MAİS</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEV TƏRLAN RZA</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEV ZAUR NƏRİMAN</td><td>V.MİRZƏYEV KÜÇ., ev 46</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEVA AYBƏNİZ SABİR</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1980</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEVA ELMİRA TAHİR</td><td>V.MİRZƏYEV KÜÇ., ev 58</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEVA FATİMƏ TAHİR</td><td>V.MİRZƏYEV KÜÇ., ev 58</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEVA İLHAMƏ TAHİR</td><td>V.MİRZƏYEV KÜÇ., ev 58</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEVA SEVDA SƏFƏRƏLİ</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAYEVA ÜLKƏR SALEH</td><td>V.MİRZƏYEV KÜÇ., ev 46</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>RZAZADƏ RƏŞAD ELŞAD</td><td>N.ABBASOV KÜÇ., ev 12</td><td>2005</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SADIXOV ƏZİZ AĞAYAR</td><td>N.ABBASOV KÜÇ., ev 23</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SADIXOV İBRAHİM NƏCƏF</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SADIXOV NƏCƏF TƏYYAR</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SADIXOVA SƏRIGÜL QÜDRƏT</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1946</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SADIXOVA ÜLVİYYƏ NƏCƏF</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SADIXOVA ZÜLFİYYƏ İSPƏR</td><td>N.ABBASOV KÜÇ., ev 12</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ŞAHMURADOVA MEHPARƏ HACI</td><td>N.ABBASOV KÜÇ., ev 54</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SALAHOV SƏDAYİ İSMAYIL</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SARXOŞOV ZAKİR İLDIR</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1957</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SARXOŞOVA MİRVARİ AĞAGÜL</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1962</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ŞƏBİYEVA BƏDİRNİSƏ GÜLAĞA</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROV BƏHRUZ ƏVƏZ</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROV ƏFQAN QURBANƏLİ</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROV HÜSEYNAĞA İBRAHİM</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROV İBRAHİM HÜSEYNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA FƏRZANƏ ƏHMƏDAĞA</td><td>N.ABBASOV KÜÇ., ev 30</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA GÜLARƏ HÜSEYN</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA GÜLZAR ƏFQAN</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA İRADƏ AĞAYAR</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA NİGAR HÜSEYNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA PƏRVANƏ ƏVƏZ</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA TƏRANƏ ƏVƏZ</td><td>N.ABBASOV KÜÇ., ev 9</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA TOFİQƏ ƏLİSA</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏFƏROVA ZAHİDƏ HƏSƏNAĞA</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏLİMOV MÜSLÜM OQTAY</td><td>N.ABBASOV KÜÇ., ev 38</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏLİMOVA CƏMİLƏ OQTAY</td><td>N.ABBASOV KÜÇ., ev 38</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏLİMOVA TƏRANƏ HƏSƏN</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏRXOŞOV NAHİD ZAKİR</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1983</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏRXOŞOV VASİF ZAKİR</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SƏRXOŞOVA SƏBİNƏ RAMİZ</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SEYFƏLOV RƏSUL MƏMMƏDMİRZƏ</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SEYFƏLOVA GÜLTAMAM ƏLİ</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SEYİDOV ORXAN MƏCİDOVİÇ</td><td>N.ABBASOV KÜÇ., ev 7</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ŞİRİNOVA ƏMİNƏ AYAZ</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SULTANOV HƏSƏNAĞA MİRZƏ</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1951</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SULTANOV MİRZƏ HƏSƏNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SULTANOVA QƏMƏRXANIM CANKİŞİ</td><td>V.MİRZƏYEV KÜÇ., ev 1</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>SUVAROVA SÜDABƏ RAMİZ</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEV FİZULİ MALİK</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEV MAHİR NİZAMİ</td><td>N.ABBASOV KÜÇ., ev 39</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEV MALİK FİZULİ</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEV MARİF NİZAMİ</td><td>N.ABBASOV KÜÇ., ev 39</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEV MİRAĞA HƏBİB</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEV YUSİF MALİK</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEVA ELMARA İMAMNƏZƏR</td><td>N.ABBASOV KÜÇ., ev 12A</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEVA FƏRİDƏ MAHMUD</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEVA İRADƏ MƏMMƏD</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1976</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEVA LƏYAQƏT ÇİNGİZ</td><td>N.ABBASOV KÜÇ., ev 10</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEVA MİNƏXANIM FİZULİ</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEVA SVETLANA PƏRVİZ</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1955</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIYEVA ZÜLFİYYƏ MALİK</td><td>N.ABBASOV KÜÇ., ev 39</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TAĞIZADƏ QƏRİB MİRAĞA</td><td>N.ABBASOV KÜÇ., ev 2</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TALIBOV PAŞA RZAXAN</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1952</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TALIBOVA ŞƏHLA HÜSEYNƏLİ</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>TALIBOVA SEVDA MİRZƏHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VAHABOV BƏHRUZ FİRUZ</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VAHABOV ELŞAD FİRUZ</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VAHABOV FAİQ FİRUZ</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VAHABOV FİRUZ ƏLİMİRZƏ</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1941</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VAHABOVA CƏMİLƏ TARAMXAN</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VAHABOVA VƏZİLƏ FAİQ</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>2004</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VAHABZADƏ CƏMİL ELŞAD</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VƏLİYEV ƏLƏSGƏR MÜSLÜM</td><td>N.ABBASOV KÜÇ., ev 68</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VERDİYEV ELDAR SALMAN</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>VERDİYEVA LALƏ İSA</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XAMMƏDOVA ŞƏFƏQ ƏLİYEVNA</td><td>N.ABBASOV KÜÇ., ev 8A</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XANIŞOVA GÜLNARƏ SƏFƏRƏLİ</td><td>N.ABBASOV KÜÇ., ev 8</td><td>1977</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLLİ NURLAN XƏLİL</td><td>V.MİRZƏYEV KÜÇ., ev 7</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV ƏLÖVSƏT BƏHRAM</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV ELXAN VAQİF</td><td>V.MİRZƏYEV KÜÇ., ev 56</td><td>1969</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV EMİL NİZAM</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV FƏRHAD BƏHRAM</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV FƏRHAD ŞƏMSƏDDİN</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1958</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV HƏMİD FƏRHAD</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV İBRAHİM ƏLÖVSƏT</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV İSMAYIL BƏHRAM</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV KƏMRAN YAŞAR</td><td>V.MİRZƏYEV KÜÇ., ev 34</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV MƏHƏRRƏM İSMAYIL</td><td>V.MİRZƏYEV KÜÇ., ev 52</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV NATİQ BƏHRƏM</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV NİZAM EYNULLA</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV SƏMİD ŞƏMSƏDDİN</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV SÜBHAN MİKAYIL</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOV TELMAN NADİR</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1971</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA AYNA BALAKƏRİM</td><td>N.ABBASOV KÜÇ., ev 7</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA DÜRDANƏ MİKAYIL</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA GÜLARƏ HÜSEYNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 7</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA GÜNEL QASIM</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA KƏBİRƏ ƏHMƏD</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA LALƏ İBRAHİM</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1964</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA LALƏ TAHİR</td><td>N.ABBASOV KÜÇ., ev 15A</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA LALƏ ÜZEYİR</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA MƏDİNƏ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1965</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA PƏRVANƏ NAZİM</td><td>N.ABBASOV KÜÇ., ev 16</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA QIZQAYID FƏRHAD</td><td>N.ABBASOV KÜÇ., ev 13</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA RƏHİMƏ XƏLİL</td><td>V.MİRZƏYEV KÜÇ., ev 7</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA SƏLİMƏXANIM MƏMMƏDMİRZƏ</td><td>N.ABBASOV KÜÇ., ev 50</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA SEVİNC RÜSTƏM</td><td>N.ABBASOV KÜÇ., ev 24</td><td>1979</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA YAQUT BƏHRAM</td><td>N.ABBASOV KÜÇ., ev 58</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLOVA ZƏHRA QABİL</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XƏLİLZADƏ ELNUR ELXAN</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XUDAZAROV TƏRLAN MƏMMƏDƏLİ</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1991</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XUDAZAROVA FƏRQANƏ MƏMMƏDƏLİ</td><td>N.ABBASOV KÜÇ., ev 27</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XUDİYEVA KÖNÜL ABAS</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XUŞKARİ AĞABACI ƏSGƏR</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>XUŞKARİ HƏBİBƏ ƏLİ</td><td>N.ABBASOV KÜÇ., ev 22</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ AĞASƏLİM AĞAYUSİF</td><td>V.MİRZƏYEV KÜÇ., ev 15</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ AĞAYUSİF AKİF</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1992</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ ƏFQAN AĞASƏLİM</td><td>V.MİRZƏYEV KÜÇ., ev 15</td><td>1982</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ GÜLMİRƏ İMAMNƏZƏR</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ HACIBALA AĞAYUSİF</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1966</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ HƏSƏN QABİL</td><td>V.MİRZƏYEV KÜÇ., ev 31</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ İMAMƏ ELŞAD</td><td>V.MİRZƏYEV KÜÇ., ev 13</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ KUBRƏ ƏHMƏD</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1947</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ MAHİR AĞASƏLİM</td><td>V.MİRZƏYEV KÜÇ., ev 15</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ QALİB BALASƏLİM</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ RAMİL QABİL</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ RƏHİLƏ AKİF</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1990</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ SAMİR AĞASƏLİM</td><td>V.MİRZƏYEV KÜÇ., ev 15</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ SAMİRƏ NAMİK</td><td>V.MİRZƏYEV KÜÇ., ev 31</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ SƏDAQƏT ŞİRİNAĞA</td><td>V.MİRZƏYEV KÜÇ., ev 31</td><td>1959</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ ŞƏHLA AYDIN</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1972</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ TƏRLAN BALASƏLİM</td><td>V.MİRZƏYEV KÜÇ., ev 29</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ ZABİL QABİL</td><td>V.MİRZƏYEV KÜÇ., ev 31</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUBZADƏ ZAUR QABİL</td><td>V.MİRZƏYEV KÜÇ., ev 31</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YAQUB-ZADƏ ZENFİRA TARAMXAN</td><td>V.MİRZƏYEV KÜÇ., ev 15</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSİFOVA FATMA ABDULQADİR</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSİFOVA LALƏ CƏMİL</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1930</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSİFOVA NURANƏ AĞAGÜL</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>2002</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSUBOV MÜŞFIQ AŞUR</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1981</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSUBOVA ƏVŞAN SURƏT</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSUBOVA RƏFIQƏ XALIQ</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1970</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSUBOVA ZÜLFİYYƏ TOFİQ</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSUPOV ƏLƏKBƏR RAUF</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSUPOV RAUF ƏLƏKBƏR</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YUSUPOVA AIDƏ BALHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1986</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YÜZBAŞIYEV RƏSUL BALASƏN</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1968</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YÜZBAŞIYEVA ŞAMAMA SURƏCƏDDİN</td><td>N.ABBASOV KÜÇ., ev 22D. 3</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>YÜZBAŞIZADƏ YUSİF RƏSUL</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1998</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAHIDOVA GÜNEL BƏYBALA</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1994</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAKİROV VÜQAR ADİL</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1978</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAMANLI ASIM VASIF</td><td>N.ABBASOV KÜÇ., ev 1</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAMANLI QƏMƏR XUDAYAT</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAMANOV ƏBDÜLQƏNİ ŞAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAMANOV EHTİBAR ABDUL</td><td>N.ABBASOV KÜÇ., ev 65</td><td>1967</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAMANOV ŞAMİL ƏBDÜLQƏNİ</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAMANOVA KİFAYƏT GƏNCİ</td><td>V.MİRZƏYEV KÜÇ., ev 21</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZAMANOVA YEGANƏ NƏZƏR</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZƏRBƏLİYEV COŞQUN BALAKERİM</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1997</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZƏRBƏLİYEV ƏSKƏRALI ƏSKƏR</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1953</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZƏRBƏLİYEV ŞƏHRİYAR NUHBALA</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZƏRBƏLİYEVA AYGÜN BALAHÜSEYN</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZƏRBƏLİYEVA AYTƏN ELXAN</td><td>N.ABBASOV KÜÇ., ev 1</td><td>2003</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZƏRBƏLİYEVA FƏRİDƏ ƏHƏD</td><td>N.ABBASOV KÜÇ., ev 5</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZƏRBƏLİYEVA NURANƏ İLQAR</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1999</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYDULLAYEV FAİQ ƏZİZAĞA</td><td>N.ABBASOV KÜÇ., ev 14</td><td>1956</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOV ANAR KAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1985</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOV ƏLİİSKƏNDƏR ABUMÜSLİM</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1963</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOV FAMIL MIRZƏBABA</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1961</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOV MÜSLÜM ƏLİİSKƏNDƏR</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1989</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOV TEYMUR BABALI</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOV VÜQAR GÜLƏLİ</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1975</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOV VÜSAL KAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1987</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOVA AYNUR KAMİL</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOVA AYTƏN TOFIQ</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1984</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOVA KƏMALƏ XASAY</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOVA KİFAYƏT AĞARZA</td><td>V.MİRZƏYEV KÜÇ., ev 5</td><td>1960</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOVA MİNƏ SƏMƏD</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNALOVA PAKIZƏ RAHIL</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1974</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNƏLZADƏ TALEH TEYMUR</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1995</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZEYNULOVA GÜLNİSƏ FEYRUZ</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1988</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZÜLFÜQAROV CEYHUN HEYDƏR</td><td>N.ABBASOV KÜÇ., ev 1</td><td>2001</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZÜLFÜQAROV COŞQUN HEYDƏR</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1996</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZÜLFÜQAROVA FIRUZƏ HEYDƏR</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1993</td>
+		</tr><tr>
+			<td>13</td><td>1</td><td>ZÜLFÜQAROVA PƏRIŞ ŞAHSƏD</td><td>N.ABBASOV KÜÇ., ev 1</td><td>1966</td>
+		</tr>
+	

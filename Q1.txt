@@ -1,0 +1,2576 @@
+<tr>
+			<th scope="col">Dairənin kodu</th><th scope="col">Məntəqənin kodu</th><th scope="col">Seçicinin soyadı, adı, atasının adı</th><th scope="col">Daimi yaşayış yerinin ünvanı <br>(küçə, evin nömrəsi)</th><th scope="col">Təvəllüd</th>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABAKAROV ƏBDÜLNADİR ŞEYDA</td><td>S. YESENİN KÜÇ., ev 12</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABAKAROVA AİDA ƏBDÜLNADİROVNA</td><td>S. YESENİN KÜÇ., ev 12</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABAKAROVA VERMAZ MƏHƏMMƏDŞƏFİYEVNA</td><td>S. YESENİN KÜÇ., ev 12</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABASOV AĞAMƏLİ ƏLİABAS</td><td>S. YESENİN KÜÇ., ev 87</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABASOV NİCAT AĞAMƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABASOV VÜSAL NİZAMİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABASOVA CƏMİLƏ CAVANŞİR</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABASOVA GÜLSARA İMRAN</td><td>S. YESENİN KÜÇ.</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABASOVA İRADƏ TAHİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABASOVA RƏNA CAVANŞİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABAS-ZADƏ ELDAR CƏFƏR</td><td>S. YESENİN KÜÇ.</td><td>1941</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV AKİF ƏLİ</td><td>S. YESENİN KÜÇ., ev 12</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV CABBAR ABBAS</td><td>S. YESENİN KÜÇ., ev 25</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV CƏLAL ABBAS</td><td>S. YESENİN KÜÇ.</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV ELÇİN CANBLAT</td><td>S. YESENİN KÜÇ., ev 9</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV HÜSEYN ABBAS</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV İLHAM VAHAB</td><td>S. YESENİN KÜÇ.</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV KAMİL AĞAMİRZƏ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV MÖHÜBBƏT İSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1948</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV OLEQ QALİB</td><td>S. YESENİN KÜÇ., ev 42</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV QƏHRƏMAN LƏTİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOV RUSLAN XEYBƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA ALFİYA MUNİROVNA</td><td>S. YESENİN KÜÇ., ev 3</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA AYGÜN ARİF</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA GÜLLÜ NOVRUZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA GÜLŞƏN TEYMUR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA İNCİXANIM ŞAHPAZ</td><td>S. YESENİN KÜÇ., ev 9</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA KİFAYƏT MƏHƏMMƏDİYƏ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA LEYLA HÜSEYN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA NURANƏ İLHAM</td><td>S. YESENİN KÜÇ., ev 1</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA RAHİLƏ ƏVƏZ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA ŞƏBNƏM BƏXTİYAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA SƏFAYƏ NƏRİMAN</td><td>S. YESENİN KÜÇ., ev 11</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA SƏRFİ TELMAN</td><td>S. YESENİN KÜÇ., ev 12</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA TAMİLLA İSLAM</td><td>S. YESENİN KÜÇ., ev 10</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA XATAYA EYVAZ</td><td>S. YESENİN KÜÇ.</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA XƏDİCƏ NƏSRƏDDİN</td><td>S. YESENİN KÜÇ., ev 9</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA ZƏMİNƏ TAHİR</td><td>S. DADAŞOV KÜÇ.</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABBASOVA ZEYNƏB ABBAS</td><td>S. YESENİN KÜÇ., ev 25</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDUL BASIR İLHAMUDDİN MOHAMMAD AKBAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV ABDULLA ƏLİABBAS</td><td>S. YESENİN KÜÇ., ev 5</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV AQŞİN ELMƏDDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV ASİM AZƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV AZƏR TAHİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV BAYRAM HAQVERDİ</td><td>S. YESENİN KÜÇ., ev 16</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV ELDAR HƏSƏN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV ƏLİ ELŞAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV ƏLİ TƏRLAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV ELMAR AĞASI</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV ELŞAD BABA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV EMİL ALİM</td><td>S. YESENİN KÜÇ.</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV FƏRİD HƏBİB</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV İLHAM SEYFULLA</td><td>S. YESENİN KÜÇ., ev 42</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV MAHİR KİNYAZ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV MƏHƏMMƏD TƏRLAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV ORXAN ALİM</td><td>S. YESENİN KÜÇ.</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEV SALEH İLHAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA AİDA CAMAL</td><td>S. YESENİN KÜÇ., ev 3</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA BƏYİM MİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA FƏRİDƏ YƏHYA</td><td>S. YESENİN KÜÇ.</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA GÜLNARA YUNİST</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA GÜLŞƏN RAFİQ</td><td>S. YESENİN KÜÇ., ev 11</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA MÜŞKÜNAZ SOLTAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA NƏZAKƏT ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA RƏQSANƏ MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 9</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA SƏBİNƏ ARİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA SƏBİNƏ VASİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA SEVİNC OQTAY</td><td>S. YESENİN KÜÇ.</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA SÜRƏYYA İBRAHİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA VƏFA VAQİF</td><td>S. YESENİN KÜÇ., ev 8</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAYEVA ZƏKİYYƏ VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLAZADƏ FATMA ALLAHVERDİ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLA-ZADƏ MƏRYƏM İBRAHİM</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULLA-ZADƏ ZƏKİYYƏ İBRAHİM</td><td>S. YESENİN KÜÇ., ev 14</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDULOV FAİQ FAZİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDURƏHMANOV KƏNAN SAHİB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABDUSƏLİMOVA MUFRİCAT BEDULAYEVNA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABİDOV NATİQ ŞİRXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABİDOVA MƏLAHƏT XALİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABIŞOV ELGÜN MEHMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ABİYEVA XANIM ADİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADGÖZƏLOVA LALƏ MEHMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADIGÖZƏLOV BİLƏNDƏR CÜMŞÜD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADIGÖZƏLOV CƏMİL BİLƏNDƏR</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADIGÖZƏLOVA KƏMALƏ ZAHİD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADİGÖZƏLOVA KÖNÜL FƏXRƏDDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADIGÖZƏLOVA LEYLA BİLƏNDƏR</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADIGÖZƏLOVA MƏNSUMƏ NATİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADIGÖZƏLOVA NAİLƏ BƏLƏNDƏR</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ADIMOVA ŞƏLALƏ VAQİF</td><td>S. YESENİN KÜÇ.</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AFQANLI KRİSTİNA SƏFƏR</td><td>S. YESENİN KÜÇ.</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AFQANLI RUSLAN HÜSEYNOVİÇ</td><td>S. YESENİN KÜÇ.</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞABABAYEVA BİLQEYİS TAHİR</td><td>S. YESENİN KÜÇ.</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞABALAYEV ZAKİR AĞAKƏRİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞABALAYEVA AYTƏN ARİF</td><td>S. YESENİN KÜÇ., ev 4</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞABALAYEVA İNDİRA ABDULNADİR</td><td>S. YESENİN KÜÇ., ev 12</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞABƏYOVA AYNURƏ ƏDALƏT</td><td>S. YESENİN KÜÇ., ev 8</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞABƏYOVA RƏNA ƏDALƏT</td><td>S. YESENİN KÜÇ.</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞABƏYOVA ZƏHRA BƏHRAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞACANOV SƏMƏDAĞA ƏLİFAQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞACANOVA GÜNAY SƏMƏDAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAKİŞİYEV RAMİZ RAFİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAKİŞİYEV VÜSAL ELŞAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAKİŞİYEVA GÜNEL HİDAYƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞALAROV MİRBABA MİRHƏBİB</td><td>S. YESENİN KÜÇ., ev 7</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞALAROV MİRHƏBİB MİRBABA</td><td>S. YESENİN KÜÇ., ev 7</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞALAROVA PƏRVANƏ HÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞALAROVA XALİDƏ AĞAHÜSEYN</td><td>S. YESENİN KÜÇ., ev 7</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞALAROVA ZÜLFİYYƏ MİRBABA</td><td>S. YESENİN KÜÇ., ev 7</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAMƏTOVA VALİDƏ NAZİM</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞARZAYEV İLQAR AKİF</td><td>S. YESENİN KÜÇ., ev 20</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞASİYEV ASİF HAFİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞASİYEVA KƏMALƏ QABİL</td><td>S. YESENİN KÜÇ.</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞASİYEVA XƏYALƏ HAFİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>2003</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAXANOV İMRAN RAFİQ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAXANOV RASİM RAFİK</td><td>S. YESENİN KÜÇ., ev 15</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAXANOVA RƏHİLƏ ZEYDULLA</td><td>S. YESENİN KÜÇ., ev 15</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV ANAR ELDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV CAVİD MƏHƏRRƏMƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV ELÇİN NADİR</td><td>S. YESENİN KÜÇ., ev 4</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV ELNUR RƏHİM</td><td>S. YESENİN KÜÇ.</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV EMİL ARİF</td><td>S. YESENİN KÜÇ., ev 4</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV EMİN ETİBAR</td><td>S. YESENİN KÜÇ., ev 1</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV ETİBAR BƏYƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV ETİBAR YAVƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV İSMAYIL RÖVŞƏN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV MƏHƏRRƏMƏLİ SƏRRAF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV MƏMMƏDHÜSEYN AĞAKƏRİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV MİRAĞA SALEH</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV MURAD ƏZİZAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV RÜFƏT ARİF</td><td>S. YESENİN KÜÇ., ev 4</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV RÜSTƏM ƏLİ</td><td>S. YESENİN KÜÇ., ev 20</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV ŞAHİN ETİBAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV SAMİR ƏLİ</td><td>S. YESENİN KÜÇ.</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEV VÜSAL RAMİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA AYSEL NİZAM</td><td>S. YESENİN KÜÇ., ev 9</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA ƏFSANƏ SURXAY</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA ELMİRA SƏRRAF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA GÜLZAR MƏHƏRRƏM</td><td>S. YESENİN KÜÇ., ev 9</td><td>1946</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA LALƏ AĞAŞİRİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA LARİSA VLADİMİROVNA</td><td>S. YESENİN KÜÇ.</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA MƏLAHƏT KAMİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA MƏTANƏT HƏCİVERDİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA MƏTANƏT SALEH</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA NABAT ƏŞRƏF</td><td>S. YESENİN KÜÇ., ev 7</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA NAİDA RAVİLYEVNA</td><td>S. YESENİN KÜÇ.</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA NARGİLƏ ƏLQƏMƏ</td><td>S. YESENİN KÜÇ., ev 12</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA RUBABƏ NURƏDDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA SABİRƏ MƏHƏRRƏM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA SƏBİNƏ ŞAHLAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA SİTARƏ BƏYİŞ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA TAMİLA XANCANOVNA</td><td>S. YESENİN KÜÇ., ev 17</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAYEVA TURANƏ MƏHƏRRƏM</td><td>S. YESENİN KÜÇ., ev 15</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞA-ZADƏ MİR MEHDİ MİR XALIQ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAZADƏ MİRFƏRİD MİRMEHTİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AĞAZADƏ SƏRVƏR ƏNVƏR</td><td>S. YESENİN KÜÇ.</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AJOYÇİK NATALİYA NİKOLAYEVNA</td><td>S. YESENİN KÜÇ., ev 7</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AKİMOVA YEGANƏ MƏMMƏDAĞA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALİŞOV BALARƏZİ İBİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1940</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALIŞOV MAHİR BALARZA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALIYEV ALI DAĞISTAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALIYEV XƏQANİ HASİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEV CAVAD AZƏR</td><td>S. YESENİN KÜÇ., ev 14</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEV CAVİD AZƏR</td><td>S. YESENİN KÜÇ., ev 14</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEV ORXAN TOFİQ</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEV VAQİF NƏHMƏT</td><td>S. YESENİN KÜÇ., ev 83</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEVA KƏKLİK ƏSGƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEVA ROZA XƏLİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1949</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEVA ŞƏFİQƏ ALLAHVERDİ</td><td>S. YESENİN KÜÇ., ev 25</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEVA ŞƏHLA VAQİF</td><td>S. YESENİN KÜÇ., ev 83</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEVA SEVİL NURULLA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALLAHVERDİYEVA ZÜLFİYYƏ VAQİF</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALMASOVA RUŞANİYA ZEYTULLOVNA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALMASZADƏ ƏLİHEYDƏR RÖVŞƏN</td><td>S. YESENİN KÜÇ.</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALMURADOVA AFƏT MÜRSƏL</td><td>S. YESENİN KÜÇ., ev 87</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALVERDİYEV FAİQ FİKRƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALXANOV BƏHRUZ ŞAKİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ALXANOV NURLAN ŞAKİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ANARZADƏ ANAR ŞAKİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ANTİPOV VİKTOR QEORQİYEVİÇ</td><td>S. YESENİN KÜÇ., ev 5</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ANTİPOVA MARİYA TİMOFEYEVNA</td><td>S. YESENİN KÜÇ., ev 5</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AQAPOV DENİS VİKTOROVİÇ</td><td>S. YESENİN KÜÇ.</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AQARKOV SERQEY DMİTRİYEVİÇ</td><td>S. YESENİN KÜÇ., ev 7</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AQARKOVA LALƏ İLQAR</td><td>S. YESENİN KÜÇ., ev 7</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ARSİYANİ KƏMALƏ MUSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ARSİYANİ TALEH MUSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANLI ÜLVİYYƏ SEYRAN</td><td>S. YESENİN KÜÇ.</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOV ASLAN FİKRƏT</td><td>S. YESENİN KÜÇ., ev 42</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOV FƏRİD MUSABİR</td><td>S. YESENİN KÜÇ., ev 42</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOV FUAD ASLAN</td><td>S. YESENİN KÜÇ., ev 42</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOV MANSUR MUSABİR</td><td>S. YESENİN KÜÇ., ev 42</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOV MURAD ÇİNGİZ</td><td>S. YESENİN KÜÇ., ev 42</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOVA AYTƏN OQTAY</td><td>S. YESENİN KÜÇ., ev 8</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOVA ELNARA ƏLİ</td><td>S. YESENİN KÜÇ., ev 42</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOVA MƏLAHƏT YUSİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOVA SARA SEYRAN</td><td>S. YESENİN KÜÇ.</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOVA TÜRKAN SƏRDAR</td><td>S. YESENİN KÜÇ., ev 1</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASLANOVA XATİRƏ HÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ASULOVA ELMİRA VYAÇESLAVOVNA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ATABABAYEV İSMAYIL ELDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ATAYEV NATİQ NADİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AXTYAMOV RİNAT RAMİZOVİÇ</td><td>S. YESENİN KÜÇ.</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AXUNDBƏYLİ FİDAN ZİYA</td><td>S. YESENİN KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AXUNDOV CAVİD RUSLAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AXUNDOV ELQAR İMRAN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AXUNDOV KAMİL VASİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AXUNDOV KƏRİM İMRAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AXUNDOV NATİQ ƏSGƏR</td><td>S. YESENİN KÜÇ., ev 8</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AXUNDOV ORXAN AZƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AYDƏMİROV QULAM ƏLİ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AYDƏMİRZADƏ AYSEL QULAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AYDƏMİRZADƏ HƏCƏR QULAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AYDINBƏYOVA AFİNƏ SABİR</td><td>S. YESENİN KÜÇ., ev 12</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AYDINBƏYOVA XALİDƏ DÜNYAMƏDDİN</td><td>S. YESENİN KÜÇ., ev 12</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AYDINLI ELVİRA MAHİR</td><td>S. YESENİN KÜÇ.</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AZADOV ƏLƏSKƏR ŞAHLAR</td><td>S. YESENİN KÜÇ.</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AZADOVA NİGAR ƏLƏSKƏR</td><td>S. YESENİN KÜÇ.</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AZAYEVA ZÜLFİYYƏ QURBAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AZRAQULİYEV ƏHMƏD SƏFƏRQULİYEVİÇ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>AZRAQULİYEVA SƏBİNƏ ƏHMƏDOVNA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABALIYEV SAHİL MÖVSÜM</td><td>S. YESENİN KÜÇ., ev 14</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABALIYEVA SEVDA MÖVSÜM</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABALIZADƏ MƏRYƏM SAHİL</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV ARİF CABİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV ARTUR HACIBALAYEVİÇ</td><td>S. YESENİN KÜÇ.</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV AYAZ EYNULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV CAHANGİR BÖYÜKAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV ƏLİ ZAUR</td><td>S. YESENİN KÜÇ., ev 17</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV ƏLİÖVSƏT CƏFƏR</td><td>S. YESENİN KÜÇ., ev 5</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV ETİBAR ELİZBAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV FƏRİD AYAZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV HACIBALA ARTUR</td><td>S. YESENİN KÜÇ.</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV HÜSEYN ZAUR</td><td>S. YESENİN KÜÇ.</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV MƏHƏMMƏD ŞAHLAR</td><td>S. YESENİN KÜÇ.</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV NİCAT NİZAMİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV NURƏTDİN ZAUR</td><td>S. YESENİN KÜÇ.</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV NURLAN ARTUR</td><td>S. YESENİN KÜÇ.</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV OQTAY MİRİSMAYL</td><td>S. YESENİN KÜÇ.</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV QƏZƏNFƏR FİLMAN</td><td>S. YESENİN KÜÇ., ev 6</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV SƏRHƏD ƏLİKİRAM</td><td>S. YESENİN KÜÇ.</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV TALIB RAFİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV VAHİD ZAUR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEV VÜSAL ATABABA</td><td>S. YESENİN KÜÇ., ev 9</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA ELNARA İLYAS</td><td>S. YESENİN KÜÇ.</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA FİDAN FUAD</td><td>S. YESENİN KÜÇ., ev 14</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA GÜLÜŞ SƏTTAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA GÜNAY RAFİQ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA İRADƏ VAQİF</td><td>S. YESENİN KÜÇ.</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA RƏHİMƏ ƏLİÖVSƏT</td><td>S. YESENİN KÜÇ., ev 5</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA REYHAN VASİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA SƏİDƏ BƏYƏLİ</td><td>S. YESENİN KÜÇ., ev 5</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BABAYEVA SOLMAZ FAZİL</td><td>S. YESENİN KÜÇ., ev 6</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BADAMŞİNA LALƏ RƏŞİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAĞIRLI AFAQ PAŞA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAĞIRLI ELVİN ELDAR</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAĞIRLI RƏSMİYƏ HÜSEYN</td><td>S. YESENİN KÜÇ., ev 8</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAĞIRLI VİDADİ PAŞA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAĞIROVA BƏYİM MUSA</td><td>S. YESENİN KÜÇ.</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAĞIROVA GÜLARƏ İLYAS</td><td>S. YESENİN KÜÇ.</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAĞIROVA İLAHƏ KAMAL</td><td>S. YESENİN KÜÇ., ev 10</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAJKOVA QALİNA LEONİDOVNA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAKAY ANDREY NİKOLAYEVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BALAYEV MƏLİK VAQİF</td><td>S. YESENİN KÜÇ., ev 2</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BALAYEVA AYNURƏ ADİL</td><td>S. YESENİN KÜÇ., ev 10</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BALAYEVA İRENA CAHANGİR</td><td>S. YESENİN KÜÇ., ev 10</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BALƏHMƏDOVA SƏBİNƏ ƏHMƏDOVNA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAŞIBÜYÜK ECE ÖMER</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAXIŞOVA NƏZAKƏT ADİL</td><td>S. YESENİN KÜÇ., ev 6</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAXŞƏLİYEVA SOLMAZ ƏZİM</td><td>S. YESENİN KÜÇ., ev 4</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAXŞİYEV SADİQ SAHİB</td><td>S. YESENİN KÜÇ., ev 6</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAXŞIYEVA LEYLA SADIQ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAXŞİYEVA SEVDA SAHİB</td><td>S. YESENİN KÜÇ., ev 2</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAXŞIYEVA YELENA ALEKSANDROVNA</td><td>S. YESENİN KÜÇ., ev 15</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMLI TURAL BƏYBALA</td><td>S. YESENİN KÜÇ., ev 11</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV AĞABALA NƏRİMAN</td><td>S. YESENİN KÜÇ., ev 11</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV ASİF YUSİF</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV BAKİR FƏRMAN</td><td>S. YESENİN KÜÇ., ev 11</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV BƏYBALA NƏRİMAN</td><td>S. YESENİN KÜÇ., ev 11</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV CEYHUN MƏHARƏT</td><td>S. YESENİN KÜÇ., ev 11</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV ƏKBƏR NAMİQ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV ƏLİBABA NƏRİMAN</td><td>S. YESENİN KÜÇ., ev 11</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV NAMİQ YUSİF</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOV NİCAT MƏHARƏT</td><td>S. YESENİN KÜÇ., ev 11</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOVA AYŞƏN ƏLİBABA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOVA GÜLNARƏ NƏRİMAN</td><td>S. YESENİN KÜÇ., ev 11</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOVA MƏSUMƏ ASİF</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOVA QARATEL VALEH</td><td>S. YESENİN KÜÇ., ev 11</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOVA SEVİNC FƏRMAN</td><td>S. YESENİN KÜÇ., ev 3</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOVA SOFYA RƏHİM</td><td>S. YESENİN KÜÇ., ev 11</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BAYRAMOVA TAMARA BƏYBALA</td><td>S. YESENİN KÜÇ., ev 11</td><td>2003</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BƏDƏLOV VİKTOR ƏLİ HEYDƏROVİÇ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BELETSKİY YEVGENİY İOSİFOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BƏNDƏLİYEV NAMİQ NƏBİ</td><td>S. YESENİN KÜÇ.</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BƏNDƏLİYEVA KİFAYƏT SƏFƏR</td><td>S. YESENİN KÜÇ.</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BƏŞİROVA GÜLMİRA BAHADUR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BƏYLƏRZADƏ SONA SEYMUR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BOQDANOVA QALİYA ABSALYAMOVNA</td><td>S. YESENİN KÜÇ., ev 10</td><td>1939</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BORİSOV DMİTRİY YURYEVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BÖYÜK-ZADƏ FƏRİDƏ NURUDİN</td><td>S. YESENİN KÜÇ., ev 10</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BREMOV ELÇİN KERİMXANOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BULİMOV VADİM ALEKSEYEVİÇ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BULİMOV VYAÇESLAV ALEKSEYEVİÇ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>BULİMOVA OLQA ALEKSEYEVNA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CABAROV SEYRAN BALADAYI</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CABAROV YADULLA ƏMRAH</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CABAROVA TAMİLƏ AĞAMUSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CABBARLI ƏLİ BƏHMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CABBARLI NƏZRİN BƏHMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CABBAROVA GÜLNARƏ CAVADXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CABİYEV ƏLİ MANSUR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CAMALOV RUSLAN FƏRHAD</td><td>S. YESENİN KÜÇ., ev 10</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CAMALOVA FƏRİDƏ ŞÖVKƏT</td><td>S. YESENİN KÜÇ., ev 10</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CAVAD NİHAD RƏŞAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CAVADOV MİRMEHDİ MİRYUSİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CAVADOV NAZİM NİZAMİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏBİLİ TURAN MAHİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏBİYEV İSMƏT ATABƏY</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏBİYEVA GÜNAY TAĞIZADƏ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏBRAYILOVA SAHİBA SABİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏRLİ CƏFƏR ELMAN</td><td>S. YESENİN KÜÇ., ev 7</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏRLİ MƏDİNƏ MƏTLƏF</td><td>S. YESENİN KÜÇ., ev 7</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROV ELMAN CƏFƏR</td><td>S. YESENİN KÜÇ., ev 7</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROV FƏRİD ZAKİR</td><td>S. YESENİN KÜÇ., ev 5</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROV İVAN ƏHMƏDOVİÇ</td><td>S. YESENİN KÜÇ., ev 42</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROV MAHİR NOVRUZ</td><td>S. YESENİN KÜÇ., ev 7</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROV MƏTLƏF CƏFƏR</td><td>S. YESENİN KÜÇ., ev 7</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROV XƏYAL ADİL</td><td>S. YESENİN KÜÇ., ev 5</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROVA AYBƏNİZ CƏFƏR</td><td>S. YESENİN KÜÇ., ev 7</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROVA AYNUR ƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROVA AYNURƏ MUSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROVA GÜLNAZ ƏKBƏR</td><td>S. YESENİN KÜÇ., ev 5</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏFƏROVA TƏRANƏ QASIM</td><td>S. YESENİN KÜÇ., ev 42</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLLİ LƏTİF MAHİR</td><td>S. YESENİN KÜÇ., ev 17</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOV ALEKSANDR VYAÇESLAVOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOV HAFİZ GÜLLƏR</td><td>S. YESENİN KÜÇ., ev 17</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOV ORXAN İSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOV QƏDİR HEYDƏR</td><td>S. YESENİN KÜÇ., ev 42</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOV RAMİZ VAQİF</td><td>S. YESENİN KÜÇ., ev 15</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOV ZAUR QƏDİR</td><td>S. YESENİN KÜÇ., ev 42</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOVA AYNUR ƏLİHÜSEYN</td><td>S. YESENİN KÜÇ., ev 15</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOVA FİDAN RAMİZ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOVA NİGAR VÜQAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>CƏLİLOVA SEVİL ZAHİR</td><td>S. YESENİN KÜÇ., ev 42</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOV ANAR ADİL</td><td>S. YESENİN KÜÇ., ev 10</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOV EMİL ƏZİZAĞA</td><td>S. YESENİN KÜÇ., ev 2</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOV FAZİL ARAZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOV RÖVŞƏN DADAŞ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOV SÜDEİF TOSİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOVA DİLARƏ ƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1953</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOVA GÜLBƏNİZ KAMAL</td><td>S. YESENİN KÜÇ., ev 8</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOVA RASİMƏ GÜLMİRZƏ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DADAŞOVA XALİDƏ DADAŞ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1936</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DANİLOV OLEQ TOFİKOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DAŞDƏMİROVA SEVƏR VAQİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DEMÇENKO LYUBA VLADİMİROVNA</td><td>S. YESENİN KÜÇ., ev 17</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DOSTƏLİYEV VAHİD DOSTƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DÖVLƏTOV QƏHRƏMAN MUSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>DÖVLƏTOVA MƏLAHƏT ƏHMƏDAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏBDÜLHƏŞİMOVA MAYİSƏ ƏBDÜLRƏŞİDOVNA</td><td>S. YESENİN KÜÇ., ev 42</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏBDÜLRƏHMANOV RAMİZ RÖVŞƏNOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏBDÜLRƏHMANOVA MEHRİBAN İSMAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏBİLOVA MEHRİBAN ZAUR</td><td>S. YESENİN KÜÇ., ev 16</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏBÜLFƏTOV MÜŞFİQ BAYRAM</td><td>S. YESENİN KÜÇ., ev 25</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏFƏNDİYEVA GÜLNARƏ VAHİD</td><td>S. YESENİN KÜÇ., ev 8</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV ELNUR XALIQ</td><td>S. YESENİN KÜÇ., ev 3</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV EMİL RAMİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV FƏRLUX HÜSEYN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1948</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV HÜSEYN FƏRRUX</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV İLKİN CƏBRAYIL</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV ORXAN FƏRLUX</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV RAMİL FƏRRUX</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV RUMİS FETKİLOVİÇ</td><td>S. YESENİN KÜÇ., ev 9</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV SAMİR RUMİSOVİÇ</td><td>S. YESENİN KÜÇ., ev 9</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV TURAL MAHİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV XALIQ MƏHƏMMƏDEMİN</td><td>S. YESENİN KÜÇ., ev 3</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOV ZAUR ATABABA</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDOVA NAZLI ZULU</td><td>S. YESENİN KÜÇ., ev 9</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDZADƏ ELÇİN FİKRƏT</td><td>S. YESENİN KÜÇ., ev 15</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDZADƏ ƏLİ ELÇİN</td><td>S. YESENİN KÜÇ., ev 2</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏHMƏDZADƏ XƏDİCƏ FİKRƏT</td><td>S. YESENİN KÜÇ., ev 15</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏKBƏRLİ SEVDA TƏLƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏKBƏROV AYXAN ƏHLİMAN</td><td>S. YESENİN KÜÇ., ev 17</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏKBƏROV ƏHLİMAN ƏLİSAHİB</td><td>S. YESENİN KÜÇ., ev 17</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏKBƏROV VÜSAL ƏHLİMAN</td><td>S. YESENİN KÜÇ., ev 17</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏKBƏROVA ELMİRA MÜRÜVVATOVNA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏKBƏROVA FƏRİDƏ MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 4</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏKBƏROVA MEHRİBAN RAQUB</td><td>S. YESENİN KÜÇ., ev 17</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏKBƏROV ELŞAD İSMAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏKBƏROVA AYSEL ARİF</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏKBƏROVA BİKƏ ARİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏKBƏROVA LAMİYƏ MAİS</td><td>S. YESENİN KÜÇ., ev 87</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏKBƏROVA TİNATİN KİRMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏKBƏROVA TUTİXANIM YAQUB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏKBƏROVA XALİDƏ KİRMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏSGƏROV ÇİNQİZ AĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏSGƏROVA ÜLVİYYƏ ƏYYUB</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLƏSKƏROV ELXAN YUSİF</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİCANOV VÜQAR HAXVERDİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİMƏMMƏDOV ETİBAR ƏSGƏRXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİQULİYEV RƏŞAD RAMİL</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİŞAYEV FƏXRƏDDİN İLHAM</td><td>S. YESENİN KÜÇ., ev 3</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİŞAYEV İLHAM FƏXRƏDDİN</td><td>S. YESENİN KÜÇ., ev 1</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİŞAYEVA SAMİRƏ ELDAROVNA</td><td>S. YESENİN KÜÇ., ev 3</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİŞAYEVA SƏBİNƏ FƏXRƏDDİN</td><td>S. YESENİN KÜÇ., ev 3</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV AĞAGÜL VAHİD</td><td>S. YESENİN KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV AMİN MƏSİM</td><td>S. YESENİN KÜÇ., ev 12</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ASİF BALAOĞLAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV AYDIN ASLAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV BƏXTİYAR ƏBDÜRƏHMAN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV CAVİD VAHİD</td><td>S. YESENİN KÜÇ., ev 8</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV CƏMİL RƏFAİL</td><td>S. YESENİN KÜÇ., ev 7</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ELÇİN MEHRƏLİ</td><td>S. YESENİN KÜÇ., ev 3</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ƏLİ İSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ELMİN MƏSİM</td><td>S. YESENİN KÜÇ., ev 12</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ELŞƏN RƏŞİD</td><td>S. YESENİN KÜÇ., ev 14</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ELXAN SƏRDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV EMİL ƏMİNAĞA</td><td>S. YESENİN KÜÇ., ev 5</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ƏMİNAĞA HƏŞİM</td><td>S. YESENİN KÜÇ., ev 5</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV FƏRİD ELDƏNİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV İLHAM ADİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV İSA İSLAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV İSKƏNDƏR ƏBDÜRƏHMAN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV İSRAFİL ƏMİNAĞA</td><td>S. YESENİN KÜÇ., ev 5</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV MAHİR ƏBDÜLAĞA</td><td>S. YESENİN KÜÇ., ev 1</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV MƏLİK ADİL</td><td>S. YESENİN KÜÇ., ev 3</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV NATİQ AĞABABA</td><td>S. YESENİN KÜÇ., ev 17</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ORXAN ŞAHİN</td><td>S. YESENİN KÜÇ., ev 4</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV RƏQAYİB ABAS</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV RÖVŞƏN İSKƏNDƏR</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV RÜSTƏM FİRUDDUN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ŞAHİN YAŞAR</td><td>S. YESENİN KÜÇ., ev 4</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV SƏTULLA XEYRULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV TENQİZ TELMANOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV TOFİQ MİRZƏ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV ÜLVİ ŞAHİN</td><td>S. YESENİN KÜÇ., ev 4</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV VAQİF RAMİS</td><td>S. YESENİN KÜÇ., ev 15</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV VEYSƏL FEYRUZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEV VİLAYƏT MƏNAF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA AFƏT RAMİZ</td><td>S. YESENİN KÜÇ., ev 9</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA ESMİRALDA GƏNCƏLİ</td><td>S. YESENİN KÜÇ., ev 5</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA GÜLARƏ RƏHİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA GÜLNARA RUHULLA</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA GÜLÜŞƏN QƏDİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA GÜNEL CƏMİL</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA HƏMİDƏ HƏMİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA LAMİYƏ ƏHLİMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA MƏLAHƏT KƏRƏMƏLİ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA NATALYA BORİSOVNA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA NƏZAKƏT QABİL</td><td>S. YESENİN KÜÇ., ev 3</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA PİKƏ EYYUB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA PÜSTƏXANIM MİRZƏAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA RAZİYƏ VƏLİXAN</td><td>S. YESENİN KÜÇ., ev 8</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA RƏNA MƏLİK</td><td>S. YESENİN KÜÇ., ev 3</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA RƏVANƏ NAZİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA RÖYA RAMİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA SƏADƏT BALAĞA</td><td>S. YESENİN KÜÇ., ev 11</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA SƏADƏT QANBOY</td><td>S. YESENİN KÜÇ., ev 50</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA SEVDA ASİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA SEVİNC ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 2</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA SEVİNC MİRZƏHÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA SOLMAZ NADİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA TAHİRƏ QƏZƏNFƏR</td><td>S. YESENİN KÜÇ., ev 25</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA TƏRANƏ ƏKBƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİYEVA ZƏLİHƏ MİTHƏT</td><td>S. YESENİN KÜÇ., ev 1</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ DİANA İQOREVNA</td><td>S. YESENİN KÜÇ., ev 9</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ EHTİBAR MEHMAN</td><td>S. YESENİN KÜÇ., ev 9</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ LƏMAN CAVİD</td><td>S. YESENİN KÜÇ.</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ MEHMAN NƏSRULLA</td><td>S. YESENİN KÜÇ., ev 9</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ MƏLƏKXANIM VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ MİKAYIL MÜŞFİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ NƏCMƏDDİN NAMİQ</td><td>S. YESENİN KÜÇ.</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ NİHAT MAHİR</td><td>S. YESENİN KÜÇ.</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏLİZADƏ ORUC NƏSİRULLA</td><td>S. YESENİN KÜÇ., ev 9</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏMİRASLANOVA NƏZRİN VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏMİRƏLİYEV MEHDİ ƏNVƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏMİRƏLİYEV MÜBARİZ ƏLİ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏMİROVA ŞƏLALƏ SALMAN</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏMİRULLAYEV EMİL PAŞA</td><td>S. YESENİN KÜÇ., ev 2</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏMİRULLAYEVA ELVİRA SƏTTAROVNA</td><td>S. YESENİN KÜÇ., ev 2</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏRƏBXANOVA FİLQANƏ MUMİDİNOVNA</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSƏDLİ GÜNEL MEHDİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSƏDOV MÜBARİZ VAQİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSƏDOVA İRADƏ ƏZİZ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSƏDOVA RƏNA MUSEYİB</td><td>S. YESENİN KÜÇ., ev 8</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSƏDZADƏ MÜSEYİB ASİF</td><td>S. YESENİN KÜÇ., ev 8</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSƏDZADƏ SƏKİNƏ ASİF</td><td>S. YESENİN KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROV ANAR BAXTİYAR</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROV ELNUR ƏSGƏR</td><td>S. YESENİN KÜÇ., ev 17</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROV FƏRHAD RAMİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROV HABİL ABBAS</td><td>S. YESENİN KÜÇ., ev 4</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROVA ARZU ƏLİSAHİB</td><td>S. YESENİN KÜÇ., ev 17</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROVA RAMİNƏ RAFİQ</td><td>S. YESENİN KÜÇ., ev 9</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROVA ŞƏHLA ABBAS</td><td>S. YESENİN KÜÇ., ev 4</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROVA SEVİNC ABBAS</td><td>S. YESENİN KÜÇ., ev 4</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSGƏROVA TƏYYARƏ FƏRHAD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>2003</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSKƏROV BƏXTİYAR ƏMİR</td><td>S. YESENİN KÜÇ., ev 3</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏSKƏROVA İLQARƏ ƏMİR</td><td>S. YESENİN KÜÇ., ev 3</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYVAZOV FİKRƏT HƏŞİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYVAZOV ORXAN VAQİF</td><td>S. YESENİN KÜÇ., ev 8</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYVAZOVA ALMAS ABBAS</td><td>S. YESENİN KÜÇ., ev 4</td><td>1953</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYVAZOVA FƏRİDƏ FƏTULLA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1937</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYVAZOVA KƏMALƏ BƏXTİYAR</td><td>S. YESENİN KÜÇ., ev 4</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYVAZOVA KÖNÜL VAQİF</td><td>S. YESENİN KÜÇ., ev 8</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYVAZOVA SONA MİRZƏBƏY</td><td>S. YESENİN KÜÇ., ev 8</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYYUBOV CAHİD RAMAZAN</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>EYYUBOVA İLHAMƏ ƏLİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏZİZOV ELDAR ƏLİBƏY</td><td>S. YESENİN KÜÇ., ev 9</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏZİZOV ƏZİZ NƏCƏF</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏZİZOVA HÖKÜMƏ MİRABTALIB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏZİZ-ZADƏ ƏMİNƏ ƏMİRXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏZİZZADƏ LALƏ ƏBDÜLƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ƏZİZZADƏ MURAD SƏRVƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FEDORSOV ALEKSANDR ZİNOVYEVİÇ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FEDORSOVA VALENTİNA MİXAYLOVNA</td><td>S. YESENİN KÜÇ., ev 15</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FƏRƏCOV ZAUR GÜLƏSƏF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FƏRƏCOVA ŞAİRƏ İSMAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FƏRHADOV RAHİL SABİR</td><td>S. YESENİN KÜÇ., ev 1</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FƏRMANOV VAQİF ƏBDÜLHƏSƏN</td><td>S. YESENİN KÜÇ., ev 14</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FƏRZƏLİYEV ELDAR HÜSEYNALI</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FƏTƏLİYEV MƏMMƏD ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FİTUHİ RÜFAYƏT MEYBULLA</td><td>S. YESENİN KÜÇ., ev 11</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FON-RABE NATALYA YEVQENYEVNA</td><td>S. YESENİN KÜÇ., ev 5</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>FON-RABE NİNA FEDOROVNA</td><td>S. YESENİN KÜÇ., ev 5</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>GƏNCƏLİYEV VƏLİ RAQUF</td><td>S. YESENİN KÜÇ., ev 42</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>GƏNCƏLİYEVA MƏHPARƏ ƏLƏDDİN</td><td>S. YESENİN KÜÇ., ev 42</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>GƏNCİNSKAYA SVETLANA DMİTRİYEVNA</td><td>S. YESENİN KÜÇ., ev 2</td><td>1946</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIMİRZƏYEV ƏLİMİRZƏ XİBİYEVİÇ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIMİRZƏYEVA ARZU ƏLİMİRZƏ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIYEV ÇİNGİZ HƏSƏN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIYEV HƏSƏN HƏSƏN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIYEV MƏHƏMMƏD İNQİLAB</td><td>S. YESENİN KÜÇ., ev 5</td><td>1949</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIYEV TALEH MƏHƏMMƏD</td><td>S. YESENİN KÜÇ., ev 5</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIYEVA BİLQEYİS ƏLİ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIYEVA BRİLLİANT XANƏLİ</td><td>S. YESENİN KÜÇ., ev 5</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIYEVA GÜLRUH BÖYÜK</td><td>S. YESENİN KÜÇ., ev 5</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HACIYEVA SƏİDƏ İSMAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HAQVERDİYEVA SƏMAYƏ DAŞQIN</td><td>S. DADAŞOV KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏBİBOVA FATMA HƏBİB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMİDOV ARİF ZAYDULLA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMİDOV ASİF ZAYDULLA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMİDOV İLQAR AİL</td><td>S. YESENİN KÜÇ., ev 83</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMİDOVA AYGÜN ARİF</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMİDOVA GÜLNAZ İSABƏY</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMİDOVA İRADƏ VAQİF</td><td>S. YESENİN KÜÇ., ev 83</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMİDOVA NƏCİBƏ NƏZİR</td><td>S. YESENİN KÜÇ., ev 1</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMİDOVA SEVDA YOLAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏMZƏYEV ELDAR VAHAB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV ANAR MÖSÜN</td><td>S. YESENİN KÜÇ., ev 11</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV ELNUR YUSİF</td><td>S. YESENİN KÜÇ., ev 7</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV KAMİL NİYAZİ</td><td>S. YESENİN KÜÇ., ev 16</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV MƏLİKMƏMMƏD ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 14</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV NAMİL NİYAZİ</td><td>S. YESENİN KÜÇ., ev 16</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV QALİB İSGƏNDƏR</td><td>S. YESENİN KÜÇ., ev 7</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV SALEH ASİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV TOFİQ KAMAL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV VAQİF KAMAL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOV YUSİF SƏMƏD</td><td>S. YESENİN KÜÇ., ev 7</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOVA AYNUR SÜLEYMAN</td><td>S. YESENİN KÜÇ., ev 11</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOVA CAVAHİR ELDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOVA GÜLZAR İGİT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOVA OFELİYA MİRZAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNOVA ÜLKƏR KAMAL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNZADƏ NƏRİMAN ŞAMİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏSƏNZADƏ NƏRMİN TAHİR</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏŞİMOV OKTAY HƏSƏN</td><td>S. YESENİN KÜÇ., ev 15</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HƏŞİMOVA AİDƏ NURMƏMMƏD</td><td>S. YESENİN KÜÇ., ev 15</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HEYDƏRLİ HÜSEYN MUQABİL</td><td>S. YESENİN KÜÇ.</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HEYDƏROVA ESMİRA NƏRİMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HEYDƏROVA MƏLAHƏT SÖVZİƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜMBƏTLİ AMİD RAMİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜMMƏTOVA XANIMBƏYİM RƏZİ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜNBƏTOVA SƏADƏT MUSTAFA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOV ELMAR CAVANŞİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOV İMRAN ƏSƏDULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOV LAZIM HÜSEYN</td><td>S. YESENİN KÜÇ., ev 17</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOV NİCAT YAŞAR</td><td>S. YESENİN KÜÇ., ev 9</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOV RASİM XALIQ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOV SAHİB YUSİF</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOV VLADİMİR ƏBDÜLOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOV XƏYYAM ELBURUS</td><td>S. YESENİN KÜÇ., ev 83</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA ARZU NAMİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA AXİYANİSƏ MİRTAĞI</td><td>S. YESENİN KÜÇ., ev 87</td><td>1938</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA AYGÜL LAZIM</td><td>S. YESENİN KÜÇ., ev 17</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA AYGÜN İSMAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA AYNURƏ ƏDALƏT</td><td>S. YESENİN KÜÇ., ev 12</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA CƏNNƏT YUSİF</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA GÜLNARA ƏKBƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA GÜLÜSTAN ƏLİ</td><td>S. YESENİN KÜÇ., ev 42</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA GÜNEL AĞAVERDİ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA MƏHBUBƏ ADİGÖZƏL</td><td>S. YESENİN KÜÇ., ev 17</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA NURİYƏ MƏMMƏDAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA SAMİRƏ HÜSEYNAĞA</td><td>S. YESENİN KÜÇ., ev 11</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA SƏADƏT ƏDALƏT</td><td>S. YESENİN KÜÇ., ev 12</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA VƏSİLƏ ƏMİRCAN</td><td>S. YESENİN KÜÇ., ev 12</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA ZƏRNİGAR FAXRƏDDİN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNOVA ZEYNƏB HƏSƏN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>HÜSEYNZADƏ HÜSEYN DADAŞ</td><td>S. YESENİN KÜÇ., ev 9</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İBADOV FƏQAN MÜBARİZ</td><td>S. YESENİN KÜÇ.</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İBADOVA NÜŞABƏ SALMAN</td><td>S. YESENİN KÜÇ.</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEV ASİF KƏRİM</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEV AZƏR KƏRİM</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEV ELXAN ELDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEV HİKMƏT BAYRAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEV MÜBARİZ KƏRİM</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEVA FAMİLƏ MƏMMƏD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1942</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEVA LALƏ HÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEVA NİSƏ AXUNBALA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEVA ŞƏMS ŞAMİL</td><td>S. YESENİN KÜÇ., ev 8</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEVA VƏFA BALƏHMƏD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAYEVA XƏCCƏ MİRZƏBALA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAZADƏ COŞQUN ŞAMİL</td><td>S. YESENİN KÜÇ., ev 8</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSA-ZADƏ FAMİL MÜBARİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAZADƏ NƏZRİN AZƏR</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSAZADƏ ŞÖLƏ MÜBARİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSBATOVA ÇİMNAZ MƏHƏMMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSGƏNDƏROV İSGƏNDƏR FAMİL</td><td>S. YESENİN KÜÇ., ev 14</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSKƏNDƏRLİ SƏMA BƏBİR</td><td>S. YESENİN KÜÇ., ev 14</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSKƏNDƏROV BƏBİR FAMİL</td><td>S. YESENİN KÜÇ., ev 14</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSKƏNDƏROV ƏRŞAD FAMİL</td><td>S. YESENİN KÜÇ., ev 14</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSKƏNDƏROV FAMİL BƏBİR</td><td>S. YESENİN KÜÇ., ev 14</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSKƏNDƏROVA NƏRGİZ SEYİDƏHMƏD</td><td>S. YESENİN KÜÇ.</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSKƏNDƏROVA NƏRMİNƏ İSKƏNDƏR</td><td>S. YESENİN KÜÇ., ev 14</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSKƏNDƏROVA QƏMƏRXANIM ƏLİPAŞA</td><td>S. YESENİN KÜÇ., ev 20</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSKƏNDƏROVA SEVİNC ARİF</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSLAMOVA GÜLŞƏN İBRAHİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSLAMOVA MƏDİNƏXANIM AĞAƏLİ</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOV HİLAL XUDU</td><td>S. YESENİN KÜÇ., ev 1</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOV NƏCMƏDDİN FƏRHAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOV RAFİQ MƏHƏMMƏDİYOVİÇ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOV RƏŞİD MAHİROVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOV ÜZEYİR XUDU</td><td>S. YESENİN KÜÇ., ev 1</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA ALBİNA SƏBUHİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA ELMİRA İSRAFİL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1940</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYİLOVA GÜLCAN ZAUR</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA GÜLSÜM SƏMƏD</td><td>S. YESENİN KÜÇ., ev 10</td><td>1951</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA İRADƏ RAMİZ</td><td>S. YESENİN KÜÇ., ev 3</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA LALƏ MİRZƏXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA LALƏGÜL GÜLABBA</td><td>S. YESENİN KÜÇ., ev 3</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA QƏMƏR MÜBARİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA RƏFİQƏ BƏHRUZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA RƏHİMƏ SÜLEYMAN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA SAMİRƏ ƏLİ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA SAMİRƏ UMUD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA SƏKİNƏ HÜSEYN BALA</td><td>S. YESENİN KÜÇ., ev 7</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILOVA VÜSALƏ XUDU</td><td>S. YESENİN KÜÇ., ev 1</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILZADƏ İDRİS MƏHƏMMƏD</td><td>S. DADAŞOV KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSMAYILZADƏ SƏDAQƏT COŞQUN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İSRƏFİLOVA SEVDA MÖVSÜM</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İVAŞİNENKO BORİS VASİLYEVİÇ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>İVAŞİNENKO LYUDMİLA PETROVNA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KADIROVA NELLA MİNİROVNA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KATS ZEMFİRA PAŞA</td><td>S. YESENİN KÜÇ., ev 2</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KAZIMLI YUSİF DAŞQIN</td><td>S. YESENİN KÜÇ., ev 83</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KAZIMOV BABAŞ BALAĞA</td><td>S. YESENİN KÜÇ., ev 15</td><td>1964</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KAZIMOV İBRAHİM BABAŞ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KAZIMOV UCAL BABAŞ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏBİRLİ İLHAM RAMİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏBİRLİ REYHAN ƏBÜLFƏZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏRİMOV ELÇİN ƏLƏSKƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏRİMOV FƏZLİ ŞİRZAD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏRİMOV NƏİMİ ŞİRZAD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏRİMOV RAMİZ DADAŞ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏRİMOVA FİDAN AKİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏRİMOVA MEHRİBAN ƏLƏDDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KƏRİMOVA MƏRYƏM SALEH</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KÖÇƏRLİ GÜLNARƏ MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 4</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KÖÇƏRLİ NƏCİBƏ HİKMƏT</td><td>S. YESENİN KÜÇ., ev 4</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KOÇNEVA LYUBOV QRİQORYEVNA</td><td>S. YESENİN KÜÇ., ev 2</td><td>1937</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KOLESNİKOVA LADA VLADİMİROVNA</td><td>S. YESENİN KÜÇ., ev 83</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KOPALYEVA NELLYA MİXAYLOVNA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KUÇKAROV RƏMZİ İSLAMZADƏ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>2003</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KUÇKAROVA DİLBƏR ŞİRİNBALA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KUÇKAROVA RƏMZİYƏ İSLAMZADƏ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>KUXTA SURİYA ZEYNAL-ABDUL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>LİTVİNOV DMİTRİY ALEKSANDROVİÇ</td><td>S. YESENİN KÜÇ., ev 16</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAHMUDBƏYOV İLQAR KAMİL</td><td>S. YESENİN KÜÇ., ev 2</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAHMUDBƏYOVA AYNİSƏ ƏJDƏR</td><td>S. YESENİN KÜÇ., ev 2</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAHMUDOVA AYSEL ELDƏNİZ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAHMUDOVA İRİNA ALEKSANDROVNA</td><td>S. YESENİN KÜÇ., ev 114</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAHMUDOVA SƏLMƏXANIM ƏLİMƏRDAN</td><td>S. YESENİN KÜÇ., ev 6</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAKSİMOV AZƏR KƏRİMAĞA</td><td>S. YESENİN KÜÇ., ev 10</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAKSİMOV EMİL AZƏR</td><td>S. YESENİN KÜÇ., ev 10</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAKSİMOV SAMİR AZƏR</td><td>S. YESENİN KÜÇ., ev 10</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAKSİMOVA İRİNA YUSUPOVNA</td><td>S. YESENİN KÜÇ., ev 10</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MALIŞEVA MƏRYƏM İQOREVNA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MALİYEVA AMİRƏ BAYRAMƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MANAFOV MURAD MƏHƏRRƏM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MANAFOVA BƏYİMXANIM ADİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MANAFOVA HƏMAYƏ ƏZİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MANSUROVA AYSEL MALİK</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MANSUROVA RUQİYƏ HİLAL</td><td>S. YESENİN KÜÇ.</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAVLYUTOVA DİNARA MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAYILOVA DİNARƏ İSMAYIL</td><td>S. YESENİN KÜÇ., ev 8</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAYILOVA TAMİLLA VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MAZANOV ƏLİHEYDƏR ƏLƏTDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏCİDOV BƏXTİYAR MİRZƏ</td><td>S. YESENİN KÜÇ., ev 10</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏCİDOV KƏNAN ARİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏCİDOV RÜSTƏM CANBULAT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏCİDOVA XALİDƏ SƏFƏRAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏCLİ ADNAN ADNAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHDİYEV ADİL VAQİF</td><td>S. YESENİN KÜÇ., ev 15</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHDİYEV HÜSEYN ADİL</td><td>S. YESENİN KÜÇ., ev 15</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHDİYEV KƏNAN AQİL</td><td>S. YESENİN KÜÇ., ev 15</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHDİYEVA ELVİRA İLHAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHDİYEVA GÜLNAZ BAQRATOVNA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1948</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHDİYEVA MARİETTA YUSUB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHDİYEVA ŞƏRAFƏT NƏSİR</td><td>S. YESENİN KÜÇ., ev 15</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHDİYEVA VENERA SABİR</td><td>S. YESENİN KÜÇ., ev 15</td><td>1953</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏMMƏDƏLİYEV RAMAZAN İSABƏYOVİÇ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏMMƏDƏLİYEV RƏŞİD RAMAZAN</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏRLƏMOV NƏSİMİ ELDAR</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏRLƏMOVA HƏYAT ELDAR</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏRRƏMOV ƏLİ PAŞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏRRƏMOV YAŞAR BİBİQULU</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏRRƏMOVA LAMİYƏ YAŞAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏRRƏMOVA RƏFİQƏ QEYRİXAN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏHƏRRƏMOVA ZƏHRA VÜSAL</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MEHTİYEV ƏVSƏL TƏBRİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏLİKOV HÜSEYNAĞA PƏRVİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏLİKOV NAİL FAİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏLİKOVA BƏSTİ BAYRAMQULU</td><td>S. YESENİN KÜÇ., ev 12</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏLİKOVA İLHAMƏ GÜLBABA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏLİKOVA RADMİLA MİRQASIMOVNA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏLİKOVA YEGANƏ FAİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDHÜSEYNOV RƏCƏB MƏHƏRRƏM</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDLİ İBRAHİM HÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDLİ ŞƏHANƏ SƏMƏNDƏR</td><td>S. YESENİN KÜÇ., ev 10</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDLİ ZÜLFÜQAR HACİQULU</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV AKİF SAHİB</td><td>S. YESENİN KÜÇ., ev 14</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV ALİM XEYRULLA</td><td>S. YESENİN KÜÇ., ev 11</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV ANAR NAMİK</td><td>S. YESENİN KÜÇ., ev 87</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV BAXIŞ SƏMƏNDƏR</td><td>S. YESENİN KÜÇ., ev 10</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV CAVİD ÇİNGİZ</td><td>S. DADAŞOV KÜÇ.</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV CAVİD ƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV ÇİNGİZ ABBAS</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV ƏLƏKBƏR ƏSGƏRXAN</td><td>S. YESENİN KÜÇ., ev 3</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV ELGÜN QURBAN</td><td>S. YESENİN KÜÇ.</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV ƏLİŞAN ŞİRİN</td><td>S. YESENİN KÜÇ., ev 3</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FARİZ SALMAN</td><td>S. YESENİN KÜÇ., ev 14</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FƏHRİ HAFİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FƏRHAD FİKRƏT</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FƏTƏLİ AĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FƏXRİ SALMAN</td><td>S. YESENİN KÜÇ., ev 14</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FİKRƏT ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 15</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FİKRƏT RƏSUL</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FUAD FİKRƏT</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV FÜZULİ HƏBİB</td><td>S. YESENİN KÜÇ., ev 8</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV HÜSEYN ALLAHVERDİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV İBRAHİM NAMAZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV İLHAM ZÜLFÜQAR</td><td>S. YESENİN KÜÇ., ev 17</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV İLQAR PƏNAH</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV İLQAR SƏRVƏR</td><td>S. YESENİN KÜÇ., ev 8</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV KAZIM MUSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV LƏTİF ALLAHYAR</td><td>S. YESENİN KÜÇ., ev 16</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV MİRAĞA MİRƏHMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV MUSA KAZIM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV NADIR NƏRİMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV NİCAT MƏTLƏB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV NİYAZİ TOFİQ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV PƏRVİZ SÜLEYMAN</td><td>S. YESENİN KÜÇ.</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV RAMİZ SƏTTAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV RƏVAN ZÜLFİQAR</td><td>S. YESENİN KÜÇ., ev 17</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV RÖVŞƏN MAHMUD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV ŞAHİN BİLMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV SAMİR XANKİŞİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV SEYİD-ƏMİR MİRZAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV SÜLEYMAN ZÜLFİQAR</td><td>S. YESENİN KÜÇ., ev 17</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV TƏRLAN NATİQ</td><td>S. YESENİN KÜÇ., ev 12</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV TOĞRUL NİYAZİ</td><td>S. YESENİN KÜÇ., ev 8</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV TURAL HƏSƏN</td><td>S. YESENİN KÜÇ., ev 25</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV VURĞUN TEYYUB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOV ZÜLFİQAR TEYMUR</td><td>S. YESENİN KÜÇ., ev 17</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA AĞABƏYİM QƏDİM</td><td>S. YESENİN KÜÇ., ev 14</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA ALMAS İSA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA ARİFƏ ELDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA AYNURƏ AKİF</td><td>S. YESENİN KÜÇ., ev 10</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA AYTƏKİN ABDULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA AYTƏN LƏTİF</td><td>S. YESENİN KÜÇ., ev 16</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA BİBİXANIM PƏNAH</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA BRİLYANT KAMİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA FATİMƏ MÜBARİZ</td><td>S. YESENİN KÜÇ., ev 13</td><td>2003</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA FATMA İSRAFİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA GÜLARƏ KAMAL</td><td>S. YESENİN KÜÇ., ev 8</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA GÜLBAHAR ƏLƏKBƏR</td><td>S. YESENİN KÜÇ., ev 3</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA GÜLNAR PƏNAH</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA HÖBRAN ATAKİŞİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA HUMAY SEYİD-ƏMİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA İLHAMƏ ƏLİYULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA İLHAMƏ MİKAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA İRADƏ ARİF</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA KAMALƏ ELDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA KƏMALƏ İSRAFİL</td><td>S. YESENİN KÜÇ., ev 16</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA KÖNÜL NÖHBALA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA LALƏ ÇİNGİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA LEYLA HƏZƏRXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA MAHİRƏ MEHMAN</td><td>S. YESENİN KÜÇ.</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA MƏRYAM XANƏLİ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA NƏRGİZ RƏFAEL</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA NİGAR XEYRULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA NURANƏ ELXAN</td><td>S. YESENİN KÜÇ., ev 15</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA NÜŞABƏ POLİ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA QƏTİBƏ MAŞALLAH</td><td>S. YESENİN KÜÇ., ev 3</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA RAZİLƏ ALLAHVERƏN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA REYHAN ƏVƏZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA RİTA ABDULOVNA</td><td>S. YESENİN KÜÇ., ev 12</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA SAMİRƏ NADİR</td><td>S. YESENİN KÜÇ., ev 11</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA SAMİRƏ ŞAKİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA SƏADƏT QNİYAZ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA SƏBİNƏ ŞİRMƏMMƏD</td><td>S. YESENİN KÜÇ., ev 5</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA SƏİDƏ KAMAL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA SEVDA RAFİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA SURAYA MİKAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1948</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA ŞUŞA TELMAN</td><td>S. YESENİN KÜÇ.</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA TATYANA YURYEVNA</td><td>S. YESENİN KÜÇ., ev 106</td><td>1951</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA TƏRANƏ ABBAS</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA TƏRANƏ AĞASƏLİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA TƏRANƏ MİKAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA ULDUZ XALİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA VERONİKA VİDADİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA YEGANƏ TOFİQ</td><td>S. YESENİN KÜÇ., ev 17</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA ZƏHRA ÇİNGİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDOVA ZÜMRÜD CƏBRAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ ƏSMƏR ÇİNGİZ</td><td>S. YESENİN KÜÇ., ev 25</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ FƏRİD NAMİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ KƏNAN SƏNANİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ LALƏ ELŞAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ LEYLA ÇİNGİZ</td><td>S. YESENİN KÜÇ., ev 25</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ MƏHƏMMƏD ALİM</td><td>S. YESENİN KÜÇ., ev 11</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏD-ZADƏ NAİLƏ NAZİM</td><td>S. YESENİN KÜÇ., ev 1</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ RƏSUL ELXAN</td><td>S. YESENİN KÜÇ., ev 1</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ SAMİR ELXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ TAHİRƏ FARİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏMMƏDZADƏ ZAUR AĞAƏLİ</td><td>S. YESENİN KÜÇ., ev 1</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏNSİMOV ARİF İSLAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏNSİMOVA MARUSA ALİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏNSİMOVA SAMAYA MANAF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏNSİMOVA SAMİRƏ İSLAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MƏSİMOVA XATİRƏ ABDULHƏSƏN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİKAYILOV AYDIN VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİKAYILOV İSLAM ƏBDÜRƏHMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİKAYILOVA ARZU ARİF</td><td>S. YESENİN KÜÇ., ev 8</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİKAYILOVA ƏSLİ HÜSEYNBABA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİKAYILOVA SÜSƏN VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİKAYILZADƏ VASİF SAKİT</td><td>S. YESENİN KÜÇ., ev 8</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRƏLİYEV VÜQAR ƏLİ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRƏLYEVA MƏDİNƏ HÜSEYNKİŞİ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1948</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏAĞAYEV RASİM RAUF</td><td>S. YESENİN KÜÇ., ev 3</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏĞAYEVA NAİLƏ ƏMİR</td><td>S. YESENİN KÜÇ., ev 3</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV BÜNYAD BABA</td><td>S. YESENİN KÜÇ., ev 9</td><td>1948</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV ELÇİN ALI</td><td>S. YESENİN KÜÇ., ev 87</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV ELŞƏN ALI</td><td>S. YESENİN KÜÇ., ev 87</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV HÜSEYN SURƏT</td><td>S. YESENİN KÜÇ., ev 6</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV HÜSEYNAĞA BALA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV MAARİF SƏRXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV MÜBARİZ TAĞIZADƏ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV NİZAMİ İSRAFİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV PƏRVİZ BÜNYAD</td><td>S. YESENİN KÜÇ., ev 9</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV RƏFAİL ATAXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1948</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV RƏHİM MİRZƏ</td><td>S. YESENİN KÜÇ., ev 106</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV ŞAHBALA ŞAHÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV SAHİL SİYASƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEV TAĞIZADƏ BAĞIŞ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEVA ADİLƏ MƏHƏMMƏD</td><td>S. YESENİN KÜÇ., ev 106</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEVA ESMİRA SOLTANAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEVA GÜLNAZ HÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEVA MƏTANƏT FƏRƏC</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEVA NİGAR AZƏR</td><td>S. YESENİN KÜÇ., ev 3</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEVA NİGAR MÜZƏFFƏR</td><td>S. YESENİN KÜÇ., ev 6</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEVA SEVİL MÖHÜBƏLİ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏYEVA VÜSALƏ BÜNYAD</td><td>S. YESENİN KÜÇ., ev 9</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏZADƏ CANBAXIŞ RƏHİM</td><td>S. YESENİN KÜÇ., ev 106</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏZADƏ HİKMƏT ZEYNAL</td><td>S. YESENİN KÜÇ., ev 42</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZƏZADƏ ZEYNƏB CEYHUN</td><td>S. YESENİN KÜÇ., ev 4</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİRZOYEVA XAVƏR CAMO</td><td>S. YESENİN KÜÇ., ev 87</td><td>1953</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MİSİRXANOVA VALİDƏ MƏXSUD</td><td>S. YESENİN KÜÇ., ev 83</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MOLLAYEV RƏCƏB HƏMZƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÖVSÜMOV HÜSEYNAĞA İBAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÖVSÜMOVA NAZİMƏ RZA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÖVSÜMZADƏ ƏZİZ GÜLAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADİ MƏNSUR GÜLMƏHƏMMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADLI HÜSEYN NOVRUZƏLİ</td><td>S. YESENİN KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOV ALİK ZƏKİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOV ANAR ƏDALƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOV ARİF ZƏKİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOV ƏHMƏD ŞƏMİL</td><td>S. YESENİN KÜÇ., ev 2</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOV İLHAM ARİF</td><td>S. YESENİN KÜÇ., ev 8</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOV İLHAM HƏSƏNQULU</td><td>S. YESENİN KÜÇ., ev 3</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOV MALİK ZƏKİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOVA GÜLDANƏ TELMAN</td><td>S. YESENİN KÜÇ., ev 8</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOVA HƏMİDƏ RƏFAİL</td><td>S. YESENİN KÜÇ., ev 12</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADOVA LALƏ MUXTAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADZADƏ AYGÜN ƏBÜLFƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADZADƏ FATİMƏ ƏBÜLFƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURADZADƏ VÜSAL ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 2</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MURSALİYEV VÜQAR CAHANGİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÜRSƏLOV FAZİL BALAKƏRİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÜRSƏLOV MİRSALAMAT MİRMANSUR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÜRSƏLOVA ŞƏLALƏ ƏLİXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÜRŞÜDOVA YEGANƏ ORUC</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSAYEV HƏSƏN VÜQAR</td><td>S. YESENİN KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSAYEV İSMAİL HƏSƏN</td><td>S. YESENİN KÜÇ., ev 2</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSAYEVA AYTƏN İLQAR</td><td>S. YESENİN KÜÇ.</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSAYEVA SARA HƏSƏN</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÜSEYİBOVA DÜRDANƏ MUSA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MÜSLİMOVA ESMİRALDA XOSROV</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSTAFAYEV MUSTAFA NURULLA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSTAFAYEV SAMİR TOFİQ</td><td>S. DADAŞOV KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSTAFAYEV SİNAN MURADƏLİ</td><td>S. YESENİN KÜÇ., ev 14</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSTAFAYEVA GÜLNARƏ NURULLA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSTAFAYEVA LALƏ MÜBARİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSTAFAZADƏ KƏNAN HACIMƏMMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUSTAFAZADƏ SƏDİ HACIMƏMMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>MUXTAROVA YEGANƏ VAQİF</td><td>S. YESENİN KÜÇ., ev 5</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NADİROVA ZARİNA RASİM</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NAĞIYEV RAMİN ELDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NAĞIYEVA GÜLNARƏ SÜCAYƏT</td><td>S. YESENİN KÜÇ., ev 17</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏBİZADƏ RÜFƏT İLTİMAS</td><td>S. YESENİN KÜÇ., ev 16</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏCƏFOV NATİQ MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏCƏFOV RAFAEL YAVƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏCƏFOVA NƏRMİNƏ QƏMZƏLİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1949</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏCƏFOVA RƏNA SABİR</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏCƏFZADƏ AMİN ƏBDÜLƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏRİMANOV BƏHMƏN GÜLBALA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏRİMANOVA GÜLNAZ BAYRAM</td><td>S. YESENİN KÜÇ., ev 11</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROV BABA ƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROV MƏMMƏDƏLİ ALLAHVERDİ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1951</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROV NƏBATİ MƏMMƏDƏLİ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROV RAUF MƏMMƏDƏLİ</td><td>S. YESENİN KÜÇ., ev 6</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROV RƏHİM KƏRİM</td><td>S. YESENİN KÜÇ., ev 16</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROVA AMİLƏ XANKİŞİ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROVA ƏMİNƏ KƏRİM</td><td>S. YESENİN KÜÇ., ev 16</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROVA ƏSMƏR MİSİRXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏSİROVA ŞƏLALƏ NƏSİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏZƏROV MEHMAN FİZULİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NƏZƏROVA ŞÖHRƏT AĞAŞ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NİYAZOVA ZENFİRƏ MƏCİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZLU AYSU ANAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOV ELŞƏN TELMAN</td><td>S. YESENİN KÜÇ., ev 10</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOV TELMAN MAŞALLAH</td><td>S. YESENİN KÜÇ., ev 10</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOVA AYNUR CÜMŞÜD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOVA FƏRQANƏ FİKRƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOVA FİDAN ELÇİN</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOVA HƏMİDƏ VADAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOVA NİGAR CÜMŞÜD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOVA REYHAN MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 1</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NOVRUZOVA XURAMAN FƏXRƏDDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NUQAYEV RADİK TOFİKOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURİDİNOV NURİDDİN CAHANDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURİDİNOV RASİM CAHANDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURİYEV ANAR NURULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURİYEV ZAUR RAUF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURULLAYEVA LEYLA İLYAS</td><td>S. YESENİN KÜÇ., ev 2</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURULLAZADƏ RÖYAL ƏFQAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURUŞOV QORXMAZ TEYYUB</td><td>S. YESENİN KÜÇ., ev 16</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURUŞOV TEYYUB QORXMAZ</td><td>S. YESENİN KÜÇ., ev 16</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NURUŞOVA TEHRANƏ ZƏBULLA</td><td>S. YESENİN KÜÇ., ev 16</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NÜSRƏTOV NADİR VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NÜSRƏTOV RAMİL VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>NÜSRƏTOVA AYGÜN VAHİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ORUCOV FUAD FƏRHAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ORUCOV MİSİR MÜSEYİB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ORUCOV SÖVZİƏLİ SADIX</td><td>S. YESENİN KÜÇ., ev 87</td><td>1935</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ORUCOVA AYTƏN ELXAN</td><td>S. YESENİN KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ORUCOVA TƏYUBƏ İSMAYIL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1935</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>OSMANOV NOVRUZ KƏRİM</td><td>S. YESENİN KÜÇ., ev 8</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>OSMANOVA AYSU FİRDOVSİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>OSMANOVA GÜLARƏ BƏHRUZ</td><td>S. YESENİN KÜÇ., ev 83</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>OSMANOVA GÜLSABAH KAMİL</td><td>S. YESENİN KÜÇ., ev 8</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>OSMANOVA SƏADƏT AZAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PAŞAYEV ELSEVƏR MUSABƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PAŞAYEVA NATİQƏ ƏZİZAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PƏNAHOV MƏHƏMMƏD RAMAZAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PƏNAHOV TOĞRUL EYVAZ</td><td>S. YESENİN KÜÇ., ev 17</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PƏNAHOVA HÜSNİYYƏ NİYAZİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PƏNAHOVA MAYA EYVAZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PƏNAHOVA SÜRƏYYA QARA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PƏNAHOVA XƏDİCƏ RAUF</td><td>S. YESENİN KÜÇ., ev 11</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PERŞİNA VALENTİNA İVANOVNA</td><td>S. YESENİN KÜÇ., ev 1</td><td>1944</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PİRİMOV ELXAN TOFİQ</td><td>S. YESENİN KÜÇ., ev 14</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PİRİMOVA ALİYƏ RÖVŞƏN</td><td>S. YESENİN KÜÇ., ev 9</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>PİRİYEVA MƏHBUBƏ ƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QADAŞOVA GÜLARƏ BEYTUL</td><td>S. YESENİN KÜÇ., ev 3</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QAFAROV FAZİL KAMAL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QAFAROV YAŞAR TƏLƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QAFAROVA KİFAYƏT YƏHYA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QAFAROVA MƏTANƏT SURXAY</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QAİBOVA GÜLNARƏ YAŞADƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QALKİN VASİLİ VALERİYEVİÇ</td><td>S. YESENİN KÜÇ., ev 2</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QARAŞLI GÜLNUR ATİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QARAYEV SAMİQ ƏDULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QARAYEVA GÜNAY HATƏM</td><td>S. YESENİN KÜÇ., ev 6</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QARAYEVA SƏBİRƏ MİRZAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOV EMİL VİTALİYEVİÇ</td><td>S. YESENİN KÜÇ., ev 12</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOV GÜLABBA ABBAS</td><td>S. YESENİN KÜÇ., ev 3</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOV MÜRŞÜD NİZAM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1951</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOV VAQİF HÜSEYN</td><td>S. YESENİN KÜÇ., ev 5</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOVA BƏSTİ İLTİFAT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOVA BƏYİMXANIM ƏYYUB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOVA FATMAXANIM HEYBƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOVA GÖZƏL RƏHİMZYAN</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOVA GÜLNABAT NAZİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASİMOVA SVETLANA VLADİMİROVNA</td><td>S. YESENİN KÜÇ., ev 12</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOVA TƏRANƏ SABİR</td><td>S. YESENİN KÜÇ., ev 5</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASIMOVA XƏYALƏ FİKİRƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASİMZADƏ İNTİZAR İLQAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QASMIOVA MİNAYƏ RAFİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QAYNETDİNOV TOFİQ MİNQATOVİÇ</td><td>S. YESENİN KÜÇ., ev 17</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QAYNETDİNOVA YANA TOFİQOVNA</td><td>S. YESENİN KÜÇ., ev 17</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİMALIYEV CEYHUN LƏNKƏRAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİMOV ƏLİ ƏKBƏR RƏCƏB</td><td>S. YESENİN KÜÇ., ev 2</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİMOV ŞAHİN ƏLİ ƏKBƏR</td><td>S. YESENİN KÜÇ., ev 2</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİMOV YADİGAR QILINCXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİRLİ PƏRVANƏ RZA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİROV ƏLİKBƏR SABİROVİÇ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİROV RUSLAN ƏLİKBƏR</td><td>S. YESENİN KÜÇ., ev 8</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİROVA AYTƏN NURƏDDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏDİYEVA AYNURƏ XEYBƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏHRƏMANOV RƏSUL RƏHMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏHRƏMANOV SƏFTƏR CƏMİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏMBƏRLİ KAZIM EHTİBAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏNİYEV CANBAXIŞ ALLAHVERDİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1951</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏRİBOV İSKƏNDƏR MƏMMƏDOVİÇ</td><td>S. YESENİN KÜÇ., ev 20</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏRİBOV TƏRLAN ABASƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QƏRİBOVA MARİNA VYAÇESLAVOVNA</td><td>S. YESENİN KÜÇ., ev 20</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QOCAYEV NİZAMİ ŞƏMSƏDDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QORÇUYEV ELVİN HİDAYƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QORÇUYEVA İRADƏ ORUC</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QUBAREVA VERA ALEKSANDROVNA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULAMOV NAMİQ ƏLİBABA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULAMOV VÜQAR RAMİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV ADƏM QARA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV ADİL ŞAMİL</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV ANAR RƏFAİL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV BƏKİR QARAŞ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV CEYHUN CƏBİ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV ƏJDƏR KAZIM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV ELÇİN MUSTAFA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV ELŞAD QURBAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV ELŞƏN ƏNVƏR</td><td>S. YESENİN KÜÇ., ev 106</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV İBRAHİM NAMİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV İLHAM VİLAYƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV KƏNAN RƏFAİL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV ORXAN YAŞAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV RAFAYIL RAFİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV RAFİK ELÇİN</td><td>S. YESENİN KÜÇ., ev 8</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV RAUF ELŞƏN</td><td>S. YESENİN KÜÇ., ev 106</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV RƏFAİL NAYİB</td><td>S. YESENİN KÜÇ., ev 1</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV RƏŞİD SALMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1949</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV SAMİR ALİM</td><td>S. YESENİN KÜÇ., ev 5</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV VASİF VƏFADAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEV YAŞAR SABİR</td><td>S. YESENİN KÜÇ., ev 9</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA CEYRAN ƏLİ</td><td>S. YESENİN KÜÇ., ev 14</td><td>1953</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA DÜNYA ƏYYUB</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA GÜLARƏ ELÇİN</td><td>S. YESENİN KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA GÜLNARƏ ALLAHVERDİ</td><td>S. YESENİN KÜÇ., ev 1</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA İRADƏ FƏRMAN</td><td>S. YESENİN KÜÇ., ev 2</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA MƏLƏKXANIM SAKİT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA MİNA BABA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1947</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA NAZİLƏ ƏLİBALA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA NƏRMİN MÜŞVİK</td><td>S. YESENİN KÜÇ., ev 87</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA SEVİNC AKİF</td><td>S. YESENİN KÜÇ., ev 5</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA ŞÜKÜFƏ MALİK</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA TAMİLLA FEYZULLA</td><td>S. YESENİN KÜÇ., ev 6</td><td>1953</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA ZƏHRA TARYEL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA ZÜLEYXA DƏNZİ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULİYEVA ZÜLFİYYƏ HASİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULUZADƏ GÜLŞƏN ADİL</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULUZADƏ HƏMİDƏ MİRŞƏMSİ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QULUZADƏ RAMAL AZƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QURBANOV RƏSUL ELŞƏN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>QURBANOVA ALA TALIB</td><td>S. YESENİN KÜÇ., ev 2</td><td>1949</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RAFALİ QURBAN MÜBARİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RAKİTİN ANDREY ANATOLYEVİÇ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RAKİTİN SERQEY ANDREYEVİÇ</td><td>S. YESENİN KÜÇ., ev 4</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RAKİTİNA YELENA VİTALYEVNA</td><td>S. YESENİN KÜÇ., ev 4</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RAMAZANOVA FİDAN RÖVŞƏN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏCƏBOV ETİRAM HÜSEYNAĞA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏFİYEV ASLAN ELGÜN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOV ELVİN RAFAİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>2000</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOV İMAMƏDDİN NAZİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOV MİRMƏHƏMMƏD ƏJDƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOV PƏRVİN ALI</td><td>S. YESENİN KÜÇ., ev 87</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOVA ELMİRA XIDIR</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOVA FƏRİDƏ AKİF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOVA LƏTAFƏT ABDUL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOVA SEVİNC ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOVA TAMARA TƏRLAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHİMOVA ZƏRXANIM İLQAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHMƏTOVA MEHRİBAN MƏMMƏD</td><td>S. YESENİN KÜÇ.</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏHMƏTZADƏ RAMİL BƏXTİYAR</td><td>S. YESENİN KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏŞİDOV ELNUR AĞALAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏŞİDOV SEYRAN RƏŞİD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏŞİDOVA AİDA MİLXOJODİNOVNA</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏŞİDOVA ESMİRA SÖVDÜM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏSULOV HÜSEYNAĞA ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏSULOV TƏRLAN YAVƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏSULOVA ƏDİLƏ BAXŞEYİŞ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1999</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏSULOVA FATMA BƏXTİYAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏSULOVA MƏRİFƏT İSMİYƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏSULOVA ZƏMİNƏ ŞAHHÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RƏSULZADƏ HƏSƏNAĞA RƏSUL</td><td>S. YESENİN KÜÇ.</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ROMANOV RUSLAN MİXALOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RÜSTƏMOV İNTİQAM RÜSTƏM</td><td>S. YESENİN KÜÇ., ev 2</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RÜSTƏMOV XƏYYAM HƏSƏNQULU</td><td>S. YESENİN KÜÇ., ev 9</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RÜSTƏMOVA ESMİRALDA HAMLET</td><td>S. YESENİN KÜÇ., ev 3</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RÜSTƏMOVA FAİLƏ ƏLİHEYDƏR</td><td>S. YESENİN KÜÇ., ev 9</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RÜSTƏMOVA MEHRİBAN VİDADİ</td><td>S. YESENİN KÜÇ., ev 3</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RÜSTƏMOVA ÜLKƏR QALİB</td><td>S. YESENİN KÜÇ., ev 7</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RÜSTƏMOVA VÜSALƏ VİDADİ</td><td>S. YESENİN KÜÇ., ev 3</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RYAZANOVA YULİYA SERQEYEVNA</td><td>S. DADAŞOV KÜÇ.</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RZAYEV ARAZ TOFİQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RZAYEV VAQİF ƏLƏSGƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RZAYEV ZAUR HÜSEYNAĞA</td><td>S. YESENİN KÜÇ., ev 10</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RZAYEVA DÜNYA ƏLİYOLDAŞ</td><td>S. YESENİN KÜÇ., ev 10</td><td>1951</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RZAYEVA SƏİDƏ NƏSRƏDDİN</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RZAYEVA SVETLANA ALEKSANDROVNA</td><td>S. YESENİN KÜÇ., ev 6</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RZAYEVA YEGANƏ MİRZƏ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>RZAYEVA ZÜMRÜD HƏSƏN</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SADIKOVA ELMİRA XANKƏRYƏMOVNA</td><td>S. YESENİN KÜÇ., ev 6</td><td>1953</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SADIXOV VASİF VAQİF</td><td>S. YESENİN KÜÇ., ev 114</td><td>1973</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SALAMOV OQTAY MİNAC</td><td>S. YESENİN KÜÇ., ev 87</td><td>1953</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SALAXUTDİNOVA RAMİNA RAFİQOVNA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SALMANOV FİRUZ ƏLƏDDİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SAMOXİNA YELENA VLADİMİROVNA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SAMOYLENKO PAVEL VASİLYEVİÇ</td><td>S. YESENİN KÜÇ., ev 17</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞƏFƏQQƏTOVA İLHAMƏ ƏLİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏRƏLİYEV TAMERLAN TEYMUR</td><td>S. YESENİN KÜÇ., ev 14</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏRLİ FATİMƏ ÇİNGİZ</td><td>S. YESENİN KÜÇ., ev 15</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏRLİ ORXAN ÇİNGİZ</td><td>S. YESENİN KÜÇ., ev 15</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏROV ÇİNGİZ HƏTƏMƏLİ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏROV ELNUR RÖVŞƏN</td><td>S. YESENİN KÜÇ., ev 15</td><td>2003</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏROV FİKRƏT HƏTƏMƏLİ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏROVA CANETA YUSUFOVNA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏROVA ELLADA RÖVŞƏN</td><td>S. YESENİN KÜÇ., ev 15</td><td>2003</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏROVA ELVİRA RÖVŞƏN</td><td>S. YESENİN KÜÇ., ev 15</td><td>2003</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏROVA GÜLSABA QƏDİM</td><td>S. YESENİN KÜÇ., ev 15</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFƏRZADƏ İLKİN ÇƏRGƏZ</td><td>S. YESENİN KÜÇ., ev 15</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏFİXANOVA AYDAN ELMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞƏKƏROV HACIBALA İSLAM</td><td>S. YESENİN KÜÇ., ev 3</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞƏKƏROV İMRAN İSLAM</td><td>S. YESENİN KÜÇ., ev 3</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞƏKƏROV İSLAM HACIBALA</td><td>S. YESENİN KÜÇ., ev 3</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞƏKƏROVA AYATXANIM RAFİDDİN</td><td>S. YESENİN KÜÇ., ev 3</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞƏKƏROVA ƏZİZƏ YAQUD</td><td>S. YESENİN KÜÇ., ev 3</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏLİMOVA ŞƏRQİYƏ NƏCƏF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏLİMZADƏ MİKAYIL ALEKSANDR</td><td>S. YESENİN KÜÇ., ev 8</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞEMAİLOV ANDREY BORİSOVİÇ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏMƏDOV BAYRAM MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 9</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏMƏDOV ELSEVƏR MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 9</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏMƏDOV MƏHƏMMƏD ELSEVƏR</td><td>S. YESENİN KÜÇ., ev 9</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏMƏDOV VAQİF RASİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏMƏDOVA ARİFƏ TƏHVİL</td><td>S. YESENİN KÜÇ.</td><td>1976</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏMƏDOVA BAKİZƏR ALI</td><td>S. YESENİN KÜÇ., ev 9</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏMƏDOVA ŞƏRQİYYƏ MƏMMƏD</td><td>S. YESENİN KÜÇ., ev 9</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞƏRBƏTDAROVA LEYLA İBRAHİM</td><td>S. YESENİN KÜÇ., ev 87</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞƏRBƏTOVA ELMİRA CÜRÜ</td><td>S. YESENİN KÜÇ., ev 16</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏRDAROV MƏCNUN AYAZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏTTAR ZADƏ RƏŞAD PƏRVİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SƏTTAROVA YEGANƏ ƏLİYULLA</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SEYFULLAYEV SEYFULLA ZƏBULLA</td><td>S. YESENİN KÜÇ., ev 16</td><td>1974</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞİRİNOV SABİR KURBANOVİÇ</td><td>S. YESENİN KÜÇ., ev 10</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞİRİNOV SƏMƏD SABİR</td><td>S. YESENİN KÜÇ., ev 10</td><td>1983</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞİRİNOVA DİLBƏR NURƏLİYEVNA</td><td>S. YESENİN KÜÇ., ev 10E</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞİRİNOVA ELNARƏ SABİR</td><td>S. YESENİN KÜÇ., ev 10</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞİRYAYEV QRİQORİ ALEKSANDROVİÇ</td><td>S. YESENİN KÜÇ., ev 114</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞİRYAYEVA RAMİLƏ SULTANOVNA</td><td>S. YESENİN KÜÇ., ev 114</td><td>1970</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SİVAKOVA TAMARA ANATOLYEVNA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞİVƏXANOV RAUF MÜQƏDDƏS</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞIXALİYEVA NURQAYIZ SALMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞIXBALAYEVA ÜLVİYYƏ MİRBABA</td><td>S. YESENİN KÜÇ., ev 7</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞIXƏLİYEVA GÜLSÜM ƏŞRƏF</td><td>S. YESENİN KÜÇ., ev 2</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞIXƏLİYEVA SAMİRƏ SAMİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞİXİYEVA FİDAN ELDAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞKONDA VERA PAVLOVNA</td><td>S. YESENİN KÜÇ., ev 2</td><td>1951</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞLYAXTİN NİKOLAY TROFİMOVİÇ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1937</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SMİRNOVA QALİNA FEDOROVNA</td><td>S. YESENİN KÜÇ., ev 83</td><td>1944</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SOROKİNA ZOYA DMİTRİYEVNA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞRAMKO ALYONA YURİYEVNA</td><td>S. YESENİN KÜÇ., ev 8</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞÜKÜROV HATƏM ƏLİƏSGƏR</td><td>S. YESENİN KÜÇ., ev 50</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞÜKÜROV RAFİQ ŞİRİN</td><td>S. YESENİN KÜÇ., ev 50</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞÜKÜROVA NƏRGİZ ƏSKƏR</td><td>S. YESENİN KÜÇ.</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ŞÜKÜROVA RƏNA İLKƏN</td><td>S. YESENİN KÜÇ., ev 50</td><td>1968</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SÜLEYMANLI İNAYƏT RÖVŞƏN</td><td>S. YESENİN KÜÇ., ev 2</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SÜLEYMANOVA KƏMALƏ KAMAL</td><td>S. YESENİN KÜÇ., ev 1</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SÜLEYMANOVA NAZİLƏ İMANVERDİ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SULTANƏHMƏDOV RAMİN RAFİQ</td><td>S. YESENİN KÜÇ., ev 9</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SULTANƏHMƏDOVA ZARXANIM İBRAHİMOVNA</td><td>S. YESENİN KÜÇ., ev 9</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SULTANZADƏ ZƏHRA ŞƏMSİ</td><td>S. YESENİN KÜÇ., ev 11</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>SURXAYXANOV OLEQ ƏBDÜLOVİÇ</td><td>S. YESENİN KÜÇ., ev 12</td><td>1955</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TAĞIYEVA NƏRGİZ ELŞAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TAĞIYEVA SOLMAZ FUAD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1997</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TAĞIYEVA VALİDƏ SABİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TAHİROV HİKMƏT MƏMMƏDƏMİN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TAHİROV MAXSUD MƏHƏMMƏDƏLİ</td><td>S. YESENİN KÜÇ., ev 5</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TAHİROV RAMİL MAXSUD</td><td>S. YESENİN KÜÇ., ev 5</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TAHİROVA ŞƏMAYİL BƏDİRXAN</td><td>S. DADAŞOV KÜÇ., ev 22</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TALIBOV ƏLİ RÖVŞƏN</td><td>S. YESENİN KÜÇ., ev 3</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TALIBOV RÖVŞƏN FƏRMAN</td><td>S. YESENİN KÜÇ., ev 3</td><td>1971</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TANAVERDİYEVA NAZİLƏ KAMAL</td><td>S. YESENİN KÜÇ., ev 5</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TARBEYEVA NATALYA YURYEVNA</td><td>S. YESENİN KÜÇ., ev 11</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TEYMUROVA FİDAN HABİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TRETYAKOVA QALİNA QRİQORYEVNA</td><td>S. YESENİN KÜÇ., ev 6</td><td>1950</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TUMANOVA VALENTİNA QRİQORYEVNA</td><td>S. YESENİN KÜÇ., ev 16</td><td>1949</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>TUMANOVA YELENA VİKTOROVNA</td><td>S. YESENİN KÜÇ., ev 16</td><td>1975</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>URAZAYEV RAHİB İBRAHİMOVİÇ</td><td>S. YESENİN KÜÇ., ev 5</td><td>1949</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VAHABOV VAHAB ƏBDÜLHƏMİDOVİÇ</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VAHABOVA ŞİMEYSAT ƏBDULHƏMİDOVNA</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1948</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VAHABZADƏ İLQAR VAHAB</td><td>S. YESENİN KÜÇ., ev 10</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VARNAKOVA RAİSA ANDREYEVNA</td><td>S. YESENİN KÜÇ., ev 17</td><td>1935</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİLİ AYTAC FİZULİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV ABBAS ASƏF</td><td>S. YESENİN KÜÇ., ev 9</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV ƏLQƏMƏ ŞÜKÜR</td><td>S. YESENİN KÜÇ., ev 12</td><td>1958</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV FÜZULİ ƏLQƏMƏ</td><td>S. YESENİN KÜÇ., ev 12</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV HƏSƏN HÜSEYN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV İLHAM MÜSEYİB</td><td>S. YESENİN KÜÇ., ev 87</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV NATİQ NÖHBALA</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV NAZİM SADIQ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV RƏŞİD RƏSUL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1966</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV RƏSUL ƏMİRXAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>1939</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV SEYFULLA RƏFAİL</td><td>S. YESENİN KÜÇ., ev 7</td><td>1990</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV VAQİF RƏFAİL</td><td>S. YESENİN KÜÇ., ev 7</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEV VİDADİ MOBİL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEVA GÜLSUM MUSAF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1939</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEVA GÜLYANAQ SABİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1967</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEVA NİGAR ƏLQƏMƏ</td><td>S. YESENİN KÜÇ., ev 12</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEVA ŞƏKİFƏ ZEYDULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1951</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEVA SOLMAZ MÜZƏFFƏR</td><td>S. YESENİN KÜÇ., ev 7</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏLİYEVA ZƏRNİŞAN ƏLQƏMƏ</td><td>S. YESENİN KÜÇ., ev 12</td><td>1985</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VEYSOV MURAD VASİF</td><td>S. YESENİN KÜÇ., ev 16</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VEYSOV NİHAD VASİF</td><td>S. YESENİN KÜÇ., ev 16</td><td>2001</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VEYSOV SALEH VASİF</td><td>S. YESENİN KÜÇ., ev 16</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VEYSOV VAQİF YUSİF</td><td>S. YESENİN KÜÇ., ev 16</td><td>1952</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VEYSOVA GÜNEL İSFƏNDİYAR</td><td>S. YESENİN KÜÇ., ev 16</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VEYSOVA RASİYƏ ƏLİŞAN</td><td>S. YESENİN KÜÇ., ev 16</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏZİRLİ FİKRƏT NADİR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1994</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>VƏZİROVA SƏADƏT CƏFƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1969</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XAMİYEVA RÖYALƏ ƏVƏZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XANMƏDOV ELMAR MÜBARİZ</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XASYANOVA ROMİYA ALYAMOVNA</td><td>S. YESENİN KÜÇ., ev 7</td><td>1944</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLƏFOVA SOLMAZ EYVAZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLİLİ ZAUR QEORQİYEVİÇ</td><td>S. YESENİN KÜÇ., ev 5</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLİLOV ELDAR RAFAİL</td><td>S. YESENİN KÜÇ.</td><td>1986</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLİLOV ELŞƏN NİZAMİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLİLOV HƏSƏN RAUF</td><td>S. YESENİN KÜÇ., ev 87</td><td>1989</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLİLOV RƏHMAN ELMAN</td><td>S. YESENİN KÜÇ., ev 87</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLİLOVA ALMAS HÜSEYNBALA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLİLOVA ÇİNARƏ FİKRƏT</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XƏLİLOVA LƏTİFƏ İBAD</td><td>S. YESENİN KÜÇ., ev 1</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XIDIROV ARİF MƏHƏMMƏD</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XRAMOVA VİOLLETA SERQEYEVNA</td><td>S. YESENİN KÜÇ.</td><td>2002</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XUDAVERDİYEVA ALMAS ƏHMƏD</td><td>S. YESENİN KÜÇ., ev 87</td><td>1960</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XXX İSMAYIL TOFİQ</td><td>S. YESENİN KÜÇ., ev 8</td><td>1993</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>XXX OKTYAR SABİYULLA</td><td>S. YESENİN KÜÇ., ev 87</td><td>1956</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YADİGAROV ŞAMİL OQTAY</td><td>S. YESENİN KÜÇ., ev 106</td><td>1995</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YADİGAROVA KAMALƏ ARİF</td><td>S. YESENİN KÜÇ., ev 106</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YAQUBOV ƏBÜLFƏZ MEHTİ</td><td>S. YESENİN KÜÇ., ev 87</td><td>1961</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YAQUBOVA NURANƏ RƏSUL</td><td>S. YESENİN KÜÇ., ev 87</td><td>1991</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YAQUBOVA XATİRƏ CƏBİ</td><td>S. YESENİN KÜÇ., ev 83</td><td>1965</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YEDİYAROV YUSİF DİLAVƏR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YUSİFOV FARİZ NADİR</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1972</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YUSİFOV NADİR FARİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YUSİFOV NADİR İLQAR</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YUSİFOVA BƏDURƏ SADIQ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>1979</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YUSİFOVA BƏTU ZAUR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YUSİFOVA TÜRKAN XASAY</td><td>S. YESENİN KÜÇ., ev 87</td><td>1992</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YUSİFOVA ÜLVİYYƏ İLQAR</td><td>S. DADAŞOV KÜÇ., ev 4</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>YUSİFZADƏ MƏHƏMMƏD FARİZ</td><td>S. DADAŞOV KÜÇ., ev 8</td><td>2005</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZABİLOV EMİL EYYUB</td><td>S. YESENİN KÜÇ., ev 9</td><td>1982</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZABİLOVA ELNARƏ EYYUB</td><td>S. YESENİN KÜÇ., ev 9</td><td>1980</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZABİLOVA LEYLA TEYMUR</td><td>S. YESENİN KÜÇ., ev 9</td><td>1996</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZAHİRBƏYOV KƏNAN NARUDDİN</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1998</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZAİDOV CAVİD ZAKİR</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1988</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZAİDOVA MƏLAHƏT TALIB</td><td>S. YESENİN KÜÇ., ev 92/2</td><td>1963</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZALALETDİNOVA RAİDA RÜSTAMOVNA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1987</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZALALETDİNOVA ZENFİRA MİRQASIMOVNA</td><td>S. YESENİN KÜÇ., ev 14</td><td>1957</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZALOV BABA ZAVUR</td><td>S. YESENİN KÜÇ., ev 10</td><td>1959</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZALOV RAUL ZAUR</td><td>S. YESENİN KÜÇ., ev 10</td><td>2004</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZALOV ZAUR BABA</td><td>S. YESENİN KÜÇ., ev 10</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZALOVA FİDAN HAMİL</td><td>S. YESENİN KÜÇ., ev 10</td><td>1984</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZALOVA TAMİLLA RAHƏT</td><td>S. YESENİN KÜÇ., ev 10</td><td>1962</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZAMANOVA GÜLNARƏ ƏLİYAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>1978</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZEYNALOV MEHDİ NAMİK</td><td>S. YESENİN KÜÇ., ev 5</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZEYNALOV MURAD NAMİQ</td><td>S. YESENİN KÜÇ., ev 5</td><td>1981</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZEYNALOVA ŞAHNAZ VÜQAR</td><td>S. YESENİN KÜÇ., ev 87</td><td>2006</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZEYNALOVA SAMİRƏ OKTAY</td><td>S. YESENİN KÜÇ., ev 5</td><td>1977</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZEYNALOVA SEVİL ŞİRXANOVNA</td><td>S. YESENİN KÜÇ., ev 5</td><td>1954</td>
+		</tr><tr>
+			<td>12</td><td>1</td><td>ZEYNAL-ZADƏ SAMİR ABAS</td><td>S. YESENİN KÜÇ.</td><td>1969</td>
+		</tr>
+	
