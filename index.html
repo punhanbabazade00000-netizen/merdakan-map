@@ -1,667 +1,309 @@
 <!DOCTYPE html>
 <html lang="az">
 <head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Merdakan Xəritə Paneli</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com"/>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet"/>
-  <link rel="stylesheet" href="style.css"/>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+    <base target="_self">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Punish MMC - Admin və İstifadəçi Giriş</title>
+    <meta name="description" content="Punish MMC sistemi. Admin və adi istifadəçilər üçün ayrı-ayrı giriş nöqtələri.">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: "#2563eb",
+                        secondary: "#1e40af",
+                        accent: "#0f172a"
+                    },
+                    fontFamily: {
+                        'sans': ['Inter', 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
 </head>
-<body>
-
-  <header class="topbar">
-    <div class="brand-block">
-      <img class="brand-logo" src="a-logo-with-punish-word.png" alt="Punish logo"/>
-      <div class="brand-copy">
-        <p class="eyebrow">Punish MMC</p>
-      </div>
-    </div>
-
-    <div class="toolbar-panel">
-      <div class="search-shell">
-        <span class="search-icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none">
-            <path d="M21 21l-4.35-4.35" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
-            <circle cx="11" cy="11" r="6.5" stroke="currentColor" stroke-width="1.8"/>
-          </svg>
-        </span>
-        <input id="search-input" type="search" placeholder="Ünvan, ev nömrəsi və ya sakin adı ilə axtar"/>
-      </div>
-
-      <div class="filter-grid">
-        <label class="filter-chip">
-          <span>Küçə</span>
-          <select id="street-filter">
-            <option value="">Bütün küçələr</option>
-          </select>
-        </label>
-
-        <label class="filter-chip">
-          <span>Qeydiyyat sayı</span>
-          <select id="resident-filter">
-            <option value="">Hamısı</option>
-            <option value="1-20">1-20 nəfər</option>
-            <option value="21-100">21-100 nəfər</option>
-            <option value="101+">101+ nəfər</option>
-          </select>
-        </label>
-
-        <button id="filter-reset-btn" type="button">Filtrləri sıfırla</button>
-      </div>
-    </div>
-
-    <div class="header-right">
-      <span id="count"></span>
-      <button class="action-btn" onclick="togglePickMode()">Xəritədən seç</button>
-      <button class="action-btn btn-secondary" onclick="openPanel(null)">Əl ilə əlavə et</button>
-      <button class="action-btn btn-danger" onclick="resetData()">Sıfırla</button>
-      <button class="save-btn" onclick="saveChanges()">Yadda saxla</button>
-    </div>
-
-  </header>
-
-  <div id="map"></div>
-
-  <div id="pick-banner" style="
-    display:none; position:fixed; top:52px; left:50%; transform:translateX(-50%);
-    background:#EF9F27; color:#1a1a2e; padding:10px 20px; border-radius:8px;
-    font-size:13px; font-weight:500; z-index:999; box-shadow:0 2px 10px rgba(0,0,0,0.3);">
-    Xəritədə istədiyiniz yerə klikləyin — koordinat avtomatik doldurulacaq
-    <button onclick="cancelPickMode()" style="margin-left:12px; background:#1a1a2e; color:#fff; border:none; padding:3px 10px; border-radius:6px; cursor:pointer;">Ləğv et</button>
-  </div>
-
-  <div id="side-panel">
-    <h2>
-      Yeni obyekt əlavə et
-      <button id="panel-close" onclick="closePanel()">×</button>
-    </h2>
-
-    <div class="form-group">
-      <label>Ünvan *</label>
-      <input type="text" id="f-address" placeholder="məs. Xəzər r., Mərdəkan, Küç. 10"/>
-    </div>
-
-    <div id="registrations-container">
-      <!-- Rows will be added here -->
-    </div>
-    <button type="button" id="add-registration-btn" onclick="addRegistration()" style="background:#378ADD; color:#fff; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; margin-bottom:10px;">+ Yeni qeydiyyat əlavə et</button>
-
-    <div class="form-row">
-      <div class="form-group">
-        <label>Enlik (lat) *</label>
-        <input type="text" id="f-lat" placeholder="məs. 40.5150"/>
-      </div>
-      <div class="form-group">
-        <label>Uzunluq (lng) *</label>
-        <input type="text" id="f-lng" placeholder="məs. 50.1620"/>
-      </div>
-    </div>
-    <div class="coord-hint">
-      Koordinat bilmirsinizsə:
-      <a onclick="startPickMode()">Xəritədən seçin</a>
-      və ya
-      <a onclick="openGoogleMaps()">Google Maps</a>
-    </div>
-
-    <button id="submit-btn" onclick="addBuilding()">Xəritəyə əlavə et</button>
-    <div class="success-msg" id="success-msg">Obyekt uğurla əlavə edildi!</div>
-  </div>
-
-  <div id="search-modal" class="search-modal hidden">
-    <div class="search-modal-backdrop" onclick="closeSearchModal()"></div>
-    <div class="search-modal-card">
-      <div class="search-modal-head">
-        <div>
-          <p class="search-modal-eyebrow">Axtarış nəticələri</p>
-          <h3 id="search-modal-title">Uyğun ünvanlar</h3>
+<body class="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 font-sans">
+    <header class="bg-white shadow-lg">
+        <div class="container mx-auto px-4 py-3">
+            <nav class="flex justify-between items-center">
+                <div class="flex items-center gap-3">
+                    <img class="brand-logo" src="a-logo-with-punish-word.png" alt="Punish logo" style="width: 48px; height: auto;">
+                    <h1 class="text-xl font-bold text-accent">Punish MMC</h1>
+                </div>
+                <ul id="nav-menu" class="hidden md:flex gap-6"></ul>
+                <button id="mobile-menu-btn" class="md:hidden text-gray-700 hover:text-primary">
+                    <i class="fas fa-bars text-xl"></i>
+                </button>
+            </nav>
         </div>
-        <button type="button" class="search-modal-close" onclick="closeSearchModal()">×</button>
-      </div>
-      <div id="search-results" class="search-results"></div>
-    </div>
-  </div>
+        <div id="mobile-menu" class="md:hidden bg-white shadow-md px-4 py-3 hidden">
+            <ul id="mobile-nav-list"></ul>
+        </div>
+    </header>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-  <script>
-    const map = L.map('map').setView([40.4879, 50.1470], 15);
+    <main class="container mx-auto px-4 py-8 md:py-12">
+        <div class="text-center mb-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-accent mb-2">Punish MMC Giriş Paneli</h2>
+            <p class="text-gray-600 max-w-2xl mx-auto">Admin və adi istifadəçilər üçün ayrı-ayrı giriş seçimləri. Sistemi idarə etmək və məlumatları görüntüləmək üçün müvafiq girişi seçin.</p>
+        </div>
 
-    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-      attribution: 'Tiles © Esri',
-      maxZoom: 19
-    }).addTo(map);
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+            <!-- Admin Login Section -->
+            <section class="bg-white rounded-xl shadow-lg p-6 md:p-8 border border-gray-200">
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="bg-primary text-white p-3 rounded-full">
+                        <i class="fas fa-user-shield text-xl"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-accent">Admin Giriş</h3>
+                </div>
+                <p class="text-gray-700 mb-6">Sistem idarəçiliyi, məlumat əlavəsi/silənməsi, istifadəçi rollarının tənzimlənməsi və analiz üçün admin panelə giriş.</p>
+                
+                <form id="admin-form" class="space-y-5">
+                    <div class="space-y-4">
+                        <div>
+                            <label for="admin-username" class="block text-gray-800 font-medium mb-2">Admin Username</label>
+                            <input type="text" id="admin-username" name="username" placeholder="admin_ad" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent" required>
+                        </div>
+                        <div>
+                            <label for="admin-password" class="block text-gray-800 font-medium mb-2">Admin Password</label>
+                            <input type="password" id="admin-password" name="password" placeholder="••••••••" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent" required>
+                        </div>
+                    </div>
+                    
+                    <div class="flex items-center mb-4">
+                        <input type="checkbox" id="admin-remember" class="mr-3 accent-primary">
+                        <label for="admin-remember" class="text-gray-700">Giriş məlumatlarını yadda saxla</label>
+                    </div>
+                    
+                    <button type="submit" class="w-full bg-primary hover:bg-secondary text-white font-semibold py-3 px6 rounded-lg transition duration-300">
+                        <i class="fas fa-sign-in-alt mr-2"></i>Admin Panelə Giriş
+                    </button>
+                </form>
+                
+                <div class="mt-6 pt-4 border-t border-gray-200">
+                    <p class="text-gray-600 text-sm"><i class="fas fa-info-circle mr-2"></i>Admin girişi üçün məlumatları sistem administratoru təqdim edir.</p>
+                </div>
+            </section>
 
-    let allBuildings = [];
-    let filteredBuildings = [];
-    let markers = {};
-    let nextId = 100;
-    let pickMode = false;
-    function getMarkerLabel(address = '') {
-      const match = address.match(/ev\s+([\dA-Z/]+)/i);
-      if (match) return match[1].slice(0, 4).toUpperCase();
-      return address ? address.split(' ')[0].substring(0, 2).toUpperCase() : 'EV';
-    }
+            <!-- User Login Section -->
+            <section class="bg-white rounded-xl shadow-lg p-6 md:p-8 border border-gray-200">
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="bg-green-600 text-white p-3 rounded-full">
+                        <i class="fas fa-users text-xl"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-accent">İstifadəçi Giriş</h3>
+                </div>
+                <p class="text-gray-700 mb-6">Punish MMC məlumatlarını görüntüləmək, axtarmaq və şəxsi hesabı idarə etmək üçün istifadəçi panelə giriş.</p>
+                
+                <form id="user-form" class="space-y-5">
+                    <div class="space-y-4">
+                        <div>
+                            <label for="user-email" class="block text-gray-800 font-medium mb-2">Email və ya Username</label>
+                            <input type="text" id="user-email" name="email" placeholder="istifadəçi@example.com" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent" required>
+                        </div>
+                        <div>
+                            <label for="user-password" class="block text-gray-800 font-medium mb-2">Password</label>
+                            <input type="password" id="user-password" name="password" placeholder="••••••••" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent" required>
+                        </div>
+                    </div>
+                    
+                    <div class="flex justify-between items-center mb4">
+                        <div class="flex items-center">
+                            <input type="checkbox" id="user-remember" class="mr-3 accent-primary">
+                            <label for="user-remember" class="text-gray-700">Yadda saxla</label>
+                        </div>
+                        <a href="#" class="text-primary hover:text-secondary font-medium text-sm">Şifrəni unutmusunuz?</a>
+                    </div>
+                    
+                    <button type="submit" class="w-full bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px6 rounded-lg transition duration-300">
+                        <i class="fas fa-sign-in-alt mr-2"></i>İstifadəçi Panelə Giriş
+                    </button>
+                </form>
+                
+                <div class="mt-6 pt-4 border-t border-gray-200">
+                    <p class="text-gray-600 text-sm"><i class="fas fa-info-circle mr-2"></i>İstifadəçi qeydiyyatı üçün əlavə "Qeydiyyat" seçimi mövcuddur.</p>
+                    <button id="register-btn" class="mt-3 w-full bg-gray-200 hover:bg-gray-300 text-gray-800 font-medium py-2 px4 rounded-lg transition duration-300">
+                        <i class="fas fa-user-plus mr-2"></i>Yeni İstifadəçi Qeydiyyatı
+                    </button>
+                </div>
+            </section>
+        </div>
 
-    function makeIcon(label = '', precise = false) {
-      const text = getMarkerLabel(label);
-      const fillColor = precise ? '#1D9E75' : '#e53935';
-      const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="34" height="42" viewBox="0 0 34 42">
-        <path d="M17 0C7.63 0 0 7.63 0 17c0 11.55 17 26.5 17 26.5S34 28.55 34 17C34 7.63 26.37 0 17 0z"
-          fill="${fillColor}" stroke="white" stroke-width="2"/>
-        <text x="17" y="24" text-anchor="middle" font-size="11" font-family="Arial, sans-serif" fill="#fff" font-weight="700">${text}</text>
-      </svg>`;
-      return L.divIcon({
-        html: svg,
-        className: '',
-        iconSize: [34, 42],
-        iconAnchor: [17, 42],
-        popupAnchor: [0, -42]
-      });
-    }
+        <!-- Additional Info Section -->
+        <div class="mt-12 max-w-3xl mx-auto">
+            <h3 class="text-2xl font-bold text-accent mb-6 text-center">Giriş Seçimlərinin Xüsusiyyətləri</h3>
+            <div id="features-container" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+        </div>
+    </main>
 
-    function makePopup(b) {
-      const residentCount = b.residentCount ?? b.registered.split('\n').map(line => line.trim()).filter(Boolean).length;
-      return `
-        <div class="popup-inner">
-          <div class="popup-header">${b.address}</div>
-          <div class="popup-row">
-            <span class="popup-lbl">Qeydiyyatda</span>
-            <span class="popup-val">${residentCount} nəfər</span>
-          </div>
-          <div style="margin-top:10px; padding:8px; background:#1a3a52; border-radius:6px; border-left:3px solid #378ADD; margin-bottom:10px; font-size:11px; color:#90caf9;">
-            <strong>Seçilən ünvan:</strong><br/>${b.address}
-          </div>
-          <div style="margin-top:10px;">
-            <button onclick="copyBuildingToForm(${b.id})" style="
-              width:100%; padding:7px; background:#378ADD; color:#fff;
-              border:none; border-radius:6px; font-size:12px; cursor:pointer; margin-bottom:8px;">
-              İnfo and edit
-            </button>
-            <button onclick="deleteBuilding(${b.id})" style="
-              width:100%; padding:7px; background:#b71c1c; color:#fff;
-              border:none; border-radius:6px; font-size:12px; cursor:pointer;">
-              Sil
-            </button>
-          </div>
-        </div>`;
-    }
-
-    function addMarker(b) {
-      const marker = L.marker([b.lat, b.lng], { icon: makeIcon(b.address, b.precise) })
-        .addTo(map)
-        .bindPopup(makePopup(b), { 
-          maxWidth: 320,
-          offset: L.point(0, -40),
-          autoPan: true,
-          keepInView: true
-        });
-      markers[b.id] = marker;
-    }
-
-    function clearMarkers() {
-      Object.values(markers).forEach(marker => map.removeLayer(marker));
-      markers = {};
-    }
-
-    function fitMapToMarkers() {
-      const markerList = Object.values(markers);
-      if (!markerList.length) return;
-      const group = L.featureGroup(markerList);
-      map.fitBounds(group.getBounds().pad(0.12));
-    }
-
-    function normalizeBuilding(building) {
-      return {
-        ...building,
-        residentCount: (building.registered || '').split('\n').map(line => line.trim()).filter(Boolean).length
-      };
-    }
-
-    function getStreetName(address = '') {
-      return String(address).split(',')[0].trim();
-    }
-
-    function normalizeSearch(value = '') {
-      return String(value)
-        .toLocaleLowerCase('az')
-        .replace(/[əƏ]/g, 'e')
-        .replace(/[öÖ]/g, 'o')
-        .replace(/[üÜ]/g, 'u')
-        .replace(/[ğĞ]/g, 'g')
-        .replace(/[çÇ]/g, 'c')
-        .replace(/[şŞ]/g, 's')
-        .replace(/[ıİ]/g, 'i')
-        .replace(/№/g, ' ')
-        .replace(/[.,/\\-]+/g, ' ')
-        .replace(/\s+/g, ' ')
-        .trim();
-    }
-
-    function escapeHtml(value = '') {
-      return String(value)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;')
-        .replace(/'/g, '&#39;');
-    }
-
-    function highlightMatch(text = '', queryTokens = []) {
-      let output = escapeHtml(text);
-      queryTokens
-        .filter(Boolean)
-        .sort((a, b) => b.length - a.length)
-        .forEach(token => {
-          const escapedToken = escapeHtml(token).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-          const regex = new RegExp(`(${escapedToken})`, 'ig');
-          output = output.replace(regex, '<mark>$1</mark>');
-        });
-      return output;
-    }
-
-    function getSearchMatches(building, queryTokens = []) {
-      if (!queryTokens.length) return [];
-      const matches = [];
-
-      const normalizedAddress = normalizeSearch(building.address);
-      if (queryTokens.every(token => normalizedAddress.includes(token))) {
-        matches.push({
-          type: 'Ünvan',
-          text: building.address
-        });
-      }
-
-      const registrationLines = String(building.registered || '')
-        .split('\n')
-        .map(line => line.trim())
-        .filter(Boolean);
-
-      registrationLines.forEach(line => {
-        const normalizedLine = normalizeSearch(line);
-        if (queryTokens.every(token => normalizedLine.includes(token))) {
-          matches.push({
-            type: 'Qeydiyyat',
-            text: line
-          });
-        }
-      });
-
-      return matches.slice(0, 6);
-    }
-
-    function closeSearchModal() {
-      document.getElementById('search-modal').classList.add('hidden');
-    }
-
-    function openSearchModal(queryTokens = []) {
-      const modal = document.getElementById('search-modal');
-      const title = document.getElementById('search-modal-title');
-      const results = document.getElementById('search-results');
-
-      if (!queryTokens.length) {
-        modal.classList.add('hidden');
-        results.innerHTML = '';
-        return;
-      }
-
-      title.textContent = `"${document.getElementById('search-input').value.trim()}" üçün nəticələr`;
-      const cards = filteredBuildings
-        .map(building => ({ building, matches: getSearchMatches(building, queryTokens) }))
-        .filter(item => item.matches.length);
-
-      if (!cards.length) {
-        results.innerHTML = '<div class="search-empty">Uyğun nəticə tapılmadı.</div>';
-        modal.classList.remove('hidden');
-        return;
-      }
-
-      results.innerHTML = cards.map(item => `
-        <button type="button" class="search-result-card" onclick="focusSearchResult(${item.building.id})">
-          <div class="search-result-top">
-            <strong>${escapeHtml(item.building.address)}</strong>
-            <span>${item.building.residentCount} nəfər</span>
-          </div>
-          ${item.matches.map(match => `
-            <div class="search-result-line">
-              <label>${match.type}</label>
-              <p>${highlightMatch(match.text, queryTokens)}</p>
+    <footer class="bg-accent text-white mt-12">
+        <div class="container mx-auto px-4 py-8">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center gap-2 mb-4">
+                        <img class="brand-logo" src="a-logo-with-punish-word.png" alt="Punish logo" style="width: 32px; height: auto;">
+                        <h4 class="text-lg font-bold">Punish MMC</h4>
+                    </div>
+                    <p class="text-gray-300 text-sm">Punish MMC məlumatlarının idarə edilməsi və paylaşılması sistemi.</p>
+                </div>
+                <div>
+                    <h5 class="text-lg font-semibold mb-4">Əlaqə</h5>
+                    <ul id="contact-list"></ul>
+                </div>
+                <div>
+                    <h5 class="text-lg font-semibold mb-4">Səhifələr</h5>
+                    <ul id="pages-list"></ul>
+                </div>
+                <div>
+                    <h5 class="text-lg font-semibold mb-4">Digər</h5>
+                    <ul id="other-list"></ul>
+                </div>
             </div>
-          `).join('')}
-        </button>
-      `).join('');
-
-      modal.classList.remove('hidden');
-    }
-
-    function focusSearchResult(id) {
-      const building = allBuildings.find(item => item.id === id);
-      if (!building) return;
-      closeSearchModal();
-      map.flyTo([building.lat, building.lng], 18, { duration: 0.8 });
-      setTimeout(() => {
-        if (markers[id]) {
-          markers[id].openPopup();
-        }
-      }, 500);
-    }
-
-    function populateStreetFilter() {
-      const streetFilter = document.getElementById('street-filter');
-      const currentValue = streetFilter.value;
-      const streets = [...new Set(allBuildings.map(b => getStreetName(b.address)).filter(Boolean))].sort((a, b) =>
-        a.localeCompare(b, 'az', { sensitivity: 'base' })
-      );
-
-      streetFilter.innerHTML = '<option value="">Bütün küçələr</option>';
-      streets.forEach(street => {
-        const option = document.createElement('option');
-        option.value = street;
-        option.textContent = street;
-        streetFilter.appendChild(option);
-      });
-
-      if (streets.includes(currentValue)) {
-        streetFilter.value = currentValue;
-      }
-    }
-
-    function matchesResidentFilter(building, range) {
-      const count = building.residentCount || 0;
-      if (!range) return true;
-      if (range === '1-20') return count >= 1 && count <= 20;
-      if (range === '21-100') return count >= 21 && count <= 100;
-      if (range === '101+') return count >= 101;
-      return true;
-    }
-
-    function renderVisibleBuildings(shouldFit = false) {
-      clearMarkers();
-      filteredBuildings.forEach(addMarker);
-      if (shouldFit && filteredBuildings.length) {
-        fitMapToMarkers();
-      }
-      updateCount();
-    }
-
-    function applyFilters(shouldFit = false) {
-      const query = normalizeSearch(document.getElementById('search-input').value);
-      const queryTokens = query ? query.split(' ').filter(Boolean) : [];
-      const street = document.getElementById('street-filter').value;
-      const residentRange = document.getElementById('resident-filter').value;
-
-      filteredBuildings = allBuildings.filter(building => {
-        const searchableText = normalizeSearch(`${building.address} ${building.registered}`);
-        const matchesQuery = !queryTokens.length || queryTokens.every(token => searchableText.includes(token));
-        const matchesStreet = !street || getStreetName(building.address) === street;
-        const matchesResidents = matchesResidentFilter(building, residentRange);
-        return matchesQuery && matchesStreet && matchesResidents;
-      });
-
-      renderVisibleBuildings(shouldFit);
-      openSearchModal(queryTokens);
-    }
-
-    function resetFilters() {
-      document.getElementById('search-input').value = '';
-      document.getElementById('street-filter').value = '';
-      document.getElementById('resident-filter').value = '';
-      closeSearchModal();
-      applyFilters(true);
-    }
-
-    function copyBuildingToForm(id) {
-      const building = allBuildings.find(b => b.id === id);
-      if (!building) return;
-
-      document.getElementById('f-address').value = building.address || '';
-      document.getElementById('f-lat').value = building.lat ?? '';
-      document.getElementById('f-lng').value = building.lng ?? '';
-
-      openPanel(null, false);
-      const container = document.getElementById('registrations-container');
-      container.innerHTML = '';
-      const lines = building.registered.split('\n').map(line => line.trim()).filter(line => line);
-      const registrations = lines.map(line => {
-        const match = line.match(/^(.*?)\s+ev\s*(?:№\s*)?(.+)$/i);
-        const name = (match?.[1] || line).trim();
-        const house = (match?.[2] || '').trim();
-        return { name, house, raw: line };
-      });
-
-      registrations.sort((a, b) => {
-        const aNum = parseFloat(a.house);
-        const bNum = parseFloat(b.house);
-        const aNumValid = !isNaN(aNum);
-        const bNumValid = !isNaN(bNum);
-        if (aNumValid && bNumValid && aNum !== bNum) return aNum - bNum;
-        if (a.house && b.house && a.house !== b.house) return a.house.localeCompare(b.house, 'az', { numeric: true, sensitivity: 'base' });
-        return a.name.localeCompare(b.name, 'az', { sensitivity: 'base' });
-      });
-
-      registrations.forEach(reg => addRegistration(reg.name, reg.house));
-
-      if (markers[id]) markers[id].closePopup();
-    }
-
-    function deleteBuilding(id) {
-      if (!confirm('Bu obyekti silmək istədiyinizə əminsiniz?')) return;
-      allBuildings = allBuildings.filter(b => b.id !== id);
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(allBuildings));
-      populateStreetFilter();
-      applyFilters(false);
-    }
-
-    function updateCount() {
-      const visible = filteredBuildings.length || 0;
-      const total = allBuildings.length || 0;
-      document.getElementById('count').textContent = `${visible} / ${total} ünvan`;
-    }
-
-    const DATA_FILE = 'data/voters.json';
-    const STORAGE_KEY = 'all_buildings';
-    const STORAGE_SOURCE = 'all_buildings_source';
-    const STORAGE_SOURCE_VALUE = 'voters_precise_v4';
-
-    function loadBuildings() {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      const source = localStorage.getItem(STORAGE_SOURCE);
-      if (stored && source === STORAGE_SOURCE_VALUE) {
-        allBuildings = JSON.parse(stored)
-          .filter(b => b.precise)
-          .map(normalizeBuilding);
-        populateStreetFilter();
-        applyFilters(true);
-        nextId = allBuildings.length > 0
-          ? Math.max(...allBuildings.map(b => b.id)) + 1
-          : 100;
-      } else {
-        loadFromSource();
-      }
-    }
-
-    function loadFromSource() {
-      fetch(DATA_FILE)
-        .then(res => res.json())
-        .then(buildings => {
-            const addressGroups = buildings.reduce((groups, b) => {
-              const fullAddress = (b.address || '').trim() || 'Naməlum';
-              if (!groups[fullAddress]) {
-                groups[fullAddress] = { address: fullAddress, registered: [], latSum: 0, lngSum: 0, count: 0, precise: false, source: '' };
-              }
-              const registeredLine = b.registered || `${b.name || ''}${(b.address && b.address.match(/ev\s*[\d\/\w]+/i)) ? ' ' + b.address.match(/ev\s*[\d\/\w]+/i)[0] : ''}`.trim();
-              if (registeredLine) {
-                groups[fullAddress].registered.push(registeredLine);
-              }
-              groups[fullAddress].latSum += parseFloat(b.lat) || 0;
-              groups[fullAddress].lngSum += parseFloat(b.lng) || 0;
-              groups[fullAddress].count += 1;
-              groups[fullAddress].precise = groups[fullAddress].precise || Boolean(b.precise);
-              if (!groups[fullAddress].source && b.source) {
-                groups[fullAddress].source = b.source;
-              }
-              return groups;
-            }, {});
-
-            allBuildings = Object.values(addressGroups)
-              .map((group, index) => normalizeBuilding({
-                id: 100 + index,
-                address: group.address,
-                registered: group.registered.join('\n'),
-                lat: group.count ? group.latSum / group.count : 40.5160,
-                lng: group.count ? group.lngSum / group.count : 50.1670,
-                precise: group.precise || false,
-                source: group.source || ''
-              }))
-              .filter(group => group.precise);
-
-            localStorage.setItem(STORAGE_KEY, JSON.stringify(allBuildings));
-            localStorage.setItem(STORAGE_SOURCE, STORAGE_SOURCE_VALUE);
-            populateStreetFilter();
-            applyFilters(true);
-            nextId = allBuildings.length > 0 ? Math.max(...allBuildings.map(b => b.id)) + 1 : 100;
-          });
-    }
-
-    function resetData() {
-      if (!confirm('Bütün dəyişikliklər silinəcək, seçici məlumatlarına qayıdacaq. Davam edilsin?')) return;
-      localStorage.removeItem(STORAGE_KEY);
-      localStorage.removeItem(STORAGE_SOURCE);
-      document.getElementById('search-input').value = '';
-      document.getElementById('street-filter').value = '';
-      document.getElementById('resident-filter').value = '';
-      Object.values(markers).forEach(m => map.removeLayer(m));
-      markers = {};
-      allBuildings = [];
-      filteredBuildings = [];
-      loadBuildings();
-    }
-
-    function saveChanges() {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(allBuildings));
-      localStorage.setItem(STORAGE_SOURCE, STORAGE_SOURCE_VALUE);
-      alert('Dəyişikliklər yadda saxlanıldı. Saytı bağlasanız belə məlumatlar qalacaq.');
-    }
-
-    document.getElementById('search-input').addEventListener('input', () => applyFilters(false));
-    document.getElementById('street-filter').addEventListener('change', () => applyFilters(false));
-    document.getElementById('resident-filter').addEventListener('change', () => applyFilters(false));
-    document.getElementById('filter-reset-btn').addEventListener('click', resetFilters);
-
-    loadBuildings();
-
-    function addRegistration(name = '', house = '') {
-      const container = document.getElementById('registrations-container');
-      const row = document.createElement('div');
-      row.className = 'registration-row';
-      row.innerHTML = `
-        <div class="form-group">
-          <label>Ad Soyad *</label>
-          <input type="text" class="f-name" placeholder="məs. Pünhan Babazadə" value="${name}"/>
+            <div class="mt-8 pt-6 border-t border-gray-700 text-center text-gray-400 text-sm">
+                <p>© 2024 Punish MMC. Bütün hüquqlar qorunur.</p>
+            </div>
         </div>
-        <div class="form-group">
-          <label>Ev nömrəsi *</label>
-          <input type="text" class="f-house-number" placeholder="məs. 1501" value="${house}"/>
-        </div>
-        <button type="button" onclick="removeRegistration(this)" style="margin-top:20px; background:#b71c1c; color:#fff; border:none; padding:5px 10px; border-radius:4px; cursor:pointer;">-</button>
-      `;
-      container.appendChild(row);
-    }
+    </footer>
 
-    function removeRegistration(btn) {
-      const container = document.getElementById('registrations-container');
-      if (container.children.length > 1) {
-        btn.parentElement.remove();
-      } else {
-        alert('Ən azı bir qeydiyyat olmalıdır.');
-      }
-    }
+    <script>
+        // Data Layer
+        const navItems = [
+            { "label": "Ana Səhifə", "href": "#home", "icon": "fas fa-home" },
+            { "label": "Haqqımızda", "href": "#about", "icon": "fas fa-info-circle" },
+            { "label": "Xəritə", "href": "https://www.google.com/maps/place/Polis+Akademiyas%C4%B1/@40.4910664,50.1645962,15.08z/data=!4m6!3m5!1s0x40305ec5dc0edd9f:0x21081f71a7aeceb4!8m2!3d40.4872077!4d50.1679784!16s%2Fg%2F11bwh9v9f7?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D", "icon": "fas fa-map" },
+            { "label": "Əlaqə", "href": "#contact", "icon": "fas fa-envelope" }
+        ];
 
-    function closePanel() {
-      document.getElementById('side-panel').classList.remove('open');
-      document.getElementById('success-msg').style.display = 'none';
-    }
+        const featureItems = [
+            { 
+                "title": "Admin İdarəetmə", 
+                "description": "Tam sistem nəzarəti, məlumat əlavəsi/silənməsi, istifadəçi rolları.", 
+                "icon": "fas fa-user-cog",
+                "color": "text-primary"
+            },
+            { 
+                "title": "İstifadəçi Erişimi", 
+                "description": "Məlumatları görüntüləmək, axtarmaq, şəxsi hesabı idarə etmək.", 
+                "icon": "fas fa-user-check",
+                "color": "text-green-600"
+            },
+            { 
+                "title": "Təhlükəsizlik", 
+                "description": "Ayrı-ayrı giriş nöqtələri ilə rol bazlı təhlükəsizlik və məlumat qorunması.", 
+                "icon": "fas fa-shield-alt",
+                "color": "text-yellow-600"
+            }
+        ];
 
-    function openPanel(coords, resetRegistrations = true) {
-      if (coords) {
-        document.getElementById('f-lat').value = coords.lat.toFixed(6);
-        document.getElementById('f-lng').value = coords.lng.toFixed(6);
-      }
-      if (resetRegistrations) {
-        document.getElementById('registrations-container').innerHTML = '';
-        addRegistration();
-      }
-      document.getElementById('side-panel').classList.add('open');
-    }
+        const contactItems = [
+            { "label": "Email: punhanbabazade00000@gmail.com", "href": "mailto:punhanbabazade00000@gmail.com", "icon": "fas fa-envelope" },
+            { "label": "Telefon: +994 51 311 43 10", "href": "tel:+994513114310", "icon": "fas fa-phone" },
+            { "label": "Ünvan: Bakı, Azərbaycan", "href": "#address", "icon": "fas fa-map-marker-alt" }
+        ];
 
-    function togglePickMode() {
-      pickMode ? cancelPickMode() : startPickMode();
-    }
+        const pageItems = [
+            { "label": "Ana Səhifə", "href": "#home" },
+            { "label": "Admin Giriş", "href": "#admin" },
+            { "label": "İstifadəçi Giriş", "href": "#user" },
+            { "label": "Xəritə", "href": "https://www.google.com/maps/place/Polis+Akademiyas%C4%B1/@40.4910664,50.1645962,15.08z/data=!4m6!3m5!1s0x40305ec5dc0edd9f:0x21081f71a7aeceb4!8m2!3d40.4872077!4d50.1679784!16s%2Fg%2F11bwh9v9f7?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D" },
+            { "label": "FAQ", "href": "#faq" }
+        ];
 
-    function startPickMode() {
-      pickMode = true;
-      document.getElementById('pick-banner').style.display = 'block';
-      map.getContainer().style.cursor = 'crosshair';
-    }
+        const otherItems = [
+            { "label": "Gizlilik Siyasəti", "href": "#privacy" },
+            { "label": "İstifadə Şərtləri", "href": "#terms" },
+            { "label": "Kömək", "href": "#help" },
+            { "label": "Status", "href": "#status" }
+        ];
 
-    function cancelPickMode() {
-      pickMode = false;
-      document.getElementById('pick-banner').style.display = 'none';
-      map.getContainer().style.cursor = '';
-    }
-
-    map.on('click', function(e) {
-      if (!pickMode) return;
-      cancelPickMode();
-      openPanel(e.latlng);
-    });
-
-    function addBuilding() {
-      const address = document.getElementById('f-address').value.trim();
-      const lat     = parseFloat(document.getElementById('f-lat').value);
-      const lng     = parseFloat(document.getElementById('f-lng').value);
-
-      let registered = '';
-      const names = document.querySelectorAll('.f-name');
-      const houses = document.querySelectorAll('.f-house-number');
-      for (let i = 0; i < names.length; i++) {
-        const name = names[i].value.trim();
-        const house = houses[i].value.trim();
-        if (name && house) {
-          registered += `${name} ev №${house}\n`;
+        // Reusable Render Functions
+        function renderNavMenu(items) {
+            return items.map(item => "<li><a href=\"" + item.href + "\" class=\"text-gray-700 hover:text-primary font-medium flex items-center gap-2\"><i class=\"" + item.icon + "\"></i>" + item.label + "</a></li>").join("");
         }
-      }
-      registered = registered.trim();
 
-      if (!address || !registered || isNaN(lat) || isNaN(lng)) {
-        alert('Zəhmət olmasa bütün məcburi xanaları doldurun (*)');
-        return;
-      }
+        function renderFeatureCards(items) {
+            return items.map(item => "<div class=\"bg-white border border-gray-200 rounded-lg p-5 shadow-sm\"><div class=\"flex items-center gap-3 mb-3\"><i class=\"" + item.icon + " " + item.color + " text-xl\"></i><h4 class=\"font-bold text-gray-800\">" + item.title + "</h4></div><p class=\"text-gray-600\">" + item.description + "</p></div>").join("");
+        }
 
-      const newBuilding = { id: nextId++, address, registered, lat, lng, precise: true, source: 'Manual əlavə' };
+        function renderContactList(items) {
+            return items.map(item => "<li class=\"mb-2\"><a href=\"" + item.href + "\" class=\"text-gray-300 hover:text-white flex items-center gap-2 text-sm\"><i class=\"" + item.icon + "\"></i>" + item.label + "</a></li>").join("");
+        }
 
-      allBuildings.push(newBuilding);
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(allBuildings));
-      localStorage.setItem(STORAGE_SOURCE, STORAGE_SOURCE_VALUE);
-      populateStreetFilter();
-      applyFilters(false);
+        function renderPageList(items) {
+            return items.map(item => "<li class=\"mb-2\"><a href=\"" + item.href + "\" class=\"text-gray-300 hover:text-white text-sm\">" + item.label + "</a></li>").join("");
+        }
 
-      map.flyTo([lat, lng], 17);
+        function renderOtherList(items) {
+            return items.map(item => "<li class=\"mb-2\"><a href=\"" + item.href + "\" class=\"text-gray-300 hover:text-white text-sm\">" + item.label + "</a></li>").join("");
+        }
 
-      document.getElementById('f-address').value = '';
-      document.querySelectorAll('.f-name, .f-house-number, #f-lat, #f-lng').forEach(el => el.value = '');
-      document.getElementById('registrations-container').innerHTML = '';
-      addRegistration();
+        // DOM Initialization
+        document.getElementById("nav-menu").innerHTML = renderNavMenu(navItems);
+        document.getElementById("mobile-nav-list").innerHTML = renderNavMenu(navItems);
+        document.getElementById("features-container").innerHTML = renderFeatureCards(featureItems);
+        document.getElementById("contact-list").innerHTML = renderContactList(contactItems);
+        document.getElementById("pages-list").innerHTML = renderPageList(pageItems);
+        document.getElementById("other-list").innerHTML = renderOtherList(otherItems);
 
-      document.getElementById('success-msg').style.display = 'block';
-      setTimeout(() => document.getElementById('success-msg').style.display = 'none', 3000);
-    }
+        // Mobile Menu Toggle
+        document.getElementById("mobile-menu-btn").addEventListener("click", function() {
+            const mobileMenu = document.getElementById("mobile-menu");
+            mobileMenu.classList.toggle("hidden");
+        });
 
-    function openGoogleMaps() {
-      window.open('https://maps.google.com/?q=40.5160,50.1670', '_blank');
-    }
-  </script>
+        // Form Submission Handling
+        document.getElementById("admin-form").addEventListener("submit", function(e) {
+            e.preventDefault();
+            const username = document.getElementById("admin-username").value;
+            const password = document.getElementById("admin-password").value;
+            
+            if (username === 'admin' && password === 'admin') {
+                localStorage.setItem('role', 'admin');
+                alert("Admin girişi uğurlu oldu! Xəritə panelə yönləndirilir...");
+                window.location.href = "map.html";
+            } else {
+                alert("Yanlış admin giriş məlumatları.");
+            }
+        });
 
+        document.getElementById("user-form").addEventListener("submit", function(e) {
+            e.preventDefault();
+            const email = document.getElementById("user-email").value;
+            const password = document.getElementById("user-password").value;
+            
+            if (email && password) {
+                localStorage.setItem('role', 'user');
+                alert("İstifadəçi girişi uğurlu oldu! Xəritə panelə yönləndirilir...");
+                // In real implementation, redirect to user dashboard
+                window.location.href = "map.html";
+            } else {
+                alert("Email və password daxil edilməlidir.");
+            }
+        });
+
+        // Registration Button
+        document.getElementById("register-btn").addEventListener("click", function() {
+            alert("Yeni istifadəçi qeydiyyatı səhifəsinə yönləndirilir...");
+            // In real implementation, redirect to registration page
+            // window.location.href = "/register";
+        });
+
+        // Delegated Event Handling for Navigation Links
+        document.addEventListener("click", function(event) {
+            const link = event.target.closest("a[href^='#']");
+            if (!link) return;
+            event.preventDefault();
+            const href = link.getAttribute("href");
+            if (href === "#home") {
+                window.scrollTo({ top: 0, behavior: "smooth" });
+            } else {
+                // For other hash links, simulate navigation
+                alert("Navigasiya: " + href.replace("#", "") + " səhifəsi");
+            }
+        });
+    </script>
 </body>
 </html>
