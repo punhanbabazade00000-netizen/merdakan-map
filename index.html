@@ -168,6 +168,30 @@
         </div>
     </footer>
 
+    <!-- AI Assistant Widget -->
+    <div id="ai-assistant" class="fixed bottom-4 right-4 z-50">
+        <button id="ai-toggle" class="bg-primary text-white p-4 rounded-full shadow-lg hover:bg-secondary transition duration-300">
+            <i class="fas fa-robot text-xl"></i>
+        </button>
+        <div id="ai-popup" class="hidden absolute bottom-16 right-0 bg-white border border-gray-300 rounded-lg shadow-lg p-4 w-80">
+            <div class="flex justify-between items-center mb-3">
+                <h4 class="font-bold text-accent">AI Köməkçisi</h4>
+                <button id="ai-close" class="text-gray-500 hover:text-gray-700">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div id="ai-messages" class="mb-3 max-h-40 overflow-y-auto text-sm">
+                <p class="text-gray-700">Salam! Necə kömək edə bilərəm?</p>
+            </div>
+            <div class="flex gap-2">
+                <input type="text" id="ai-input" placeholder="Sualınızı yazın..." class="flex-1 px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary">
+                <button id="ai-send" class="bg-primary text-white px-4 py-2 rounded-lg hover:bg-secondary transition duration-300">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
     <script>
         // Data Layer
         const navItems = [
@@ -304,6 +328,62 @@
                 alert("Navigasiya: " + href.replace("#", "") + " səhifəsi");
             }
         });
+
+        // AI Assistant Functionality
+        const aiToggle = document.getElementById("ai-toggle");
+        const aiPopup = document.getElementById("ai-popup");
+        const aiClose = document.getElementById("ai-close");
+        const aiInput = document.getElementById("ai-input");
+        const aiSend = document.getElementById("ai-send");
+        const aiMessages = document.getElementById("ai-messages");
+
+        aiToggle.addEventListener("click", () => {
+            aiPopup.classList.toggle("hidden");
+        });
+
+        aiClose.addEventListener("click", () => {
+            aiPopup.classList.add("hidden");
+        });
+
+        aiSend.addEventListener("click", () => {
+            const message = aiInput.value.trim();
+            if (message) {
+                addMessage("Siz: " + message, "user");
+                aiInput.value = "";
+                
+                /* 
+                   Gələcəkdə Backend qurulduqda istifadə ediləcək blok:
+                   fetch('https://sizin-serveriniz.com/api/chat', {
+                       method: 'POST',
+                       headers: { 'Content-Type': 'application/json' },
+                       body: JSON.stringify({ prompt: message })
+                   })
+                   .then(res => res.json())
+                   .then(data => addMessage("AI: " + data.reply, "ai"))
+                   .catch(err => addMessage("AI: Bağlantı xətası!", "ai"));
+                */
+
+                // Hələlik simulyasiya davam edir:
+                setTimeout(() => {
+                    addMessage("AI: Bu suala cavab vermək üçün backend xidməti qoşulmalıdır.", "ai");
+                }, 1000);
+            }
+        });
+
+        aiInput.addEventListener("keypress", (e) => {
+            if (e.key === "Enter") {
+                aiSend.click();
+            }
+        });
+
+        function addMessage(text, type) {
+            const p = document.createElement("p");
+            // AI cavabları üçün göy rəng (text-blue-600) tətbiq edilir
+            p.className = "mb-2 " + (type === "ai" ? "text-blue-600 font-semibold" : "text-gray-700");
+            p.textContent = text;
+            aiMessages.appendChild(p);
+            aiMessages.scrollTop = aiMessages.scrollHeight;
+        }
     </script>
 </body>
 </html>

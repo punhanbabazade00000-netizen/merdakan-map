@@ -14,7 +14,7 @@
 
   <header class="topbar">
     <div class="brand-block">
-      <img class="brand-logo" src="a-logo-with-punish-word.png" alt="Punish logo"/>
+      <img class="brand-logo" src="a-logo-with-punish-word.png" alt="Punish logo" onclick="openLogoModal()"/>
       <div class="brand-copy">
         <p class="eyebrow">Punish MMC</p>
       </div>
@@ -28,7 +28,7 @@
             <circle cx="11" cy="11" r="6.5" stroke="currentColor" stroke-width="1.8"/>
           </svg>
         </span>
-        <input id="search-input" type="search" placeholder="Ünvan, ev nömrəsi və ya sakin adı ilə axtar"/>
+        <input id="search-input" type="search" placeholder="Google Earth-da axtar"/>
       </div>
 
       <div class="filter-grid">
@@ -50,6 +50,7 @@
         </label>
 
         <button id="filter-reset-btn" type="button">Filtrləri sıfırla</button>
+        <button id="gearth-search-btn" type="button">Google Earth-də axtar</button>
       </div>
     </div>
 
@@ -162,6 +163,51 @@
     </div>
   </div>
 
+  <div id="gearth-modal" class="search-modal hidden">
+    <div class="search-modal-backdrop" onclick="closeGearthModal()"></div>
+    <div class="search-modal-card">
+      <div class="search-modal-head">
+        <div>
+          <p class="search-modal-eyebrow">Google Earth Axtarışı</p>
+          <h3>Uyğun nəticələr tapılmadı</h3>
+        </div>
+        <button type="button" class="search-modal-close" onclick="closeGearthModal()">×</button>
+      </div>
+      <div style="padding:20px;">
+        <p id="gearth-search-query" style="margin-bottom:12px; color:#1f2937;">Axtardığınız: <strong>–</strong></p>
+        <p>Bu sorğu üçün xəritədə uyğun nəticə tapılmadı. Aşağıdakı düymə ilə Google Earth-a baxa bilərsiniz.</p>
+        <button type="button" onclick="openGoogleEarthLink()" style="margin-top:15px; background:#2563eb; color:#fff; border:none; padding:10px 14px; border-radius:6px; cursor:pointer;">Google Earth-da aç</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="logo-modal" class="search-modal hidden">
+    <div class="search-modal-backdrop" onclick="closeLogoModal()"></div>
+    <div class="search-modal-card">
+      <button type="button" class="search-modal-close" onclick="closeLogoModal()">×</button>
+      <img src="a-logo-with-punish-word.png" alt="Punish logo" style="max-width: 100%; height: auto;">
+    </div>
+  </div>
+
+  <div id="ai-assistant" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+    <button id="ai-toggle" style="background: #2563eb; color: white; border: none; border-radius: 50%; width: 50px; height: 50px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); cursor: pointer;">
+      🤖
+    </button>
+    <div id="ai-popup" style="display: none; position: absolute; bottom: 60px; right: 0; background: white; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); padding: 16px; width: 300px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+        <h4 style="margin: 0; font-weight: bold;">AI Köməkçisi</h4>
+        <button id="ai-close" style="background: none; border: none; color: #666; cursor: pointer;">×</button>
+      </div>
+      <div id="ai-messages" style="margin-bottom: 12px; max-height: 150px; overflow-y: auto; font-size: 14px;">
+        <p>Salam! Necə kömək edə bilərəm?</p>
+      </div>
+      <div style="display: flex; gap: 8px;">
+        <input type="text" id="ai-input" placeholder="Sualınızı yazın..." style="flex: 1; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+        <button id="ai-send" style="background: #2563eb; color: white; border: none; padding: 8px; border-radius: 4px; cursor: pointer;">Göndər</button>
+      </div>
+    </div>
+  </div>
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script>
     const map = L.map('map').setView([40.4879, 50.1470], 15);
@@ -178,6 +224,8 @@
     let markers = {};
     let nextId = 100;
     let pickMode = false;
+    let lastGearthQuery = '';
+    let gearthNoResult = false;
     function getMarkerLabel(address = '') {
       const match = address.match(/ev\s+([\dA-Z/]+)/i);
       if (match) return match[1].slice(0, 4).toUpperCase();
@@ -349,6 +397,30 @@
       document.getElementById('search-modal').classList.add('hidden');
     }
 
+    function closeGearthModal() {
+      document.getElementById('gearth-modal').classList.add('hidden');
+    }
+
+    function openLogoModal() {
+      document.getElementById('logo-modal').classList.remove('hidden');
+    }
+
+    function closeLogoModal() {
+      document.getElementById('logo-modal').classList.add('hidden');
+    }
+
+    function openGoogleEarthLink() {
+      const query = lastGearthQuery || document.getElementById('search-input').value.trim();
+      if (!query) {
+        alert('Axtarış üçün mətn daxil edin.');
+        return;
+      }
+      closeGearthModal();
+      gearthNoResult = false;
+      lastGearthQuery = '';
+      window.open(`https://earth.google.com/web/search/${encodeURIComponent(query)}`, '_blank');
+    }
+
     function openSearchModal(queryTokens = []) {
       const modal = document.getElementById('search-modal');
       const title = document.getElementById('search-modal-title');
@@ -463,6 +535,57 @@
       document.getElementById('resident-filter').value = '';
       closeSearchModal();
       applyFilters(true);
+    }
+
+    function searchInGoogleEarth() {
+      const searchInput = document.getElementById('search-input');
+      const query = searchInput.value.trim();
+      searchInput.style.border = '1px solid #ccc';
+      searchInput.style.backgroundColor = '';
+      if (!query) {
+        searchInput.style.border = '2px solid #f59e0b';
+        alert('Axtarış üçün mətn daxil edin.');
+        return;
+      }
+      fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&limit=1`)
+        .then(response => response.json())
+        .then(data => {
+          if (data.length > 0) {
+            gearthNoResult = false;
+            lastGearthQuery = '';
+            const place = data[0];
+            const lat = parseFloat(place.lat);
+            const lng = parseFloat(place.lon);
+            const address = place.display_name;
+            searchInput.style.border = '2px solid #22c55e';
+            searchInput.style.backgroundColor = '#ecfdf5';
+            const marker = L.marker([lat, lng], {
+              icon: L.divIcon({
+                className: 'gearth-marker',
+                html: `<div style="background:#2563eb; border:2px solid white; border-radius:50%; width:18px; height:18px;"></div>`,
+                iconSize: [18, 18],
+                iconAnchor: [9, 9]
+              })
+            }).addTo(map)
+              .bindPopup(`<b>${address}</b><br/>Lat: ${lat.toFixed(6)}, Lng: ${lng.toFixed(6)}`)
+              .openPopup();
+            map.flyTo([lat, lng], 18);
+          } else {
+            lastGearthQuery = query;
+            gearthNoResult = true;
+            document.getElementById('gearth-search-query').innerHTML = `Axtardığınız: <strong>${query}</strong>`;
+            searchInput.style.border = '2px solid #f59e0b';
+            searchInput.style.backgroundColor = '#fff7ed';
+            document.getElementById('gearth-modal').classList.remove('hidden');
+          }
+        })
+        .catch(error => {
+          console.error('Axtarış xətası:', error);
+          gearthNoResult = false;
+          searchInput.style.border = '2px solid #f59e0b';
+          searchInput.style.backgroundColor = '#fff7ed';
+          alert('Axtarış zamanı xəta baş verdi.');
+        });
     }
 
     function viewBuildingInfo(id) {
@@ -601,10 +724,25 @@
       alert('Dəyişikliklər yadda saxlanıldı. Saytı bağlasanız belə məlumatlar qalacaq.');
     }
 
-    document.getElementById('search-input').addEventListener('input', () => applyFilters(false));
+    const searchInput = document.getElementById('search-input');
+    searchInput.addEventListener('input', () => {
+      applyFilters(false);
+      gearthNoResult = false;
+    });
+    searchInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (gearthNoResult) {
+          openGoogleEarthLink();
+        } else {
+          searchInGoogleEarth();
+        }
+      }
+    });
     document.getElementById('street-filter').addEventListener('change', () => applyFilters(false));
     document.getElementById('resident-filter').addEventListener('change', () => applyFilters(false));
     document.getElementById('filter-reset-btn').addEventListener('click', resetFilters);
+    document.getElementById('gearth-search-btn').addEventListener('click', searchInGoogleEarth);
 
     loadBuildings();
 
@@ -795,6 +933,62 @@
 
     function logout() {
       window.location.href = "index.html";
+    }
+
+    // AI Assistant Functionality
+    const aiToggle = document.getElementById("ai-toggle");
+    const aiPopup = document.getElementById("ai-popup");
+    const aiClose = document.getElementById("ai-close");
+    const aiInput = document.getElementById("ai-input");
+    const aiSend = document.getElementById("ai-send");
+    const aiMessages = document.getElementById("ai-messages");
+
+    aiToggle.addEventListener("click", () => {
+      aiPopup.style.display = aiPopup.style.display === "none" ? "block" : "none";
+    });
+
+    aiClose.addEventListener("click", () => {
+      aiPopup.style.display = "none";
+    });
+
+    aiSend.addEventListener("click", () => {
+      const message = aiInput.value.trim();
+      if (message) {
+        addMessage("Siz: " + message, "user");
+        aiInput.value = "";
+
+        /* 
+           API inteqrasiyası nümunəsi:
+           fetch('YOUR_BACKEND_URL/chat', {
+               method: 'POST',
+               headers: { 'Content-Type': 'application/json' },
+               body: JSON.stringify({ query: message })
+           })
+           .then(res => res.json())
+           .then(data => addMessage("AI: " + data.response, "ai"))
+           .catch(() => addMessage("AI: Xəta baş verdi.", "ai"));
+        */
+
+        // Müvəqqəti simulyasiya:
+        setTimeout(() => {
+          addMessage("AI: Real cavab almaq üçün backend API-ya qoşulmaq lazımdır.", "ai");
+        }, 1000);
+      }
+    });
+
+    aiInput.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") {
+        aiSend.click();
+      }
+    });
+
+    function addMessage(text, type) {
+      const p = document.createElement("p");
+      p.style.margin = "4px 0";
+      if (type === "ai") p.style.color = "#2563eb"; // AI cavabları üçün göy rəng
+      p.textContent = text;
+      aiMessages.appendChild(p);
+      aiMessages.scrollTop = aiMessages.scrollHeight;
     }
   </script>
 
